@@ -4,6 +4,10 @@ date: '2013-09-23 12:44:00'
 template: post.html
 ---
 
+<div class="alert alert-info">
+<strong>Update!</strong> The internet has a much better solution for deployment <a href="http://luke.vivier.ca/wintersmith-with-wercker/">HERE</a>. If you'd prefer, as I do, to deploy to s3 instead of gh-pages, combine it with <a href="http://devcenter.wercker.com/articles/deployment/jekylls3.html">this article</a>.
+</div>
+
 This post will be a dramatic departure from my typically self-absorbed missives about running, life, homemaking, and various other topics that interest only a handful of dedicated friends...and, of course, my mom. By comparison, the following may seem like equally purposeless, but oddly placed *nerd-mumble*. However, I believe it reflects simplicity, predictability, and sustainability that can inform other aspects of life, so here we go...
 
 ### The situation
