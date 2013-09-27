@@ -11,4 +11,3 @@ deploy:
         token: $GH_TOKEN
         basedir: build
         domain: www.slowtheory.com
-        deploy:
