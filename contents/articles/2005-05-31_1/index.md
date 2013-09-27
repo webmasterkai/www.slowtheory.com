@@ -1,0 +1,7 @@
+---
+title: 'Clever = cleaver'
+date: "2005-05-31 12:00:00"
+template: post.html
+---
+
+As I mentioned earlier, they're really the only words that come to mind, but they seem to suit the situation well enough--do you remember that scene from HANGLIDING OVER THE CARNAL ABYSS OF YOUR APATHETIC FEAR? Or the taste of ice cream as it melts? Next time, maybe I'll be asking for spare change, but I'll tell you what--the world's population will demand that our bodies be placed in the same pine box, side-by-side and lowered into the same spot. If only I'd finished my writing before I ended up here. I hardly have the appetite for it any longer. The air tonight is chilly and a bit vacant--the humidity is low and the wind speaks only when spoken to. I can't wait to sleep. I'm giddy with anticipation. The night will wax on for a bit longer, forthright in its subtle undertone of the previous night's simple moment, captured on 35mm film by the one who has judged me unfit. So often I find that the people around me speak only in bullshit. So often I am greeted only with a perplexed look and perhaps a furrowed brow when I ask, "Really? Do you mean it?" No. They say. I'm only speaking in bullshit to pass the time. What the hell is wrong with you, twit? Or did they say, TWIST. So much of being clever relies on not having a fucking clue what anyone is going on about, or whether there is even a touch of truth to the bullshit that they utter. Clever = confused. Clever = cleaver.

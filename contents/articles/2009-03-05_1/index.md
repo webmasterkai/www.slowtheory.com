@@ -1,0 +1,17 @@
+---
+title: 'Hawaii post #3'
+date: "2009-03-05 12:00:00"
+template: post.html
+---
+
+Seattle. After an uneventful flight to Seattle, we are stuck. Our connecting flight was running late because of bad weather in San Francisco, so there was no chance we could get to Hawaii today via that route. "What should we do?" NWA on the telephone sent us to NWA in the airport who proceeded to send us to Alaskan Airlines who then sent us to the customer service counter where they eyed us suspiciously before asking, "Did they really tell you to come here?" After some fucking around they sent us back to NWA in the airport, right where we'd originally been rejected with only a tinge of malice. Between each stop we enjoyed no fewer than two trips on the airport tram. Supposedly we're leaving directly for Honolulu in a few hours. I'm not sure I believe it.
+
+\*\*\*
+
+Honolulu - 6:30am. Yesterday was our first day on the island. I was eager to get out of the amusement park part of town. My sense were overwhelmed with the artificial sounds, the pastels plastered over the lush backdrop of "real things". Bizarre and horrifying at times. I plotted a route to Matt's. Everything that I'd read about transportational cycling on Oahu suggested that it would be a terrible and dangerous experience. It was--massive four lane speedways with only the occasional "share the road" sign to give a false sense of security. Everywhere I went I felt at perpetual and inevitable risk. Tourists and the careless. I've read the propaganda--Hawaii moves slower. Not true. It's a maddening speedway with not even the slightest infrastructure for moving by human power. I survived. Helmetless and shaking, I survived.
+
+Things quickly improved as we headed upward. Matt was taking me to check out part of the Hurt 100 ultramarathon course. We started towards Manoa Falls, an easy hike and tourist hotspot. Chickens everywhere. What? The weather was great. Light breeze and sunshine. Amazing. The trail was littered with tourists moving slowly in their flip flops. It got a lot bettter as we went higher. A girl from Toronto took a picture for us. She was obsessed with photographic composition. "I want it from this angle...I want this hidden...etc." I envied her ability to communicate. Even as the people stacked up behind us she was unrelenting. We left the falls behind and most of the people. Everyone walks to the falls and back down. The trail was picturesque. Bamboo forests. Vines. Meandering switchbacks. I was awestruck at times. We made it to the top and stopped for a sandwich. I looked out at the city below us. It suddenly seemed so small and insignificant. The skyscrapers of Waikiki became soundless blips on the horizon. It was funny to think of so many people struggling to get to Hawaii, and then spending all of their time on a small strip of land. I swiveled my head, trying to take it all in, forever. The hike back down was fun. Bounding effortlessly. Running. Jumping. I felt like a child playing in the woods. Everything seemed new and exciting and I had a renewed energy for life. The world shrinking. Everything inside of 150 miles, surrounded by nothing but an unfathomable blue expanse. Things start mattering more. Everything connected and integral to experience. 
+
+![](http://slowtheory.openphoto.me.s3.amazonaws.com/custom/196912/00032-7ffe5a_600x600.jpg)
+
+![](http://slowtheory.openphoto.me.s3.amazonaws.com/custom/200902/00049-7fa236_600x600.jpg)

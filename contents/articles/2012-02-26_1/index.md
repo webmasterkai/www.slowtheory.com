@@ -1,0 +1,14 @@
+---
+title: 'Salsa Fargo and the Frozen Fat Forty'
+date: "2012-02-26 12:00:00"
+template: post.html
+description:
+tags: ['snowbiking', 'bikes']
+categories: Cycling
+---
+
+I've wanted a Salsa Fargo since I first spied photos of it on the interwebs months prior to its release. *This thing...this thing...is amazing.* My opinion of that has been somewhat tempered over the years, as I've come to realize that for most things its amenities are perhaps...\*ahem\* gratuitous. Fine. Whatever. Nonetheless, presented a unique opportunity to own a Fargo, I knew that I needed to take it.  
+  
+![Salsa Fargo](http://f.slowtheory.com/6924278391_e8d5bebb97.jpg)
+  
+I built it up with SRAM X9, Hope Pro II hubs, Stan's Arch EX rims, Continental Race King 2" tires, Thomson stem/post, Woodchipper bars, and a Chris King headset. The vision at this point is to use it for non-technical singletrack/mixed terrain riding (example: taking the long route through the River bottoms on my way to work), a handful of gravel events, and perhaps a more ambitious dirt tour towards autumn. On Saturday I went to the Frozen Fat Forty. It was a fat bike only mountain bike race on the relatively new trails at Elm Creek. From the moment Ugur dropped me off, I could tell that it would be a well run and incredibly enjoyable event. The sponsors were into it. It wasn't just another event with obligatory product placement and shop/organization promotion. It was cool. I stayed near the back at the Le Mans style start. I wasn't aiming to be particularly competitive as 1.) I don't often "race" mountain bike type events, and 2.) I could only race for ~four hours before I needed to leave for a wedding. The format was a bit loose, but you could either compete for fastest to four laps (~40 miles) or go for the most laps in six hours. The first part of the race featured clustered groups. With over fifty participants it was bound to go that way. For a while I rode behind someone who suffered the misfortune of a blown up alfine, and consequently was riding a ratio something like 1:2. It was fun to watch. I could tell that on a properly functioning bike he would have been one of the fast ones. Eventually I passed him and things thinned out. For the next two and a half laps I rode primarily by myself, passing only a handful of people and not getting passed. It was peaceful. The trail was in great shape. By the third lap the sun had created some muddy spots, but all things considered the event benefitted from some good luck. I finished my third lap and waited for Michelle to pick me up. Great day. The photo below appears on the 45nrth Facebook page (http://www.facebook.com/45nrth/) and appropriate photo credit goes to them. Please check out their site if you're in the market for fat bike tires, especially for singletrack use. The top three finishers were all rolling the Husker Du front and rear.

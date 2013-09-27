@@ -1,0 +1,9 @@
+---
+title: 'more dirt bikes'
+date: "2009-07-15 12:00:00"
+template: post.html
+---
+
+First of all, I failed completely at photos. I had my camera in my back pocket the entire ride and was too lazy to pull it out even once. It's how I do things on bike rides. I either start off quickly, taking dozens of obscenely similar photos or I never start at all. Habit. Microhabit, forming around the deliberate nuances of my repetitive brain. Later in the ride I had a full bottle of water that I didn't use while others were desperately seeking water. It's how my brain (doesn't) work. We met at my old apartment. Ryan and a few of my things will live there for another couple of weeks. I need to move/eliminate my weights. My coffee table. A few other things. It's middleevening. Now. Morning. I felt weird on my bicycle. My legs were tired. "The wind." No. "Inferior technology." No. "Cramps?" No. "Inadequacy." No answer. So I went on. Pushing towards the start of the ride. I've decided that I like rides that don't start where I live. I have a chance to get comfortable with things before I act awkward and frightened in front of other people. Once everyone had arrived we started south with the vague notion of riding out of mendota on the dirt towards the river bottoms. We mostly did this. Fourteen miles of dirt, except we ended up ten miles east of where I thought we were. The trails from the wildlife refuge to the river bottoms are a mess of splits and dangerous two way traffic. We'd had enough, and Jeff needed to get home to take delivery of his new giant television, so we headed north on the pavement to the Greenway. I went one way, they went the other.
+
+Later I went to target. Milk, tide, crayons, etc. On the way home I helped a lost couple find the cedar lake trail. Right now I'm drinking a surly bitter directly from the can. Life is good.

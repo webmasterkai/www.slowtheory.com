@@ -1,0 +1,9 @@
+---
+title: "sleeplessness: part I"
+date: "2007-04-17 12:00:00"
+template: post.html
+categories: 
+tags: 
+---
+
+I slept terribly last night. Woke up ejecting the remaining bits of my bad around 4am. Glanced at the slightly blurred imprint of the mattress on my arm. Skin is itchy, tingly, barely alive. Can't sleep. Settle into a slouch on my sofa. Watch internet highlights of the Paris-Roubaix. Study the shadows in the kitchen where the only source of light does her thing. Should be doing a bunch of different things, manipulating time so that everything is up to speed, decked out with the weather. I intended to write about my amazing scrabble comeback. Here's how the story was supposed to start: wasn't very interested at first, just throwing down words that occurred to me and seemed to suit the space on the board, or allowed me to feign a bit of cleverness by positioning them at the perfect time and in the perfect place. My biology started to change stride midgame. Maybe it was the coffee. I started to think about points. I started to crawl my way back while darting my eyes carelessly as though I were amused only with the room's lighting and the slight rattle of my window drunkenly swaying back and forth in the spring breeze. I tallied the points. I pulled to a tie, but I was down two turns from a combination of a misspelled word and discarding letters in search of a u for my q. This is where the story goes wrong. It was ryan's turn. He struck brilliantly, pushing the gap to around twenty. I only had a handful of tiles remaining, all single point letters. I lost. It'll probably be a long time before I actually care about a game of scrabble again. The stars must align perfectly. Sunday's ride was fun. I feel like crap this morning.

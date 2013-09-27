@@ -1,0 +1,9 @@
+---
+title: "road bike boredom: part I"
+date: "2008-06-12 12:00:00"
+template: post.html
+categories: 
+tags: 
+---
+
+Lately I haven't really enjoyed riding my road bike. I'm not sure if it's because I choose particularly dull routes (as illustrated above) or if it's just that the idea of riding a road bike has become too much like work. I don't stop to take pictures or admire scenery, I almost never carry food or a book, and when I'm off the bike I tromp around in monstrous non-recessed-cleated shoes that have tried to kill me more than once. Maybe it's a combination of all of it, or my desire to conduct covert races with the people I encounter on my route, especially if they're wearing jerseys from local race teams. For instance, today I was having a rather relaxing ride until I saw one of the ride-up-and-down-summit- racers make the inevitable turn from the river road. After stopping for water I decided that I would catch him. For the next forty minutes I rode at least 5mph faster than I had been riding, first passing him and then making sure that he would not immediately pass me. It's a sickening mentality for which I frequently chastise others. My road bike is like the asshole friend I'm perpetually trying to impress. "Look at me road bike, look at me emasculate this racer dude!" My Big Dummy is quite the opposite. When I'm riding it I don't get jealous of faster, sexier, or better piloted bicycles. There's often food and water, and supplies to help other people. I'm inclined to explore and sometimes even to smile at my fellow human being. I need to figure out how to make road biking fun again.

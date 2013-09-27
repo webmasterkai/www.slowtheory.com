@@ -1,0 +1,13 @@
+---
+title: 'thursday'
+date: "2009-10-11 12:00:00"
+template: post.html
+---
+
+4:48pm. just ate a tuna sandwich. imagined thunder. contemplating coffee. checked the window. the recycling is gone and it is not storming. for the past month and a half we have failed at recycling, letting it accumulate on the porch and watching with despair as the truck lurched its way through our alley. I went for a run. to wirth lake, through the bog, to the cedar lake trail and its nearby web of dirt trails, and home. six miles, maybe. I was doing well getting ready for the marathon until two weeks ago. I basically stopped running. why? I don't know. life. a collection of mixed circumstances and obligations. moving things out of my old apartment. the reverie of finally being free of it all. excuses, yeah. the truth is that I have very little passion for running. I don't miss it when I'm not doing it. I enjoy the endorphins. the pulsing of my heartbeat in my neck. I feel the most alive, the most awake, not tempted to crawl off into a corner and fall asleep. but I don't really like it when I'm not actively engaged in the act. at least not on the pavement. I like running through the woods, but that has very little to do with running.
+
+the past two nights have been fucked up. beth and clementine left for faribault on tuesday. I came home and went to sleep. slept till just past midnight, woke up for a few hours and then went to bed. last night I couldn't get to sleep. I drank coffee and burned eggs. the house was quiet and the night was dark. I moved the recycling from the porch to the street. the only sounds for hours my shuffling through boxes full of beer bottles and tuna cans (this is my life). after burning my eggs I ate oatmeal. confusing. disorienting. morningnightmorningnightmorningnight. chronological confusion. living in a disordered heap. at times almost frantic. I need it to storm.
+
+tonight we will grill. eat chicken. probably watch a movie. since moving I have not set up the television to receive television. it's been nice. I feel like I have so much more time. I watch movies. eventually I will start reading more regularly. I have been especially bad at reading this summer. I haven't made the time for it. I've felt like I have been chasing something. I'm always too anxious to just sit down and read. there is something wrong with me.
+
+my right foot running callous is right where it should be.

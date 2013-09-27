@@ -1,0 +1,9 @@
+---
+title: "grocery list: part I"
+date: "2007-09-30 12:00:00"
+template: post.html
+categories: 
+tags: 
+---
+
+It is strange. When I read a book I am unceasing in my lust for a happy ending. I turn pages furiously, waiting for things to become right, for characters to mend their differences, overcome their character flaws and live on happily in a world made consistently of equidistant relations. Now, when I write­--even the least enigmatic of items--­I want it to end ambiguously and uncomfortably. For example, on a grocery list I might confuse the simple instruction to purchase olive oil with a parenthetical making an association between it and some vague looming darkness in the periphery, an experience or being that arbitrates the experience with the proposed object. I pump it up with dimension so that the experience becomes an uneasy reproduction of other more authentic experiences. Another approach that I might take is to make items of varying importance by writing them unevenly, or perhaps with a different style of writing. I will write BAKED BEANS in all caps and it will comprise half of the list, while items such as milk and bread will be written in scarcely discernible script near the edges of the paper. This frightens me when I reach the store and become uncertain whether I am to purchase a vast quantity of BAKED BEANS. I proceed with consternation, damning the list for not being tidy. This is a tidy thought. When I went to the grocery store this evening I did not take a list. In fact, since my lists only make me feel ill at ease, I never take lists to the grocery store.

@@ -1,0 +1,11 @@
+---
+title: "To be born again the human animal young in the day's events."
+date: "2010-07-01 12:00:00"
+template: post.html
+description: 
+categories: ['Life', 'Running']
+---
+
+woke up at 8:11am. *not late enough. *I proceeded to stand in front of the mirror until my reflection disappeared into the vague semblance of shapes and colors. I could go back to sleep now. woke up again at 10:30am. very good. I give myself a high five. fuck being sad. fuck not sleeping. *fuck it all*. I cleaned my kitchen. slowly. deliberately. I took my time and did not spill anything. then lunch. I have been eating much less lately. at first it was because I was depressed, but now it's because I'm depressed *and* I want to get in the best shape of my life. it's not necessarily that I have any purpose for being fit, but it gives me some amount of direction and purpose, no matter how pointless or fleeting. after eating lunch I went for a run. my legs have been coming back to me and aside from suffering in the 85 degree heat, I felt great. I went down king's highway, around harriet, and then back via calhoun. it was the first time that I've utilized *the lakes* since I have moved here. my confidence has been too low and my unwillingness to engage, even passively, with other people too high. today I was feeling well enough to make eye contact. later in the afternoon I signed up for the 25k surf the murph trail run on october 30th. I thought about signing up for the marathon on the the superior hiking trail in september, but I think preparing for that in nine weeks would be very difficult. instead I chose something that I might be able to *race* rather than *survive.*  
+  
+after running I met my neighbor. she was going out for a run. I looked pretty terrible, completely drenched in sweat and staggering around from mild dehydration. we talked briefly. I wish that I would have been *with it* as it would be nice to make a friend who lives in the building...or a friend in general. I spent the next forty-five minutes digging out a metal sliver that's been in my thumb for several days. eventually it happened. the strand of metal popped out in a gush of blood. then the book store and gnc. now I'm sitting around trying not to sweat. it's hot today.

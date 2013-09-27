@@ -1,0 +1,39 @@
+---
+title: 'The past five days'
+date: "2013-08-13 12:00:00"
+template: post.html
+---
+
+### Mill City Run
+
+For the first time, I went to the Mill City Friday flapjack run alone. Ken has been consistently joining me, but with Powderhorn looming, he chose to do the sensible thing and opt out of the Friday morning ten miler. I, on the other hand, decided that since I didn't have huge ambitions at Powderhorn, I would still go, making only the concession that I might consider running with a slower group. The comfortable run to the store quickly dismissed that sentiment, so when it was announced that there would be *official* pace groups, I decided to hang with the 7m30s group.
+
+After crossing the Stone Arch, I began to feel like I was already near my sustainable speed for five miles. Typically, the runs start a bit slower and speed up near the end, so it didn't bode well for me. I just kept hanging on though. After Plymouth I had lost a bit of ground crossing the street. There was a 100 meter gap. *What to do…what to do…* I committed to closing it, catching up to the group just before Broadway, where I reasoned that I would have the opportunity to recover slightly. Once we were on the other side of the river I started feeling like I was at my limit again. Later I would check Strava and find that this was a 6:52 mile. Ouch.
+
+We finished the loop in just under 35 minutes, at an average pace of 7:11 min/mile. So much for taking it easy. I'm amazed by the turnout for this run. There were probably more than 30 people this week, and this is from a store that has only been open for a month. Awesome.
+
+### Powderhorn
+
+Getting ready for Powderhorn was hectic. I worked until the afternoon, had to do some bike modifications when I got home, and managed to shove a few things in a duffle bag just in time to leave. I had no idea if I had the right stuff, knowing only that I had a bunch of things and that it is hard to prepare for bike races. I wasn't concerned about doing well, so the thought of having to retrieve something from home was not particularly menacing.
+
+We drove to Micah's house, arriving late and finding that he'd gone to the start/finish area with Eugene. He showed up shortly. Michelle pedaled off--racing solo--and we quickly strategized how to actually *start the race*. There was some confusion due both to our late entry and the fact that Eugene hadn't grasped everything about the race start. When he arrived minutes later, we inventoried his things and determined that he had everything he needed, except a bike. Micah set him up with a bike and the three of us rode to the start/finish area.
+
+The vibe was *adrenaline-laced*, for lack of any better description. Everyone was on edge and I overheard a handful of participants being rather rude to the casual observer. *"We have a bike racing going on here,"* one said, with a rather perturbed undercurrent, while trying to usher a trail user from the trail. I wasn't feeling good about it. This was exacerbated when I casually mentioned that our team might enjoy running a few laps. Sure, it's a bike race, but what would it harm? We certainly weren't going to have an unfair advantage, and if the event was about community, what better way to engage than on foot? We were told *no way.* Since we were thoroughly unthreatened by the prospect of a disqualification for the lap or event, I thought about doing it anyway. Ultimately, without the prospect of fun, we decided to abort that plan.
+
+Eugene intended to ride for *8 hours*. I didn't bother trying to convince him that three person teams would be better utilized by each riding a couple hours at a time, and then rotating. The event was really about him having an enjoyable experience, and if that's what he wanted to do, I was happy to support him doing just that. Since we didn't expect him back anytime soon, Micah and I decided to go to sleep around 10pm. I kept my phone by my head, waiting to hear from either Michelle or Eugene.
+
+Michelle rolled in around 1:30am. She was in great spirits and only intended to take a short stop to refuel, so when she told me that she was going to *nap for an hour and a half*, I replied, "I think it's going to be hard to get up." When the alarm went off, she told me that she was done riding her bike. I think it was a fine decision, as she'd put in seven hours and had a fun and rewarding experience.
+
+I would wake up next to daylight. *Shit*. Either Eugene was still riding or he hadn't woke me up. I found him on the couch downstairs, grabbed the manifest, and quickly left to ride a couple hours worth of laps. The atmosphere had changed dramatically since the previous night. Everyone was relaxed, exhausted, or passed out. I rode hard, enjoying the peacefulness of the quiet Saturday morning. After seven laps, I returned to find Eugene ready for a few more laps. Shrug. 
+
+After having breakfast at the Modern Times, Michelle and I packed up our things while Micah got ready to ride his laps. In hindsight, I probably would have served a better as "crew" or some other non-participant role. I only rode for two of twenty-four hours, and my heart wasn't in it.
+
+### Sunday & Tuesday 15 and 16 milers
+
+I needed to shake off the cobwebs of Saturday's mild failure with a solid Sunday afternoon run. After a rough start, I settled into a groove. I ran through northeast, crossed the tracks and ran the climb to Deming Heights park. After a downhill stretch on the Diagonal Trail I was back on Como, heading east. I looped around, picked up Raymond, and was home with a 15.2 mile day.
+
+Tuesday's run was not as flawless or easy. I had originally planned to do a loop of the airport, which would be somewhere between 22-26 miles, depending on whether I did a lap of Pike Island. It all started quite well. I'd meticulously mapped the route, with stops every few miles after the halfway point. I figured I would be solid through thirteen, so I backloaded the route with frequent opportunities to rest, refuel, and rehydrate. I ran easy to the falls, and then down into Fort Snelling. When I got to the bottom of the gradual downhill, I had a choice--Pike Island or no Pike Island? Despite feeling a bit hungry, I went for it. 
+
+I felt great around Pike Island, thoroughly enjoying the serenity of running on gravel where there were not any people. I finished my lap and decided I would stop at the visitors center to refill my water. While I was there, I stopped to pee and found that my urine had an unsettling reddish hue. It's happened to me in the past that after a marathon I'd pee a bit of blood. Apparently it's [not totally uncommon](http://www.runnersworld.com/injury-prevention-recovery/blood-urine) or (usually) a cause for concern. An empty bladder, dehydration, and anti-inflammatories are all commonly cited as culprits in manifesting the problem. I was rocking all three, so on paper it made sense.
+
+However, between [Joe Grant's Hardock 100 account](http://alpine-works.com/2013/08/to-be-real/) and an unrelated conversation I had about Rhabdomyolysis, I strayed into a bad mental space. I accepted that I was both being irrational and that it was perfectly fine on this day. I've been training consistently enough that I didn't *need* a 22+ mile day. I grabbed a Nice Ride and rode back to Minnehaha falls, where I hung out for about twenty minutes, making sure that I was thoroughly hydrated. After passing my self-imposed urine color test, I decided to run home. Everything was out of sync from being stopped for so long, but after two miles I settled back into a groove. I got home with 16.2 miles running and 3 miles on a Nice Ride. Good enough.

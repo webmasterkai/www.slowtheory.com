@@ -1,0 +1,10 @@
+---
+title: 'waking up at 3:29am to close my windows'
+date: "2010-09-15 12:00:00"
+template: post.html
+description: 
+categories: Life
+tags: Dreams
+---
+
+morning. new day. reveling, in a sense. last night I had a dream about this person, an amalgam of *people*, really. this person/people not made better but more comprehensive. the night before last: noticing while sipping my beer the thing projected from the wall. conversation moves. the body moves. growing older. our table celebrated a 25th birthday like adults. several feet away another group celebrated a 21st birthday. strange strange. the kids looked like kids. soft faces, exuberance in the allowance of *drinking*. in the second week of my thirties I observed this, cap tipped slightly down and head angled from the lighting, hiding. I could shave my face, slick my hair, look younger. but it doesn't matter. I'm not hiding from them. they're hiding from me, just like every person is hiding from every other person. I'm okay with it. I'm in the best physical shape of my life. I'm working on my mind. I'm finding *endeavors*. I go to work and I like it. I know a few people. I sometimes tell confusing stories, but with such vigor that people accept them anyway. it's not really the words that matter. example: movie previews. I often find myself thoroughly enthralled with a movie preview only to realize that I have absorbed nothing other than a bizarre collection of images and sensations. no words. no *narrative*. broken pieces of feigned existence project a plausible back-of-skull-canvas. when I don't trim my beard I fall into the bad habit of rearranging the pieces that end up in my mouth with my tongue. it's disgusting. I'm leaving town this weekend. going to relax in the woods for a while. no real agenda other than to get cold at night and sit around a fire to the soft sounds of nature dancing as it does when it knows that it's being watched.

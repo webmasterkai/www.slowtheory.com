@@ -1,0 +1,17 @@
+---
+title: 'drano max gel almost killed me'
+date: "2005-08-18 12:00:00"
+template: post.html
+---
+
+this day, the last of my vacation, started horribly. i woke up around noon, to rain. rain. my sink clogged last night, so i went to sleep and hoped that in the morning the problem would be gone. this morning it was still clogged with an equal amount of standing water, so i went to the grocery store to get cereal, coffee, and drano--or rather, the cheap store brand variation of drano. i got home, dumped half of the bottle in the kitchen sink, and stood back as nothing happened. i read the directions and found that the product i purchased was not designed for standing water clogs, so i returned to the grocery store and found a version of drano called "max gel", designed to cut through standing water and clear tough clogs fast.
+
+i was impressed when i dumped the bottle into the sink--the oozing mass sank deep into the bowels of my kitchen sink and not long after a hideous bubbling mass spewed forth. i crooned and moved about the apartment with a very ordinary stride. after about five minutes i noticed a very peculiar smell that reminded me of the acidic aftertaste of vomit. i coughed a few times, and soon realized that i couldn’t stop coughing. the smell had moved all throughout my small apartment and there was no way to escape. i went to the sink and green ooze had started to congeal on the walls of the sink, presumably from the rising fumes. i did what i do in any difficult situation that needs to be dealt with in a timely fashion--i went for a walk.
+
+i came back inside the apartment complex and knew that i was in trouble—the smell now lingered in the hallway leading to my apartment, though i was still unprepared for the rank odor that awaited me on the other side of my apartment door. i held my breath while i moved about the apartment, opening windows and setting up fans. satisfied that i had solved the problem i went for another walk.
+
+i came back inside and nothing had changed, except that my cough was growing worse. i wondered if my esophagus was being slowly devoured by the strands of chemicals floating in the air.
+
+i left again, and this time went to the office to explain to my landlady that, “no, i am not operating a meth lab in my basement apartment.” she wasn’t largely interested, but did introduce me to what will presumably be my future neighbor—a young lady of charming disposition who is also destined for a dreary basement apartment. i did not ask her name, but she joined in the drano conversation with candor and good humour. eventually i convinced joyce that either: one, the situation was dire enough that she should call the maintenance man; or two, I wasn’t going to go away until she called the maintenance man. she told me he would be over in a few minutes.
+
+the maintenance man fixed everything with a flurry of hands and wrenches and flashlights and didn’t seem the least bit affected by the chemicals that were destroying my soft, pink insides. the culprit, as it turns out, was a plastic knife. i can’t recall ever using a plastic knife. we had a good laugh and he went on his way with only a minor chemical burn on one of his hands. i fear that remnants of the smell will always linger.

@@ -1,0 +1,21 @@
+---
+title: "women run the city: part I"
+date: "2007-09-24 12:00:00"
+template: post.html
+categories: 
+tags: 
+---
+
+Yesterday was the last of my long training runs for the marathon in two weeks. Due to illness and inactivity, I decided not to increase the distance of twenty-one miles from my previous run. Even so, I was wary. The previous run had gone poorly for a number of reasons: my pace was too high in the first fifteen miles, I was in the process of getting a cold, my preparation was poor, and weather conditions were less than optimal. Fortunately most of the things that made last week suck were well within my control. I ate plenty of carbohydrates the night before, woke up earlier, and spent thirty minutes stretching. The weather was pleasant, with temperatures in the mid sixties and low humidity. 
+
+I had difficulty breathing for the first mile and a half but after that I settled into a groove. Around mile five we reached the river road where traffic cones, police officers and intermittent groups of runners and walkers indicated that some sort of event was being held. The path next to the road was still available for ordinary use, so we continued on our way, running alongside the event. I could not recollect hearing anything about a weekend event, so at the first mile marker we encountered I checked the logo and discovered that the event was called "Women Run the City". This amused me at least a little bit. 
+
+We were clearly at the tail end of it as the people we passed were mostly either walking or struggling in lopsided heaves. Around their seventh mile marker they detoured across the Lake street bridge while we continued on to Ford. I wondered how much longer they had to go. 
+
+At mile ten I started to get very hungry. This surprised me a little bit being as I felt really good about my preparation. We crossed the bridge and found ourselves between the ninth and tenth mile of the Women Run the City event. Signs indicated that the course would remain open until 10:45am. As we neared mile twelve police officers were clearing the course. We needed to be home by noon since Joey was coming over to watch the football game, so it was of some concern that we were just over half way with only a third of our time remaining. There was not a lot of extra time in the original plan, but I couldn't fathom where we'd fallen behind schedule. The pace was very average. We had stopped a few times, but I could not imagine that those stops amounted to anything more than a few minutes. 
+
+I asked a guy at the water fountain for the time and he indicated that it was 10:20am­--not as bad as initially suspected, but still setting us up for a second half, predominantly uphill, that would have to be faster than the first half. I told Ryan that he should take my keys and just meet me at home. Ryan is a much better runner than me. Sometimes it makes it difficult to put into perspective if I've accomplished anything, running with someone who makes my greatest running accomplishments look like nothing more than a stroll around the block; in this instance it seemed fortunate. 
+
+However, he insisted that we stay together until it was clear whether or not a sprint to the finish would be necessary. The pace slowly increased. I started to feel really good. It lasted until close to mile sixteen when the course turned decidedly uphill. By the time we reached the transitway my heartrate was such that conversation was not possible. I lagged behind, breathing heavily and focusing my vision only a few feet in front of me. As we neared mile twenty and the final climb up Cleveland I passed off my keys and sent Ryan on his way. I knew that we were close to the time we needed to be back and I knew that I would be very slow up the hill. 
+
+I kept moving forward, slowly losing ground, impressed by Ryan's sprightly ascent. As I rounded Gortner I felt extremely proud of what I've been able to accomplish since June. Failing to complete or even attempt Grandma's was devastating. I made a lot of mistakes in training for that marathon. I expected to be as fast as my training partner. I expected it to be easy. But training for a marathon is not easy. For that rare instance of pride I suffered a thousand of humiliation. And that's just how it is. My training is all but complete, and in two weeks time I'm going to run a marathon.

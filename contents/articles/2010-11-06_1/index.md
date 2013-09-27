@@ -1,0 +1,15 @@
+---
+title: 'children'
+date: "2010-11-06 12:00:00"
+template: post.html
+categories: Life
+tags:
+---
+
+**It is november now. **My heat (*hear*, I wrote *heart*) is strange. The radiators burn hellfire hot for fifteen or twenty minutes, warmth accumulates and then slowly dissipates for two to three hours without the faintest whimper from the cold blooded radiator. At first I would open my windows to compensate for the uncomfortable sensation of my body being rapidly warmed. Now that I know its pattern I savor this moment, the sensation of being entombed in the beautiful, glowing, blissful serenity of space being altered by this systematic, climatic deregulation (and foxtrot). I like it. I sleep well at night when bodies are their own cumulative warmth/spirit/soul/livelihood.  
+  
+I listen the radio. KSJN recently. It has been many years since I have listened to KSJN regularly. "Too much pomp, hushed whispering and lullaby traffic updates." Lately though I have found myself eased into a different *chronographic landscape*. Fucking my mind with the *inquest *into "its own damn self." I sew. Read sometimes. Drool over the many harshly translated pages of my new Rohloff manual. Change the lighting. Shift my body in a way representative of the dream that I had last night regarding the soulful edification of *the masterplan*. Racing towards destiny and the *pitterpatter* of temporal relegation. **Toy words and inflatable doll lulling me into the factual excitement of our physical forms.** In this, I recognize the cognitive apprehension of the sexual being.  
+  
+**Three notable children.** The first I encounter on a near daily basis on the greenway. Lovely mother riding her big dummy with lovely daughter on the back. I make a point to ring my bell. It's the most charming thing that I see on a regular basis. Even yesterday in the sub freezing temperatures both seemed quite pleased to be in their universe. I am sure they are wonderful people. The second was a single encounter on the transitway. The child was running down the path at no less than six miles per hour, parents chasing behind (playfully...he wasn't a runaway). I have never seen such a look of jubilation, but I think I have felt it in much the same way: to run, to be free, to expend nothing but the pure energy of creation. The last was in a dream that I had last night. Nothing more needs to be said.  
+  
+We went to a Thai restaurant on Thursday. Mostly I have not been dining out lately as I've been trying to save some money for the Divide. I have been largely unsuccessful as the costs of acquiring appropriate gear for the trip far exceeds the amount of money that I save by not socializing as frequently. Oh well. There are no fewer than a half dozen Thai places within walking distance of my home. Even though this was the closest, I had never been there. It was splendid.

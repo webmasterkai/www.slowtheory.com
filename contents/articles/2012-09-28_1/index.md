@@ -1,0 +1,11 @@
+---
+title: 'Heck of the north: prelude'
+date: "2012-09-28 12:00:00"
+template: post.html
+categories: ['Cycling', 'Life']
+tags: ['Gravel Grinders']
+---
+
+This has been a bit unwieldy, *for lack of any better description*. In the early part of the month we moved to our new house, then it was my birthday, I took a trip to Lutsen to run a trail marathon, Michelle went to Alaska, I went to Las Vegas, and soon I will head to Duluth for the Heck of the North gravel race. I am looking forward to the quiet days of October. That said, I still expect to have a great time at the Heck. I am not in the best cycling shape, as most of my focus has been on running, but my goals and expectations are in line with my fitness. I might even bring a camera. *Maybe*. Oh, and I'll be rocking the one-speed. I have a perfectly capable bike with many gears, but the stripped down joy of it is too tempting. We will be nowhere, amidst nothing/everything, and moving forward will fade into automation, leaving only a floating ball of self recognition and reflection. I imagine it will a beautiful time lapse, an escape from weeks of scurrying about, composed of nothing more than interwoven strings threatening to unravel. Oh, how I wax about something so decidedly *unprofound* as riding my bike for many hours. I'll admit only that I love it.  
+  
+Last night I worked a bit in the sewing/computer room/office. It is still in a mild state of disarray, as it has not made its way up the priority list just yet. Even in its disorderly state, it was bliss. The sewing itself was a disaster as I am both bad at sewing and out of practice, but the experience in the space was fantastic. Having spaces for particular things is an amazing luxury. I could work more efficiently, and when I was done working I could leave the space and continue living my life. If I was in the middle of something, I would not feel the pressure to clean things up to better facilitate my life functions. Oh, and Kai showed me that my sewing machine actually does have a reverse button. It was a life changing revelation.

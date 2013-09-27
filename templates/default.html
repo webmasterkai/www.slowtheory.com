@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>slowtheory.com - trail running, photography, the outdoors, and other life-living</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Tim Lupfer">
+    <link rel="alternate" type="application/rss+xml" title="" href="http://feeds.feedburner.com/slowtheory"> 
+    <link href="/css/bootstrap.css" rel="stylesheet">
+    <link href="/css/timlupfer.css" rel="stylesheet">
+    <link href="/css/timlupfer.posts.css" rel="stylesheet">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Arvo:400,700|Rammetto+One|Open+Sans|Anonymous+Pro|Gudea:400,700' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+      <style>
+      </style>
+    <![endif]-->
+    
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/media/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/media/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/media/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="/assets/media/apple-touch-icon-57-precomposed.png">
+    <link rel="shortcut icon" href="/assets/media/favicon.ico">
+  </head>
+
+  <body>
+    {{>menu}}
+
+    <div class="container" style="padding:0">
+    {{#each articles }}     
+      <div class="row">
+        <div class="col-lg-12" style="padding-bottom:30px;">
+          <div class="post">
+            <div class="post-title">
+              <div class="row">
+                <div class="col-lg-12">
+                  <h3 style="margin:0"><a href="{{locals.url}}{{url}}">{{ title }}</a></h3>
+                </div>
+              </div>
+            </div>
+            <div class="post-date">
+              <span class="parts"><i class="icon-calendar"></i> Posted on {{ date metadata.date }}</span>
+            </div>
+            <div class="post-content {{metadata.post_class}}">
+              {{{ lazyload intro }}}
+            </div>
+          </div>
+        </div>
+      </div>
+    {{/each }}
+
+      <div class="row">
+        <div class="col-lg-12">
+          <ul class="pager">
+          {{# nextPage }}
+            <li class="previous"><a href="{{ url }}" title="Older Posts"><i class="icon-caret-left"></i> Older posts</a></li>
+          {{/ nextPage }}
+          {{^ nextPage }}
+            <li class="previous disabled"><a><i class="icon-caret-left"></i> Older Posts</a></li>
+          {{/ nextPage }}
+          {{# prevPage }}
+            <li class="next"><a href="{{ url }}" title="Newer Posts">Newer Posts <i class="icon-caret-right"></i></a></li>
+          {{/ prevPage }}
+          {{^ prevPage }}
+            <li class="next disabled"><a>Newer Posts <i class="icon-caret-right"></i></a></li>
+          {{/ prevPage }}
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+    <script src="/js/bootstrap.js"></script>
+    <script src="/js/jquery.lazyload.min.js"></script>
+    <script src="/js/slowtheory.js"></script>
+    
+  </body>
+</html>

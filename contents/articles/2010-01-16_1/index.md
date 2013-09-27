@@ -1,0 +1,9 @@
+---
+title: 'friday commute'
+date: "2010-01-16 12:00:00"
+template: post.html
+---
+
+after work the a-train and I decided that we'd do an impromptu "ride". he was looking for a longer route to work that went in a loop. it's difficult to make a loop in the area where he lives because there are train tracks and bike unfriendly roads everywhere. no problem. together we knew enough shortcuts to avoid the worst of it. we started down hamline, went through a hole in the fence, up a pedestrian bridge and then back to hamline. the rest of the route was theoretical, a collection of roads that ranged from my time spent going to hamline to things that I just discovered over this past summer. down minnehaha, over 94 via another pedestrian bridge and then rocketing down saint anthony. I was amazed at the road conditions. they were mostly terrible. I daresay they would have been completely impassable on any bike other than a pugsley. one of our best customers was in the other day talking about meeting with a city council person about the roads in saint paul. I didn't quite grasp the magnitude of it until today. even with the recent melting there was a base of several inches of snow and rutted ice.
+
+we spent a short time on the river road before branching off to a footpath covered in snow that ran along the river. it was beautiful. the snow was postholed and not particularly fun to ride, but the stillness of the icy river contrasted against the nearing glow of downtown minneapolis was really quite a thing to behold. next it was back to the campus where we parted ways. even though it was only a little bit longer than my regular ride home, I enjoyed it immensely.

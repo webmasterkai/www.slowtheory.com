@@ -1,0 +1,27 @@
+---
+title: 'first camping trip of the year'
+date: "2010-03-23 12:00:00"
+template: post.html
+---
+
+we decided to make sunday night the first camping trip of the year. our plan was a quick overnight trip to the saint croix bluffs regional park. I've really enjoyed riding in that area lately and sunday was looking like it was going to be a fine day. I left the house and within two miles had another flat. that's five on the stock tires on my tricross in only a few weeks on those tires (initially I was running studded tires). I think it might be time to replace them. I have been relying solely on co2 inflators on every bike except for my pugsley. it has worked astoundingly well. last year I replaced more mini pumps due to premature and spontaneous breakage than I fixed flats with aforementioned pumps. co2 had a flawless record. in any case, I say this mostly to justify my explanation of what comes next. my first co2 cartridge had already been used. apparently I forgot to replace it. my backup co2 cartridge did not fit the inflator. oh, it was the right size and style, but the head was simply too large. I tried everything from hammering it on the sidewalk to prostration before god. nothing. broken. so I was left to the charity of other people. the first person who stopped was on foot. he asked if I needed help. um, sure. of course, he was walking so I cannot imagine anything that he could have helped me with short of forming a foot based paceline to the nearest bike shop. next person: broken mini pump. rant interlude: mini pumps are the biggest scam in the bicycling industry. I have tried dozens of different pumps and none of them have handled more than a handful of repairs before falling apart. stop making them smaller and make them fucking work. the third person had a pump, but he swore that it didn't work with presta valves. I knew that it did, but I had to coax him into letting me try without making him feel stupid, because when properly assessed nothing could match the stupidity that I had already exhibited. I got it up to 40psi with much effort and was on my way.
+
+we were again delayed when chaes realized that his bike was not pannier compatible. he kicked his bag off a number of times, finally resorting to strapping it on and accepting the every revolution tick of heel on bag. once we were going the ride was very nice.
+
+![](http://slowtheory.openphoto.me.s3.amazonaws.com/custom/201003/P3210006-630206_800x800.jpg)
+
+![](http://slowtheory.openphoto.me.s3.amazonaws.com/custom/201003/P3210008-60fca1_800x800.jpg)
+
+(note the bikes on the horizon. it's a cool picture if you look closely...I think.)
+
+we reached the park by sunset. we definitely took advantage of wasting the extra time that we'd gained by leaving at 4pm instead of 6pm. oh well. there was no one else there since the park was officially closed. I was a bit wary of a police officer making an evening check so I threw a twenty dollar bill on our campsite clip as bribe money. I would later forgot that twenty dollar bill when we were leaving. karma I guess. I hope at least it finds its way to the appropriate people.
+
+alex nelson joined us late in the evening. we stayed up past midnight waiting for him to take an elaborately misguided route to the park that added no less than twenty miles to his journey. he finally arrived and we all went to sleep. it was 1am. I'd have to be up around 6am to make breakfast, pack up, and get back to the shop in time for work.
+
+out of curiosity I climbed inside of my e-bivy. it was a purchase made for a snow bike race that never happened. I wanted to see how it worked so I climbed inside of it inside of my hammock. it was not long before I realized that I had done a poor job setting up my hammock. it was really slouchy. it was too much hassle to fix it so I just accepted it and went to sleep. around 4am I heard someone noisily gathering firewood. the temperature was in the mid twenties. colder than expected. it was chaes and he would continue to make noise until I got up at 6am. someone was also snoring and my e-bivy soaked my sleeping bag with condensation. I would have been warmer sleeping naked. I didn't realize how wet my bag was until morning when I packed my things. fail.
+
+I made a cup of coffee and oatmeal. I sold my old stove over the winter and purchased a jetboil. by comparison, it was amazing. simple, clean, efficient and easy to pack. I stopped using my stove for most trips last year because it was such a chore and required a huge time investment to set up, clean and store. once I get the french press attachment it will be perfect.
+
+we left a bit late. I had to ride fast to make it back. a-train and chaes quickly decided that they didn't want to work that hard, so they dropped off and rode home at their own pace. alex m-f and I continued. it was a hard ride. I was carrying too much gear and m-f was on a singlespeed, so he had no choice but to ride hard up the hills. he was also traveling much lighter than I was. my advantage was that I had eaten food. after a quick bonk we stopped at a gas station for pastries. mmm. pastries are only good when you are about to die. the rest of the time I think they taste like shit.
+
+I made it to work, showered at the gym and still had five minutes to compose myself before opening the doors. I'd call that a success.

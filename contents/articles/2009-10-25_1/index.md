@@ -1,0 +1,9 @@
+---
+title: 'sunday ride'
+date: "2009-10-25 12:00:00"
+template: post.html
+---
+
+![25231251.a9121ca6.800.jpg](http://f.slowtheory.com/25231251.a9121ca6.800.jpg "25231251.a9121ca6.800.jpg")
+
+I haven't written about cycling at all this month. A few things have happened: Sunday rides have turned into solo treks across familiar terrain and a combination of illness and poor weather conditions have amplified the magnitude of even the smallest journeys. I haven't been going to interesting places or experiencing interesting things. Mostly I've just been turning the pedals, trying to acclimate to being a sweaty, freezing mess in too-big-boots. Kicking my heels on the chainstays and dreaming of those once dull camping trips that littered the early and late months of summer. I headed out alone around eleven. The ground was saturated with unknown moisture and the sky churned, a billowing mass streaked with gray and silver. It was a familiar route. The wind was in my face and my gear was a few inches too big. Oh well. My legs turned slowly and I felt the lactic acid building up in my hamstrings. Push. Push. Nothing happened. I thought about things. Narrated things in my head, a sound interrupted only by the infrequent dinging of my bell as I passed confused walkers out for fresh air. Eventually I turned around. I ate some cranberries and a cookie. Took a minute to let the cool breeze evaporate some of the moisture that had built up on my torso and in my hair. Suddenly I was turning the cranks 20rpms faster. The wind was at my back. My path was littered with wet leaves, so thick at times that I couldn't even see the asphalt in front of me. It was just an endless expanse of red and gold. When I got home I ate two sandwiches and drank two cups of coffee. Beth made them. With bacon. 

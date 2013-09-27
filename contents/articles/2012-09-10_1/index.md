@@ -1,0 +1,22 @@
+---
+title: 'Superior trail run'
+date: "2012-09-10 12:00:00"
+template: post.html
+description: 
+categories: Running
+tags: ['Trail runs', 'marathon', 'IT band']
+---
+
+When I jotted down events for 2012, the Moose Mountain Marathon stood out as the culmination of a season of diligent *training*. I had designed a schedule that gradually built on my ability both generally and as a trail runner. In June I broke four hours at the Minneapolis marathon. In July I breezed through the Afton 25k trail run. My bodyweight was around 152 pounds. Things were good. 26.2 miles over extremely rugged terrain seemed almost too little of a task to warrant such attention.  
+  
+However, in July Michelle and I began shopping for a house. My priorities shifted. My living situation also shifted. Due to lease complications I spent the month of August living in a household that was already at its capacity, while we patiently waited to close on our lovely new house. My things remained in boxes, my space contracted, and I simply chose not to invest the time and energy in running. I trained occasionally, but never ran more than seventeen miles (and that was on pavement). My final training run turned into a catastrophe when Bryce and I abruptly ended our run, opting instead for a walking adventure through the suburbs. Nonetheless, I went to Lutsen feeling confident.  
+  
+Race morning was cool and calm. I lined up near the middle of the two hundred runners and we were off. The first miles were fantastic. My heart rate was where I wanted it, my body felt capable, and the weather was crisp, cool, and beautiful. I settled into a nice rhythm and enjoyed the scenery offered by the trail. The first hour of the race went extremely well. Euphoria.  
+  
+Around mile seven the outside of my knee began to hurt. *IT band pain*. I had experienced the sensation for the first time in early August when I went four weeks without running and then abruptly jumped into a seventeen mile run. It's a very common running injury, and given the combination of sporadic training and typical quad-dominant cycling legs, it wasn't much of a surprise that it finally afflicted me. I rolled into the first checkpoint feeling a bit grim. Fortunately, the aid station atmosphere was a bubble of positive energy that rejuvenated me physically and mentally. A handful of spectators were there cheering on the runners, and the volunteers were absolutely the nicest, most thoughtful and attentive people imaginable. I refilled my bottles, ate a piece of bread, and continued on my way.  
+  
+The climb out of the aid station was good for me. However, the ensuing descent further piqued my concern. The outside of my knee began to hurt more consistently/considerably. I focused on form. If I kept my stride short, my cadence high, and limited the degree to which I flexed at the knee, things were okay. I reached the second checkpoint and the midpoint of the race. I was about ten minutes slower than I anticipated, and knew that I was about to get even slower.  
+  
+I left the checkpoint alone. The forest got dark and it started to rain. I found myself repeatedly scanning for orange markers to indicate that I was still going the right direction. It was strange that I was neither passing or getting passed. I was alone. The rocks, roots, and boardwalks became increasingly slippery. I ran carefully, avoiding risks, as finishing with a good time had already slipped away. The event was now about the journey rather than the performance.  
+  
+I reached the 19 mile aid station in rough shape. Physically, I felt great. I was only limited by an aching right knee. Stupid body. There would be no more checkpoints before the finish, so leaving the aid station meant that I would finish. Eventually, I did that. Miles 19-23 were miserable. I would try to run and the stabbing pain would beat me back into a brisk hike. I ran when I could. Downhills were brutal. I walked those. Around mile 23 I figured out ways to move more effectively. The miles ticked off. Finally I recognized the turn to the lodge. The trail was behind me and I was running down a dirt road, in the rain. It was coming to an end. I crossed the finish line almost an hour slower than my goal time, but I finished. It felt pretty good at that point.

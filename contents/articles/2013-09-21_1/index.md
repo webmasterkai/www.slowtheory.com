@@ -1,0 +1,9 @@
+---
+title: 'simplicity'
+date: "2013-09-21 12:00:00"
+template: post.html
+---
+
+The past week was...*surreal*, jarring, tragic, and exhausting. For most of it, I was merely a spectator, but one can't help being affected. I started trying to write something about it, but quickly reached a point outside of the scope of my language.
+
+> Our friend Sam died last week. Although we'd met only a few times, I felt closer to him than I do to many of the regular people in my life. He had the ability to be *immediately real*. No bullshit, or if there is, it was the lovingly adorned bullshit that lets you know that in spite of its incomprehensibility, the thing was pure, raw, human, and committed. He fully expressed ideas, even when they conflicted with ideas expressed moments before. *Fluid and free.* I loved that about him. Even before his death, I held him as one of the few badasses in the world who lives a life completely free from compromise. His death was an even purer expression of that freedom. He faced it with quiet heroism and infinite gratitude for the loving souls who stood by him. But the living can never truly stand by the dying. That, he faced alone, and he did so with grace and dignity that brought tears to my eyes and put a lump in my throat. My god, he's inspired me. At his memorial, people told stories that made me think that we would have been great friends if time had not robbed us of that opportunity. He moved frequently, abandoned his things, tried to remain free from the pitfalls of rampant materialism, and challenged others about their attachments to *things*. He created ideas, words, music, and art. He was enigmatic and brilliant. The world needs more, but will have to settle for what it has been given. 

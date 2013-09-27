@@ -1,0 +1,7 @@
+---
+title: 'an ode to spring'
+date: "2005-08-31 12:00:00"
+template: post.html
+---
+
+sometimes old friends write back, unexpectedly, and bring with them comfort that you really couldn't find with anyone else. sometimes it's like the feeling of stiff limbs relearning how to move, nothing less than delightful. words shouldn't be weapons, used with intention and withheld with equal consideration--not to bargain, reward, hint, or decipher--only honest; only always. if it's worth whispering in my ear, late at night, then it shouldn't instead turn into a gulping sound and the slight upward movement of the chin, or the brief moment of dampness on the eyes following the wince and upturned lips. the gift should not be misconstrued as something from you to me, but rather as the truth of the matter: one from you to yourself, a reprieve from dirty hands woven like peach trees in autumn. and the sky was certainly blue today, the clouds undeniably pleasant, and the breeze an invisible satin flavored with reluctant tongues. and the silence…oh, the marvel, dancing with the ice queen in the shadows of hands softened by warmth. i am not bitter because i cannot sleep at night. i sigh and appreciate it for what it is: my plea.

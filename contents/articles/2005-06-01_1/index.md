@@ -1,0 +1,7 @@
+---
+title: 'ground zero'
+date: "2005-06-01 12:00:00"
+template: post.html
+---
+
+I feel different today. Some parts are better, some are worse. It’s rather like the feeling of having been trampled by an elephant and having survived--I have wounds to lick and abominations of heart, mind, and body to overcome, but it began the moment that I finally EXHALED. Today Dave and I went to East Saint Paul Target and I bartered for my old job back. Two months ago I bartered for my old school back. Then my old body. Then my old job. But first, my old mind and my old skin. I’m unwinding back to my birthplace. I gurgle and mumble. We went shopping. I wanted to thank the girl who inspired me to ask for my old job back, so I bought her a bath and body works spring gift pack. I don’t know how to interact with other human beings. How many times have you PERSONALLY been to HELL? What admonition have you received from robots? Is that a swastika carved on your chest? Do you serve guilt with dinner? I once saw a beautifully crafted ship in a bottle sitting on the side of the road. I picked it up and wanted to wipe off a bit of the grit and grime that coated its surface. For a moment I was a bit afraid, my hand didn’t want to see the detail inside. It started to quiver. The bottle fell from my hand and landed with a crash on the asphalt-- pieces of glass, wood, and plastic scattered everywhere. I wish that I would have been able to wipe away the dirt and see, even for a moment, what was inside of that bottle. It’s destroyed now, and I’ll never know. I’ll never ever know.

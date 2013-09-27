@@ -1,0 +1,9 @@
+---
+title: "a pugsley's first christmas: part I"
+date: "2007-12-26 12:00:00"
+template: post.html
+categories: ['Cycling', 'Life']
+tags: ['Christmas']
+---
+
+I rode the Pugsley to Mel and Ian's for christmas. This journey took me from the heart of Saint Paul to the northern suburbs, a total of thirty miles round trip. Going there was fast and extraordinarily pleasant. The roads were in very good condition, with a few exceptions, and I encountered more people walking dogs than I did people driving cars. I periodically looked in disbelief at my speedometer as I cruised easily at 14-17mph. I arrived in one hour and nine minutes. Around one thirty the snow started falling. I had expected "a coating to an inch" as per the weather channel's forecast, but by two o'clock the increasing intensity convinced me that they had once again erred on the side of a random number generator. I started for home shortly after this, but not before my dad and sister both had the opportunity to try the Pugsley in the snow. It was--­and deservedly so--­warmly received. My mom looked out the window and exclaimed, "There's another bike!" Nope. Just my dad on the Pugsley. The fresh snow was just enough to make the trip home difficult. Due to poor visibility I opted to take a few sections of multi-use trail that I had avoided on the way there because of the amount of snow still on them from the last snowfall. As well as the Pugsley handles snow, it is still a lot of work going through anything over two inches. It's just physics. To further complicate matters there is a long and steep hill on saint anthony parkway just east of central. I inched up in my 22×26 at about 5mph. By the time I reached the top my heartrate was near its max. The rest of the trip was uneventful, just slow. By the time I got home there must have been over two inches of fresh snow. The flakes were still falling, large and beautiful. My return trip took me about one hour and twenty minutes.

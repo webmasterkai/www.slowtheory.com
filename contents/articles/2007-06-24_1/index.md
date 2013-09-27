@@ -1,0 +1,15 @@
+---
+title: "uncle vanya: part I"
+date: "2007-06-24 12:00:00"
+template: post.html
+categories: 
+tags: 
+---
+
+Last night I went with b- to a production of Chekhov's Uncle Vanya at the Theatre in the Round. I have not read the play, so I would have to make my proclamation that I very much enjoyed it with some hesitancy and uncertainty. Since the theatre was new to me, I did some research online and discovered that all of the roles were unpaid and cast through public auditions. Based on this, I didn't expect it to be as well performed as it was. I say this in spite of the fact that it did not seem very much like Chekhov at times. I suspect that some of his ambiguity may have been heavy handedly flattened so as to be more energetic and digestible to a lackadaisical theatre going audience. Nonetheless, I enjoyed it immensely in the guilty way that one occasionally does with the imperfect, and have made it my refrigerator ticked goal to attend more plays at the theatre in the round. 
+
+After the play I discovered that I'd run over a giant staple on the way to the theatre. It's my fifth flat on the xtracycle in the past couple of months and I'm seriously considering new tires. My mind flashed visions of a giant madman with a cape standing in the middle of the road with a staple gun. I mean, how the fuck else does a giant fucking staple end up on the road? I can't think of anything in or around the average, generic metropolitan street that would require a giant staple gun. I pulled next to a tree and changed it. Note to self: put a flashlight in your bag. 
+
+We walked along the river, studying the various bridges from below. I couldn't positively identify any of them, even the one with the giant stone arch that's called the stone arch bridge. Everything looked unfamiliar, like I'd never looked at it quite properly before. New eyes. New eyes. The old mill, the thing, smelled horrible. There were spiderwebs. Later we heard a rustling in a small tree. I feared bats, took a step rearward, cowered, and could only be drawn out in curiosity when b- told me it was a raccoon. There it was, poking its nose out from the very top of a small tree that I wouldn't have suspected capable of holding a bird, let alone a full sized raccoon. There were people sitting on the bench below, seemingly obliviously to the rustling, and I contemplated how funny it would have been if the raccoon fell on their heads. I went home. The temperature felt nice and the air was incredibly still. 
+
+Last week Ryan and I decided to take up tennis as a new hobby. It was riotously fun except when I ran into a fence and bruised my forearm. I learned that I grossly overestimated one of two things: the amount of skill that I had playing tennis in my youth, or my ability to retain any skill at tennis over the span of fifteen years.

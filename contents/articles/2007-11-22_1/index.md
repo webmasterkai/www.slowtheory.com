@@ -1,0 +1,9 @@
+---
+title: "I don't get it...what's transcendentalism?: part I"
+date: "2007-11-22 12:00:00"
+template: post.html
+categories: 
+tags: 
+---
+
+it happens eventually. built up like plastic dolls protected pretty horsehair. but it still happens. inevitably unceasingly. in a debatable order these things happen: snicker, charmed, familiarity and contempt. offering dull thoughtless answers back and forth to conversation that is deconstructed as soon as it has left the lips of the offender. (fucker) in the wayward places of thought. (I hate you) but that's bullshit too. it's incontestable spitting daydreams image of sitting in place. so they look at each other and say let's end this bullshit. it was bound to happen and then act surprised. no one no one saw it coming. everyone is surprised. why I never! gasps all around and everything is halved as it stands. standing severed the new victims stare each other in deep dark black pupil not entrancing but dead. future halves. reminiscent fourths. soon eighths. starting to gel together in a vision whose continuity is in its sentiment rather than its participants. it's called transcendentalism! I looked it up--­"a philosophy that emphasizes the a priori conditions of knowledge and experience or the unknowable character of ultimate reality or that emphasizes the transcendent as the fundamental reality". stop staring. I don't like it. it's weird. you're weird. fuck you. that's not what it means. I looked it up too­"visionary idealism". yeah? so that's it­--perfection in severality? no, fuck that--­*genericism*! fuck these words. they're stupid. you're stupid. it happens to everyone, but it always seems unexpected and new. no one suffers less because of it's plainness. yeah? (I'll taunt you with my rising tone) oh god, it's everywhere! sort of silent.

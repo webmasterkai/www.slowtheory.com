@@ -1,0 +1,94 @@
+.isotope.no-transition,
+.isotope.no-transition .isotope-item,
+.isotope .isotope-item.no-transition {
+  -webkit-transition-duration: 0s;
+     -moz-transition-duration: 0s;
+      -ms-transition-duration: 0s;
+       -o-transition-duration: 0s;
+          transition-duration: 0s;
+}
+.post {
+  background-color: transparent;
+  margin: 0 auto;
+}
+.isotope-item {
+  margin: 2px;
+}
+.isotope-item img {
+  height: 280px;
+  width: 280px;
+}
+.thumbnail .caption {
+  font-family: 'Gudea';
+  height: 30px;
+  font-size: 1.1em;
+  line-height: 15px;
+}
+.loadmore {
+  text-align: center;
+  padding: 35px;
+}
+.tags {
+  text-align: center;
+  font-family: 'Open Sans';
+  font-size: 1.1em;
+  padding: 15px 10px 30px 10px;
+  width: 100%;
+}
+.btn {
+  font-family: 'Open Sans';
+  font-weight: 700;
+}
+.ie-warning {
+  display: none;
+}
+.tags .dropdown-menu {
+  overflow: auto;
+  height: 400px;
+}
+.list-group .active a:before {
+  font-family: FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: inherit;
+  -webkit-font-smoothing: antialiased;
+  content: "\f101";
+  /*font-size: 2em;*/
+  padding-right: 10px;
+}
+.list-group .active a {
+  font-size: 1.6em;
+}
+.list-group .active .badge {
+  display: none;
+}
+#scrollUp{
+  bottom:-10px;
+  right:30px;
+  width:70px;
+  height:70px;
+  padding:10px 5px;
+  font-family:sans-serif;
+  font-size:14px;
+  line-height:20px;
+  text-align:center;
+  text-decoration:none;
+  text-shadow:0 1px 0 #fff;
+  color:#828282;
+  -webkit-box-shadow:0 0px 2px 1px rgba(0,0,0,0.2);
+  -moz-box-shadow:0 0px 2px 1px rgba(0,0,0,0.2);
+  box-shadow:0 0px 2px 1px rgba(0,0,0,0.2);
+  background-color:#E6E6E6;
+  background-image:-moz-linear-gradient(top, #ebebeb, #dedede);
+  background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#ebebeb), to(#dedede));
+  background-image:-webkit-linear-gradient(top, #ebebeb, #dedede);
+  background-image:-o-linear-gradient(top, #ebebeb, #dedede);
+  background-image:linear-gradient(to bottom, #ebebeb,#dedede);
+  background-repeat:repeat-x;
+  -webkit-transition:bottom 150ms linear;
+  -moz-transition:bottom 150ms linear;
+  transition:bottom 150ms linear
+}
+#scrollUp:hover{
+  bottom:0px
+}

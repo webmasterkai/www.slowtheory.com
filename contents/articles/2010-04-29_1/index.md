@@ -1,0 +1,7 @@
+---
+title: '...singlespeed!'
+date: "2010-04-29 12:00:00"
+template: post.html
+---
+
+When I go through emotionally challenging periods of my life I tend to deflect some of my anxiety into either buying new bikes or twisting the bikes that I already have into bizarre configurations. Thus far I have narrowly avoided buying a new bike, and I hope it stays that way. However, yesterday I talked atrain into putting a derailleur hanger on the aframe so that I could try it 1x7. I reasoned that for under one hundred dollars I could have lots of singlespeeds on the same bike! Riding home was initially very pleasant...until the rear wheel predictably pulled forward. Since it is a quick release that left me with the option of overtightening the skewer (and consequently risking both the longevity of the wheel and meandering dave's random bearing inspections) or stopping a couple of times on my ride home to put it back in its proper place. I stopped repeatedly. Sigh. Now I will get to spend some time this morning putting everything back the way that it was prior to my impulsive decision to ruin a perfectly nice singlespeed bicycle. While I'm at the shop I will pay off the remainder of my tab (the part that isn't wrapped up in chaes' ill fated FSR...long story) and vow to deal with my anxiety in a more healthy manner in the future.

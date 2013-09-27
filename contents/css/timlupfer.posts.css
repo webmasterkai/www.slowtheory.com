@@ -1,0 +1,48 @@
+.float_left_w_padding img {
+  float: left;
+  padding: 30px 20px 0 0;
+}
+.boundary_waters_three>p:nth-of-type(10) img {
+  height: 330px;
+}
+.boundary_waters_three>p:nth-of-type(16) img {
+  height: 250px;
+}
+.altra_instinct_one_five>p:nth-of-type(1) img {
+  width: 48%;
+}
+.afton_50k img {
+  float: left;
+  padding-right: 10px;
+}
+.tf_hour_thing {
+  min-height: 360px !important;
+}
+.tf_hour_thing img { 
+  padding-top: 0 !important;
+}
+.ragnar_relay img {
+  float: none;
+  clear: both;
+}
+.max_height_375 img {
+  height: 375px;
+  padding-top: 0;
+}
+.max_height_375 > ul:nth-of-type(1),
+.fat_tire_adventure > ul:nth-of-type(1) {
+  list-style: none;
+  padding: 20px 0 40px;
+}
+.hiking_at_afton > p:nth-of-type(4),
+.hiking_at_afton > p:nth-of-type(8) {
+  clear: left;
+}
+.fat_tire_adventure > ul:nth-of-type(1) > li,
+.max_height_375 > ul:nth-of-type(1) > li {
+  float: left;
+  padding: 5px;
+}
+.fat_tire_adventure ul img {
+  height: 400px;
+}

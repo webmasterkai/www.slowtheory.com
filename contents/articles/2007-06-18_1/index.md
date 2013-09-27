@@ -1,0 +1,11 @@
+---
+title: "reflections on duluth: part I"
+date: "2007-06-18 12:00:00"
+template: post.html
+categories: 
+tags: 
+---
+
+It was a disappointing weekend. My overnight bicycle journey to duluth ended prematurely with broken spokes. This coupled with the culmination of my failed attempt to run a marathon made for a somewhat unpleasant weekend. I briefly contemplated disregarding good sense and running in spite of my injury and lack of training. Eventually good sense prevailed and I staked out a location around mile twenty-five, sat down and finished reading Americana. I managed to almost entirely destroy the book. The back cover is falling off and the front cover was somehow mangled on the return trip. Ryan completed his run in admirable fashion. 
+
+It was a rather magical environment, and I couldn't help but understand why so many people were compelled to participate. Several people whom I would not have suspected being able to complete a one mile run, crossed the finish line at about the time I projected for myself back in march. I was amazed and humbled. I spent a lot of time thinking about my failure and why I didn't take the necessary steps to ready myself for the run. True, I had a fractured bone in my foot that made long distance running very difficult, but I still feel like I let myself down. The past two days I've made some realizations: first, given the circumstances I made the proper decision not running; and second, much of my failure was in my method of preparation. I spent far too much time and energy with conflicting goals. I wanted to lift weights, be big and strong, cycle, and eat whatever the hell I wanted. I needed to drop a lot more weight, both muscle and fat, to get my body to a point that would allow me greater mobility on my injured foot. I knew this, and in spite of the realization I did not make a serious enough commitment. I'm not going to feel better about it until I complete a marathon, so I've registered to run in Milwaukee on October 7th of this year. That's all for now.

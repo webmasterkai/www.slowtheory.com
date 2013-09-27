@@ -1,0 +1,10 @@
+---
+title: 'Day six and seven'
+date: "2010-12-06 12:00:00"
+template: post.html
+description: 
+categories: Life
+tags: 'meeting michelle'
+---
+
+**Day Six/Seven. **Two leaves joined together wrapped in a poem--that's what you gave me. It was one of the best gifts I've ever received. I didn't remember exactly how to find your house, so I allowed impulse to guide me along the route that we'd ridden on Day Five. I found it, almost just as I remembered it. I tried the upper doorbell, hoping that my associative thinking was sound. You came to the door. *Now you're in my house*. This time I brought my bike inside. I followed you upstairs to the kitchen where you were putting plastic on the windows. I met Tullio, the adorable dog who did/does not know that he was/is adorable. We went outside to make a snow fort, or something. Several revisions of the plan ended with the resolution that we would play a mutated version of bag toss with snowballs, boards, and grill accessories. Tullio ran frantically around the yard. You took an early lead. I began cheating, which also served as a convenient excuse to touch you. Coupled with honing my accuracy it led to victory. I considered it a win on many levels. You high-fived me for winning and I kept your hands, pulled you close, and kissed you. *Thank you. *That's what you said. It was adorable. Your roommate arrived home and we discussed going out for savory Japanese pancakes at Midori. *Yes.* Upstairs we had tea. You remembered that I liked honey and handed it to me without asking. The mug that you selected was lovely. There was a spot on the handle that fit my thumb perfectly and the texture was enchanting. I ran my fingers across it and felt the reverberations spread through my body. We talked about protagonists in Swedish films. The rest of the group arrived and we walked to the restaurant. You asked if I was hot blooded because I wasn't wearing a jacket. *Maybe*, although at that moment my teeth were chattering and I could scarcely construct a sentence. We sat down at a long table. There were seven people in our group. I sat at the end of the table.

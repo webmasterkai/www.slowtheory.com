@@ -1,0 +1,49 @@
+!!! 5
+block vars
+  - var bodyclass = null;
+html(lang='en')
+  head
+    block head
+      meta(charset='utf-8')
+      meta(name='viewport', content='width=device-width, initial-scale=1.0')
+      title
+        block title
+          = 'slowtheory.com - trail running, photography, the outdoors, and other life-living'
+      link(rel='alternate', href='http://feeds.feedburner.com/slowtheory', type='application/rss+xml', title=locals.description)
+      link(rel='stylesheet', href='/css/bootstrap.css')
+      link(rel='stylesheet', href='/css/timlupfer.css')
+      link(rel='stylesheet', href='/css/timlupfer.posts.css')
+      link(rel='stylesheet', href='//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css')
+      link(rel='stylesheet', href='http://fonts.googleapis.com/css?family=Arvo:400,700|Rammetto+One|Open+Sans|Anonymous+Pro|Gudea:400,700')
+      link(rel='shortcut icon', href='/assets/media/favicon.ico')
+      script(src='//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js')
+      script(src='/js/bootstrap.js')
+  body(class=bodyclass)
+    div('class'='navbar navbar-static-top')
+      div.container
+        div.col-lg-12
+          a.navbar-brand('href'='/').
+            SLOWTHEORY
+          ul('class'='nav navbar-nav pull-right')
+            li.dropdown
+              a.dropdown-toggle('data-toggle'='dropdown','href'='#')
+                != 'Navigation <i class="icon-caret-down"></i>'
+              ul.dropdown-menu
+                li
+                  a('href'='/').
+                    Home
+                li
+                  a('href'='/photos').
+                    Photos
+                li
+                  a('href'='/archive').
+                    Archive
+                li.divider
+                li
+                  a('href'='http://feeds.feedburner.com/slowtheory').
+                    RSS Feed
+    div.container
+      div.row
+        div.col-lg-12
+          div.post   
+            block content

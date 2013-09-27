@@ -1,0 +1,14 @@
+---
+title: 'Tricross 2000 mile update'
+date: "2010-05-27 12:00:00"
+template: post.html
+description: 
+categories: Cycling
+tags: ['bikes', 'reviews']
+---
+
+![3x in almanzo mode](http://f.slowtheory.com/4552787574_330f4c7aa6.jpg "3x in almanzo mode")  
+  
+Yesterday I crossed 2000 miles on my Tricross. I started thinking about the things that I've done with it since my 1000 mile update including the Almanzo, a couple of long road rides, and daily commuting. It's been a fun and versatile bike and I'm very happy with it. However, since my last update I have started to encounter a few durability issues. The first and most annoying started at about 1400 miles. The rear wheel began creaking, crackling and generally making obnoxious noises. I sent it back to Specialized and they informed us that it needed new bearings and a freehub body. For a wheel that had less than three months of riding on it I was surprised that this was considered *normal*. I sent it back to get repaired and decided to get rid of the wheels and replace them with something a little bit more sensible: 32 spoke wheels with normal, serviceable hubs and ordinary rims. I have had two other persistent issues: premature chain wear (no fault of the bike) and poor front shifting. With a bit of extra care I was able to get 842 miles out of my last chain. While this may not seem like a good thing, when contrasted against its predecessors it was a good thing. The front shifting is just finicky and prone to overshifting the large chainring. It's a strange phenomena as I have a compact specific 10 speed FSA front derailleur and a compact FSA crankset. I am using compatible parts so it's somewhat surprising that it doesn't work particularly well.  
+  
+Other than that it has been a wonderful machine. As I alluded to earlier it has served many different purposes. I have a second set of wheels for road riding. When stripped of commuter goodies, the bike weighs under twenty pounds and makes a decent machine for keeping up on fast paced rides on pavement. Likewise, with knobby tires it makes a twenty pound race bike for gravel grinders. Once the accessories are back on it's ready for daily commuting. I'd be hard pressed to think of a bike more suitable for such a wide variety of activities. The more relaxed geometry (as compared to a traditional cyclocross bike) and ability to mount a rack and fenders makes it a superior choice to its competitors. Interestingly, Specialized is introducing a cross specific bike next year. Hopefully they recognize the value of the versatile Tricross and continue to make it a prominent bike in their line.

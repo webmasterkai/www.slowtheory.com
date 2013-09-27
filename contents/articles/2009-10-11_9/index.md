@@ -1,0 +1,9 @@
+---
+title: 'leftovernervousenergy'
+date: "2009-10-11 12:00:00"
+template: post.html
+---
+
+it started normally. there's something on my skin. it feels like a stray hair. I claw at my arm trying to find it and come up with nothing. take my shirt off. still nothing. now pawing relentlessly. coffee maker gurgling in the background. the sun has not yet worked its way into the sky. not done dreaming. I woke up yesterday, went mountain biking, went to the gym, read a book, ate a sandwich. at night I went to bed. this morning I woke up thinking a long, slender hair had affixed itself to my arm. starting life selfish, needy and indulgent and then spending the rest of it pretending it's not in our nature. how fake. how arrogant to think so highly of our species as to project falsity on to every surface. perhaps he is creature, the unexamined natural-state creature. preying on his ability to act natively, by instinct, and that the surface trickery of his companions will at once backfire, that there is no measured response to, "I am following my sensations." I walk to the kitchen with my coffee cup, retrieve my toasted bagel, and return without my coffee cup. upon realizing my mistake, all that I want is my fucking coffee cup back in my fucking hand.
+
+second cup of coffee. suddenly positive!! my mind has been in a constant state of change. irritable. excited. depressed. content. indifferent. my identity pallid. lost somewhere in a wash of muted polarities. "I am working on myself." ha ha. trying to do the things that give me a sense of purpose, that inch me ever closer to that transcendental experience of being alive. for now, I'll just look at pictures of bikes online. goodmorningworld.

@@ -1,0 +1,15 @@
+---
+title: "hed ardennes and sunday ride: part I"
+date: "2008-03-30 12:00:00"
+template: post.html
+categories: 
+tags: 
+---
+
+It was a difficult day to plan a ride. The weather emoticons were for snow, rain or some type of natural disaster. There was even an exclamation mark framed in a stop sign­this means that it's time to panic. I couldn't decide which bike to ride and what to wear. Temperatures at departure were near fifty degrees, so naturally I chose shorts and a long sleeve jersey, knowing that I would be totally fucked if it rained. I went back and forth between the crosscheck and my road bike, moving my water bottles back and forth at least three times before settling on the road bike. I figured that with my sandals (I still need to solve my road shoe dilemma) and shorts, fenders probably wouldn't make it much less catastrophic if it rained. The wind was obnoxiously strong from the west. We reached the river road and I had the first chance to try my new wheels on any kind of incline. I should explain that over the winter I purchased a pair of HED ardennes wheels. I'm typically grouchy in my equipment selection, but I liked the combination of normal wheel parts, a wide rim, and extremely light weight. In theory it should produce a wheel that is comfortable, fast and nimble without looking gaudy. Going up the hill near the U of M campus I was amazed how easily it was to accelerate the wheels up the hill. The grade is only about 5-8% and the hill isn't very long, but it was still a remarkable test. My speed had only dropped to 19mph by the time I reached the top (the bottom of the hill starts at the bottom of a descent, so starting speed is usually 27-30mph). 
+ 
+The rest of the river road was pretty uneventful. We crossed the river and were walking through some rutted sections of snow and ice on the trail when a girl on a Trek road bike flew by, fishtailing wildly but somehow making it look graceful. I laughed and admitted that she had totally owned us. Once back on dry pavement we caught her quickly, but I failed in hiding my shame. We turned on to Ohio St. I hadn't gone up Ohio in a long time, which became obvious as I panted in my 39-21 and then my 39-24. I didn't make it to the 27, but that was only because I wasn't sure that I had checked my limit screws since switching wheels. It was difficult, but I was once again impressed with the performance of the ardennes. 
+
+After a precarious descent of the high bridge, we went down Summit to Marshall, and then to the Greenway. There were enough people on the trail that it was irritating to weave in and out of them. The wind was pretty brutal going west, and not at all rewarding going east. I can only speculate that it died, my legs died, or it switched directions. 
+
+The storm started moving closer and the temperature dropped. By the time I got home I was cold and tired.

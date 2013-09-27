@@ -1,0 +1,9 @@
+---
+title: 'mindfulness'
+date: "2010-10-06 12:00:00"
+template: post.html
+description: 
+categories: Life
+---
+
+I have fallen into a mental rut in the past month. my hope has been inequitably dispensed to the insensible and energies bottled in the unquestionable. I need to refocus and eliminate excuses for unhappiness. at the moment, I exist as my own environment and as such I need to be responsible for my own clima(c)tic regulation. during the summer I distracted myself by engaging with *everything*, not bothering to parse people or situations for mental and emotional profitability. autumn emerged just as I began redirecting my financial resources towards preparing for the tour divide and I once again found myself frequently alone with my faculties. I have retained a few friends and acquaintances from the flurry of summer activity, but not very many. here I am again, presented with like-mindedness of my *historical self.* the answer, in part, is a pursuit. it happens that I have a large one ahead of me: the divide. it is a purposeful distraction, catapulting myself into the future with the single-mindedness of my *ahistorical self.* this morning I went to the gym as I have often done lately, but I went with the renewed vigor of a purposeful endeavor. this escape. this plan. this moment in my life holds something. it is an opportunity to strip myself naked and stand before the world as an ordinary human creature, something observed indifferently for millions of years but this time honestly. spiritually bereft, perhaps alone, but insistent on the near humiliating state of being seen in the right-mindedness of my *future self.*

@@ -1,0 +1,19 @@
+---
+title: "communication difficulties: part I"
+date: "2007-04-09 12:00:00"
+template: post.html
+categories: ['Life', 'writing']
+tags: 
+---
+
+suddenly I'm inaccessible or screaming from my front window. the radio is injecting rhythm into my ordinary, everyday anger, pumping fluids into the bulging blood networks on the backside of my hands that leap suddenly into my flesh and emerge again near the soft indentations on either side of my neck. I admit, that contrary to everything I have been dreaming, I am also losing in that passive- aggressive relationship I hold with myself. should I cling like spiderweb? or abandon hopelessly in sexually charged snippets from the newspaper? setting the other up (hopelessly) to set eyes upon that thing which will devour sensibility and relive that inconsequential moment of our own first reading. hey, I read this book. you should check it out, it says something like this: sharing is a kind of violence. standing stark in the reflection of your eyeballs smirking, clearly mouthing the words fuck off, while affectionately you spit­"he described Glaukos like this: he smiles so little alone." fuck off, kitsch. a man is talking to me. my mind is gone so all that I'm getting is the thick sense of desperation. it's oozing, filling the air around me and I let loose the words: leave me alone. I'm in love post-emptively, and I shan't utter a word in the direction of the object of my affection lest it derive some transgressive sense of pleasure from this imperative: fuck off. fuck off fuck off. I roll my shoulders forward with the music, now infused with my biological functions so that when Glaukos seizes me by the shoulders I can only experience the glistening strands of saliva between his teeth as he contorts his face at me. there should be so much noise. I should be drowning in it. but there's only the sound of blood rushing through my head, trapped by hands pressed unfalteringly at its sides. Glaukos of my desperation, and I can't understand a word that anyone utters at me. but conversation continues, almost more effectively than in the space of discord that occurs when two people try to communicate their aggressions of superiority. dedicated to my friends. 
+
+---
+
+###started one week ago: part I 
+
+I rarely watch the news on television, but I was thinking about something earlier today: why do they broadcast from certain places? For instance: when someone is murdered or a house is burglarized, is it really important that the reporter stand in front of the place where the incident occurred? It is infrequent that any remnants of the news event are visually identifiable, except perhaps the foreboding yellow police tape, so it strikes me as peculiar that reporters are unnecessary shuttled about the countryside. I was riding home in the snow earlier this evening thinking about writing these lines: *it was so beautiful riding home, with little snow pellets congealed to form expanses of naked white ground. I think it was the unbelievability that most touched me*… when I heard a man yelling. It frightens me when I hear vague, distant yelling and I can't understand where the noise is coming from. It is like a ringing telephone­you feel the need to answer it. As I continued the yelling grew nearer, or I nearer it, and I started identifying words­"enough of your obsessive...fucking show the humans that you exist..." and it went on like this as I faded into the background of his budding apocalypse. 
+
+Morning. Awake early, trying to seize on to either end of a long work day to claim some time as my own. Check the weather. It's awful. Why do people choose to live in places like this? In the cold, where the body's first inclination is to get fat and fall asleep. Inventory my cabinets. Try to invent breakfast. Some things, some things. 
+
+Evening. Getting drowsy. Another long day. Invent dinner. There's a note underneath my door, and this time it's not from who I expected.

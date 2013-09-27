@@ -1,0 +1,9 @@
+---
+title: "[]: part I"
+date: "2007-08-11 12:00:00"
+template: post.html
+categories: Writing
+tags: 
+---
+
+I wanted it to storm. The sky was a sick shade of brown and yellow. I watched the subtle ripples in the small puddles. My teeth didn't hurt. In my head I was composing the first four lines of a multitude of different letters, responses to things that I've been asked to answer almost as many times as I've considered answering. A soft trembling thunder echoed in the past. My mind oscillated between a seemingly cruel admission of an incapacity for unselfishness (note how I obfuscate my meaning) and a total embrace of a new mentality based on old principals. I would have to completely alter the way that I speak, I thought. Justice, I imagined, would be to stop trying to convince him or her that I have the ability to transcend the demeanor that I have taken as a frightened response to a tragic expulsion of my senses. I did not owe this primitive character the honour of having ruined my ability to diagnose in myself appropriate means and measures of self contribution. I could have said something simple and allowed myself the opportunity to idle momentarily without a schematic based on momentum­the concept that propelling myself beyond feeling and sense before seizing on its sincerity was the way to avoid the consequences of submission. I looked at my fingers in the electronic glow of the keypad. One, two, three, four. I tapped it out rhythmically, the first and last digits in pairs. I sniffled. My allergies were bothering me. My eyes were puffy. There were orange pills behind the bathroom mirror that made my mind foggy and my senses dull. My breathing became slow and heavy, almost automated. My pupils grew small and the room became a darkened mass of paints and textures. I thought­-when I draw do I think about structures or do I think about perversion? The storm did not come and I left my skin feeling uneasy.

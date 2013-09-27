@@ -1,0 +1,13 @@
+---
+title: "fallen friends: part I"
+date: "2008-10-04 12:00:00"
+template: post.html
+categories: 
+tags: 
+---
+
+I went in late to work today so that I could go on the memorial ride for the four cyclists who have been killed in and around the Minneapolis area in the past month. I didn't know any of them personally, but I knew the places they biked, I knew the smell of autumn on Summit Avenue, I could imagine without comprehension. This is what life is like. This is the part that I can identify. But they are now gone, victims of carelessness and a carcentric culture. One of the killers is still at large and I can only imagine (without comprehending) what their hell must be like going to sleep each night. It makes me angry, of course, as anything that runs contrary to human decency and dignity, but more than that this I attended because this is what I would want if my life had ended--people getting together and enjoying what I enjoyed, remembering me lovingly and fondly in a celebration that I'd enjoy if I'd been there. There were three other longbikes when I pulled up, and I was quickly given a flag and some pamphlets explaining our agenda. I handed them out to the curious or the inconvenienced so that they would understand what was happening. It wasn't just another lawless critical mass. The crowd was very diverse. There were the hard core road bikers on their carbon rigs, commuters with their waterproof panniers, kids on trail-a-bikes, recumbents, and mountain bikes that didn't seem to have been out of the garage in years. It was cool to see that the effect was not clearly defined, it was not cars versus bikes. People were out there thinking about bicycles in a different way because they were neighbors and friends. Even though the ride was very well thought out, I don't think that anyone could have imagined how large it would be. It took several stoplights for the waves of cyclists to make it through, and by the end a core group were acting as ride marshals, blocking off intersections and waving the crowd through. The majority of motorists were very respectful, although one old man yelled boisterously from a parking lot that we all needed to get cars. No sir, that's not the point at all. I wonder if he'll ever figure out that he was yelling at a ride meant to honor the lives of the deceased. People were filming everywhere. Interviews, videos...it seemed like a circus at times, but I think that most people had their heads and hearts in the right place.
+
+![](http://slowtheory.openphoto.me.s3.amazonaws.com/custom/200810/00003-625d83_600x600.jpg)
+
+![](http://slowtheory.openphoto.me.s3.amazonaws.com/custom/200810/00005-4dbec3_600x600.jpg)

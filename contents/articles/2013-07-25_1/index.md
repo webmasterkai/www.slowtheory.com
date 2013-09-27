@@ -1,0 +1,25 @@
+---
+title: 'Change'
+date: "2013-07-25 12:00:00"
+template: post.html
+---
+
+### First, the dream
+
+For several years, it has been an infrequent occurrence that I remember a dream. However, last night, I was afforded the following (potentially illuminating) snippet. Michelle and I were in a nondescript field, surrounded by friends, all of whom were lounging casually on picnic blankets,  collectively waiting for the imminent end of the universe. There was a sense not of panic, but of contentment. However, this overwhelming sensation seamlessly transformed into anxiety. *I needed to do something.* I did not understand. What did I need to do? I soon found myself breaking into a stranger's home, bent on pursuing a single item--Reese's peanut butter cups. I pilfered cabinets until I found them, and that was how existence ended for me: alone, looting a stranger's home for candy. Sad.
+
+### Second, the ideas
+
+Things are very different this year. In many ways, it is bliss. I have worked less and had my weekends free to participate in awesome events. The simplicity and freedom of being able to do what I am compelled to do has been such a foreign luxury. For seven years I worked in a retail industry where it was possible to finagle a day or two off, but not without distinct challenges both logistically and emotionally. Retail, especially as management, often acted as the possessive and jealous partner, begrudgingly allowing an occasional indulgence, but always with the implication of unspoken consequences. I admit that I miss it sometimes--the comfort, the repeatability, the predictability, and the unquestioning pursuit of *something*. Instead, I am now guided by self-direction and self-will. I am fully responsible for my own circumstances. If I don't have money, it is my own fault. If I don't utilize my free time in a fulfilling way, I am to blame. If I don't nurture and build the relationships in my life, then it is my own shortcoming. The terror of that world is impressive.
+
+Which brings me to say: next week is my last at Cycles for Change. After four months, I have decided that it is not the right situation for me. The organization is full of good people, and the overarching mission is admirable. However, the structure is not one in which I find myself compelled to dedicate the time and resources necessary to feel good about what I am doing. The high degree of specialization and compartmentalization runs contrary to an idealistic notion I have of a socialist-led, humanitarian movement synergistically gaining its momentum like a cartoon snowball without faces, names, or particularity. I felt that I had the skills and resources to contribute energy to a shared space where the combined efforts of amazing individuals might create a supernova of human (com)passion, beauty, and efficiency. Perhaps I wanted too much. Whatever the case, I will once again begin a new chapter August 1st.
+
+### New chapters, new friends
+
+In this shifting landscape, many of the people in my life have changed. I often joke with my friends that there is a two year expiration on being my friend. Sadly, that is more true than it is false. Through the course of planning our wedding, buying a house, and changing jobs, I have become aware of the insistent malleability in the face(t)s in my life. I form relationships, they prosper, and die quickly and without bravado. Is there fault to be assessed, or is it just the natural course of things? I have changed certainly. I am making running friends now. I don't bike as much. My work friends are either gone or irreparably diminished. There is a lurking sadness to it, but it is mirrored against the excitement of new friends and new experiences. More than anything, I try to just let it be what it is, and to be especially grateful to those relationships that have weathered what many others could not.
+
+### And the activities that accompany them
+
+And it returns to this point: a thing, a thing defined in space with parameters, experience, and expectation. This weekend I will be heading up north with a group of new friends to run from Split Rock to Tettegouche. It should come in around 30 miles, and provide me with my third marathon or greater distance run of the month. Michelle will be along to finalize some wedding things. We will camp, enjoy perfect weather, and feel good about being alive. I will see beautiful things on the trails, enjoy the company of other runners, and appreciate the simply joy of living and moving freely through this world.
+
+What this has to do with peanut butter cups, I am not sure. I would like to think that if the world were really about to end, I would do something glorious. I would experience a profound moment, express that inexpressible thing that has lingered on the tip of my tongue seemingly for decades, or at least collapse in the arms of a loved one and wait together for it to end. I would not expect to find myself stealing candy from a stranger's cupboards.

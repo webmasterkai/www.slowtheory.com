@@ -1,0 +1,7 @@
+---
+title: 'carried away'
+date: "2009-11-17 12:00:00"
+template: post.html
+---
+
+we are compatible, lovely, brilliant people. thinking, feeling, being, acting strangely...according to everyone else. reinvigorated by the subtlety of touch. I feel/felt/will feel at home with her. I remember when we met. it was intense, but its intensity was not accompanied by the typical panic that accompanies intensity. it was expression. it was not the veiled bullshit-hyper-intensity of this city's sensualists, this city's wandering drunken mass of derelict screamers. I liked how she felt next to me. I like listening to her talk and falling in and out of sync with the rhythm of her breath. it was amazing that two people should meet. finally, inevitably, consequentially. with those sensualists forming lines above our feet, their words tainted and their mouths stinking of each other, offering their unsolicited opinions. another inevitable encounter, but now we hold each other and press our ears together against the white noise of their opinions rising, falling, and eventually fading away into the discourse of noise. I loved her almost instantly. I know that now, but it took much longer to reconcile that against the self governance, the petty fears of being an adult, of dreaming plagiarized dreams and enacting caricatured renditions meant to defer the authenticity of existence. finally, we could turn to each other and say without fear, let's be together forever.

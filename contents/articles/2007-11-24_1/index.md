@@ -1,0 +1,9 @@
+---
+title: "this is not creativity: part II"
+date: "2007-11-24 12:00:00"
+template: post.html
+categories: 
+tags: 
+---
+
+Five days ago I was lifting weights when something in the area of my trapezius made a horrifying popping sound. Pain shot up the back of my neck. I went upstairs for an ice pack and some alieve. I finished my workout and spent the rest of the day holding my head a few degrees forward of where I would have liked it, occasionally losing my breath as my nervous system overwhelmed my ability to remain biologically coherent. Day two was almost as bad. I left work a couple hours early and spent the rest of the night with an ice pack lodged at the base of my neck. The shooting pain was compounded by the accumulated fatigue of holding my head in an unnatural position for two days. It has now been five days. The pain has been confined to the area between the trapezius and deltoid. It is much less severe, but still present. The new version of gmail seems to be very resource intensive. It has locked up my browser for up to thirty seconds, oftentimes when it is doing nothing more than sitting idly (presumably, though apparently not) in a background tab. I cannot fathom why they would have fucked with what I had deemed the perfect balance between utility and glamor. There is an option to use the older version, but it must be selected after logging in to the new interface. Fools! I almost accidentally, almost purposely sold one of my two crosschecks. I started an ebay auction for it about a week ago with the intention of selling it. Two days into the auction I changed my mind but figured I would let the auction get closer to the end, just to see if a bidding war erupted. By the time I remembered to evaluate whether I wanted to proceed with the sale the auction had ended. It's probably for the best. I need to have fewer bicycles and corporations to whom I am indebted need to have more of my money. It's simple math, really.

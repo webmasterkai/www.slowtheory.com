@@ -1,0 +1,28 @@
+---
+title: 'welcome back, tim'
+date: "2012-06-26 12:00:00"
+template: post.html
+description: 
+categories: ['Life', 'Food']
+tags: ['sesamoid', 'weight loss', 'homesteading']
+---
+
+Lahlala. Here it is--triumphant return to words. Trust that it will be awkward tiptoeing for the moment, as the limited writing that I've been doing has been very goal-oriented-(b)ike(s)hop-rhetoric(?) Of course, that is not to say that I've been thinking wordlessly, in sensation, for the explicit purpose of propulsion. No, I still daydream, but for now I will recap my life:  
+  
+**Food and fitness** The thing that started as a plan to get me to the finish line at Almanzo the fastest, has morphed into something else, something better. I have changed my lifestyle. I weigh 157.2 pounds. I bring my lunch to work everyday. I subsist almost entirely on plant based, whole foods. I feel great. My body and I are in agreement that things are generally improved--recovery, mood, focus, clarity, endurance, etc. While I have dabbled with something I dubbed "vegetarianism" back in the day, I've never made a concerted effort to live with a *balanced *vegan diet. Watching **Forks over Knives** really helped to illuminate just how much our bodies prefer healthy veganism. Prior to watching this, I had read a portion of Brendan Brazier's **Thrive Diet** and T. Colin Campbell's **The China Studay**, both of which resonated with me, but seeing much of the information synthesized and presented in documentary form was compelling/captivating/*wholly* convincing.  
+  
+Aside from Almanzo (where I rode like a complete moron) this improved fitness has led to a vast improvement in my performance, especially in the later stages of endurance activities. The first half of the Minneapolis Marathon was much like other marathons I've run. In fact, I was faster at Hilo for the first half. However, as the hours passed my body did not implode in the same way that it has in the past. I not only did not *lose* time, I managed to gain almost ten minutes on the back half of the course. Similarly, the last ten mile stretch of the Dirty Benjamin was easily my fastest, in spite of a section of particularly soft gravel.  
+  
+**Fractured Sesamoid** My goal this year has been to fix many of the things that I've been ignoring for years, especially as it pertains to my health. For roughly ten years I have had a "bad foot". Sometime in the early 2000s, I injured my toe and foot. The root cause remains somewhat shrouded in mystery (it certainly happened while working at Target, but unfortunately I did not process the appropriate paperwork at the time of the incident), but the initial problem manifested in a disgusting purple, puffy, puss filled big toe and swelling on the underside of the foot. Weeks after the condition first appeared, I went to the doctor. He suspected a fractured sesamoid, but could not confirm the diagnosis. He recommended removal. I didn't have health insurance, so I asked for a price. *Hah hah hah,* he replied. I did not have the surgery.  
+  
+While the injury proved persistently problematic, it did improve over time. I slowly returned to running, albeit a bit slower and with a closet full of running shoes that were not conducive to running on a fractured bone...and that's been the story for ten years. Although it still hurts, and probably always will, my main concern in re-addressing it was the affect that it has on my running stride. That part of my foot is constantly  swollen and results in an unnatural "ball first" ground strike.  
+  
+So I went to a podiatrist. "Do you want to see what a fractured sesamoid looks like?" he asked me. Uhm, gulp, sure. Clearly more proficient than my previous doctor, he was able to show me the bone, which even ten years later, is split in two.  I just assumed it healed, but incorrectly. Guess not. I have a bone that's broken in two.  
+  
+The solution? Either removal or orthotics. While my first doctor had very little to say about the possible drawbacks to removal, my new doctor grabbed a model of the foot and explained the function of the bone and the consequences of its removal. Essentially, it's a guide for the tendon that articulates the big toe. After removal, it's necessary to snip another tendon to disallow the toe from drifting inwards. Oh yeah, and the recovery time from surgery? It's a while. Ten years ago it was explained that it was an outpatient procedure that would have me out of commission for no more than two weeks. That's not the case.  
+  
+So I've decided to try orthotics. I had my foot molded yesterday and will be ready to rock in 2-3 weeks. In the interim, I will do what I've done for ten years: try to land softly.  
+  
+**House hunting** Michelle and I have been looking at houses. We've been to the meeting where we talk about our credit, our upper limit, the pros and cons of Conventional and FHA loans, etc. We have a realtor (hi Ted!). It is exciting. Either way, I will be moving at the end of July, either into Michelle's duplex or a house. I am thrilled about this, not only because it represents the next stage in my life, but because I can leave behind thirteen months of living in the worst place I have ever lived.  
+  
+We looked at a couple of places on Sunday, and will look at three more on Thursday. Nothing has piqued our interest so far, aside from a few aspects of different houses, but we are beginning to hone in on both our intended price range and desirable characteristics. Thrilling!

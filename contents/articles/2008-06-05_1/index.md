@@ -1,0 +1,11 @@
+---
+title: "marathon update: part I"
+date: "2008-06-05 12:00:00"
+template: post.html
+categories: 
+tags: 
+---
+
+It seemed obvious after missing two months of training due to bronchitis: a marathon wouldn't be in the cards for me come June. Nonetheless, I had to try. My training in January and February was fantastic, and to simply project that I wouldn't be able to recover from missing March and April would have left me feeling unfulfilled. I made a push in late April and early March, increasing my long run mileage at a pace that my body simply could not handle. Since handily completing a seventeen mile run earlier in the month, I've been struggling with achilles tendinitis, for which the only sure cure is decreased volume. Without time to rest the injury my runs have been getting progressively worse. On Sunday I completed only twelve of a planned twenty miles. Today the plan was to do five mile loops until I couldn't run any longer, with the vague goal of completing the twenty miles that I failed to complete on Sunday. I made it only six and a half miles before I was forced to limp back home. As such, I've come to the realization that what I've been anticipating since March has come to fruition: the unfortunate consequences of prolonged illness will stop me from running Grandma's. It's disappointing, but not nearly as devastating as not being able to run last year. Finishing Milwaukee cured me of a disorder lodged in my brain that I would be unfulfilled as a human being until I ran twenty-six miles in a span of a few hours. Instead, this one was for fun, an opportunity to return to Duluth and revel in the electric atmosphere produced by a gathering of dissimilar people all with the same daunting challenge before them. It's exhilarating to see people putting it all out there, leaving nothing. 
+
+So instead of running I will plan a bike trip to Duluth. It's the impact of running that aggravates my injury, so cycling is less of a problem than even walking. I'm going to plan for a two day ride in each direction, stopping at either Banning or Saint Croix state park on the way. More details to come.

@@ -1,0 +1,16 @@
+---
+title: "Regeneration. Or farewell."
+date: "2013-02-10 12:00:00"
+template: post.html
+categories: 'Life'
+---
+
+Folklore tells me that every seven years the cells of the human body completely regenerate, that it devours itself and re-emerges as something influenced by, but entirely separate from its original form. Science can disprove this, but it is a compelling myth, one for which I will temporarily suspend my disbelief. 
+
+On February 22nd I will complete my seventh year of working at the Bicycle Chain. A week later, I will turn in my keys, wake up the next morning, and do something different. The things that are ingrained in me--*the people, the ideas, and the experiences that shaped a crucial period of my life*--will be no less a part of me, but I will wear new skin, breathe through a new mouth, and move with new limbs. There is no synopsis to be written, no grand finale to be pantomimed. It is an individual's evolution, too mired in the consequence of the moment to be anything other than a passing instance.
+
+I am a different person than I was in 2006. I was complex--a student, another full time job, blithely pursuing youthful complicity in all manner of messiness, financially decimated from years of dutiful academic ritual, sleeping little, living forever, and whispering late into the late night about that one special rebellion that we all think will happen before we turn thirty. Seven years later, and I am no longer that complex. When I have insane ideas, I preprocess them, invoke them with a weird smirk that promises temporariness. 
+
+There are things I will miss. Bike shops attract good people. It's a job, of course, but the impetus for the work is *purposeful*. Adjusting a derailleur means that someday I will get to be part of a transformative process that will further an individual's state of well being, sense of accomplishment, and ability to live peacefully, sustainably, autonomously, and organically in its environment. I was drawn into the cycling world by the co-opted image of the urban fixed gear cyclist, his sweet messenger bag, and sticker-adorned iBook. Somewhere during the journey, I learned to appreciate the infinite capacity, accessibility , and scalability of the bicycle experience. It was sport, recreation, transportation, and *life*--a philosophical playground that quickly adapted to the exigencies of the human sentiment. Aw, love.
+
+In some ways, I could have done it forever. In others, I could not. The landscape is changing. I need to face new challenges, and the bike shop needs to evolve in a way that I cannot facilitate. It needs someone who lives, breathes, and dies by it. For seven years, I have been the person to do that, but it's time to put family, friends, and adventure first. The people with whom I have shaped this part of my life will remain irreplaceable, and the experience, one that I reflect on with immense gratitude. So, I say *good-bye*, but I do so happy in the knowledge that I have been a part of something wonderful, and that from that thing, our intertwined lives will continue to flourish. 

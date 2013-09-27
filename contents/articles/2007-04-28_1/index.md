@@ -1,0 +1,11 @@
+---
+title: "mismanaging time: part I"
+date: "2007-04-28 12:00:00"
+template: post.html
+categories: 
+tags: 
+---
+
+I was at the supermarket today when I overheard a man telling his daughter this story: 
+
+"Honey, I didn't appear in my daydreams today. It was the strangest thing in the world, to drift slowly off, but to have my form, function and fashion all blinked away in an instant at an indiscernible boundary between consciousness and resignation. In my place there was a ripe, free, hateful, beautiful, white vacancy. I wasn't observing things in the particular way that a person does while attached to a body. For instance, no matter how hard I looked I could not catch the glow of my features in my peripheral vision. I could not confuse my eyes while searching out my nose, because I did not have either. It was very liberating. I suddenly felt like being very bad. Afterall, I was nothing more than a floating, ambiguous particle mass extending into a world of sadistic, heavenly voyeurism, a striking perversion of an actual reality of accountability made possible by an exact association with forms. But, as I have already mentioned, there was no precision in my association--­I could easily have further extended or retracted with nothing more than the will to do so. I soon realized that not only could I extend and retract those loosely associated particulars, but I could invent dissimilar and entirely diassociated-- particles, conjured as distorted, lovely artifacts from my past. For instance, the song landslide is playing on the radio but there is a cembalo and I am light on my feet. It was wonderful, but I started to worry--­if I die, does all of this die? By disassembling my particles and spreading them like dandelion sperm across this vacant world I had wound a certain intricacy into the existence of my thinking being and the absolute everything. I had made myself much more important than I should have been, interwoven with every existent or conceivable thing, even with the space itself. I was frightened so I began retracting, hoping that the space would regain its autonomy if I stopped spreading over it. I tried to disambiguate my particulars and become a very particular and very small thing that only shared in the immaculitude of the space. And in this way, I started acting human again."

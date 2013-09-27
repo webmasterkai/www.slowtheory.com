@@ -1,0 +1,9 @@
+---
+title: "goals: part I"
+date: "2008-08-01 12:00:00"
+template: post.html
+categories: 
+tags: 
+---
+
+It's hard for me to go a long period of time without having an arbitrary goal on the horizon, so I've spent this past week shaping out a direction in which I'd like to propel myself for the next many months. My new training goal is this: run grandma's next year in under four hours. It's an ambitious goal. I need to shave thirty minutes from this year's time, which comes out to a minute and change per mile, or 12% faster. How am I going to do this? Well, first I need to weigh at least 12% less than I have anytime during the past 13 months. Unfortunately I've used having a roommate as an excuse to let my eating habits become quite horrible. Foods that I wouldn't think about eating a year and a half ago are now commonplace. This needs to stop. I need to drop my bodyweight to 165-170 by the time winter rolls around, and then maintain it through the cold months. Dropping weight during the spring is just too difficult as dramatically reduced caloric intake tends to be accompanied by sluggish performance on long training runs. To further facilitate this weight loss I intend to bookend most days with an extended morning commute and a short run before bed. My running volume will remain relatively low until february or march. Relying on multiple types of training to build my base fitness will ensure that I stay fresh both physically and mental y. None of this is new territory. I have thought and haphazardly implemented many of these ideas in my previous training. I hope the difference this time is that I have greater experience, confidence, and conviction.

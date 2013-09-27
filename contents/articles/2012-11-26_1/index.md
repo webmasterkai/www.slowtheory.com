@@ -1,0 +1,9 @@
+---
+title: 'The apparent injustice of unplayable scrabble BINGOs'
+date: "2012-11-26 12:00:00"
+template: post.html
+description: 
+categories: 'Life'
+---
+
+My scrabble skills are best described as "mediocre". Several games might pass without that lovely and triumphant moment of grabbing all of my tiles, nervously arranging them on the board, and calculating to the tune of my misfiring neurons the truly impressive total. Two days ago I was in a very close game with a nearly sleeping and completely disengaged Michelle, when the world "PIVOTAL" appeared on my board. Now, it was with such obvious premeditation that the tiles appeared, that I felt only shame and disbelief upon scanning the board and finding no place to play it. Generally, I am quite quick about my turns, but I lingered here, in utter disbelief that with half of the board empty, I could not invent a place to play my word. I cursed, muttered, and openly proclaimed that I had a "SCRABBLE" (sic) on my rack, and it was only through the misfortune of circumstance that I found myself unable to play it. Eventually, I let it slip away. I feigned casualness and the appropriate level of emotional investment. It's cool, it's cool. Two turns passed. My small lead began to shrink. I drew the two tiles that I needed after completing the word "CAT", and found the word "GORILLA" sprawled across my rack. What?! Twice in four turns a seven letter word had appeared, and this time without the use of any mental faculty. I simply placed the tiles from my hand into the open spots and a word appeared. Once again, fate was kind and unkind in equal proportion. Despite the contortions of my expression, the sheer pain etched in the movements of my face, there was no place for my word. The letter "S" appeared 87 times on the board (approximately), and *none* of them would allow for my parasitic word to latch on. This time, I was not defiant. I was frustrated and defeated. I proceeded to pout.

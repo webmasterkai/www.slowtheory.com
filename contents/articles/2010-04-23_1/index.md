@@ -1,0 +1,7 @@
+---
+title: 'chain experiment #2: dura ace with chainj'
+date: "2010-04-23 12:00:00"
+template: post.html
+---
+
+Lately it seems that the only bike I can ride without incident is my singlespeed aframe. Everything else has been self destructing, especially so with the Tricross. The first time that I rode it after putting on the new chain things were going swimmingly. We were having a spirited group ride home during which I spent most of my time in the big ring. However, as things settled down I shifted into my small ring. The terrible sound of chain suck filled the air, followed by a frantic effort to untangle the mess and find a gear that still worked. I stopped under a streetlight to assess. the front derailleur was canted inward and clearly bent. I fixed it as best as I was able with the tools, parts and time that I had available and resolved not to shift the rest of the way home. Since the front derailleur cage was bent I attempted to bend it back with my hands. It snapped. I also noticed the chain was twisting. I replaced the inner ring, the chain and the front derailleur. It seems to shift well in the workstand. If it breaks again I think I'm going to roll it out to the dumpster and convert my remaining bikes to singlespeeds. Oh, the chain experiment starts anew: Dura Ace chain with the same lube.

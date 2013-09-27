@@ -1,0 +1,17 @@
+---
+title: 'lake elmo'
+date: "2009-04-06 12:00:00"
+template: post.html
+---
+
+The forecast for Saturday night camping was not promising--rain turning into snow overnight, a span of bluegreenpink that could not even be contained by four different states. Six people had committed to going, with a seventh waiting for heavenly interference to forsake the inevitable. No, no, not a chance! I watched the radar most of the day at work. It inched nearer. There was no chance that it would miss us, the only question being whether it would be in the form of blue, green, or pink. I expected cancellations. There were none. I was anxious to see what Jeff would bring since I've never camped with him before. Just as I expected, his setup was extreme--a sleeping bag and a couple of tarps. Jeff is a hardass, always. I'm jealous, but mostly just in awe. The ride out was quick with the exception of a stop to change a Big Dummy flat on Ryan's bike. Surprisingly, we made it almost to Lake Elmo before we encountered any rain, and just as we pulled up there was a lull long enough to set up camp. Good luck! I opted out of the bivy and brought my tent. Combined with an entire pannier full of wool and a new sleeping pad my night would be extremely pleasant. I was warm, dry and sleeping well. I probably would have slept until 10am had the A-train not woken us all up with chatter and pan clashing. He was nervous about getting to work, so he and new Alex left just as I was finally rolling out of my sleeping bag. The outside world was much less pleasant than my cocoon of warmth. Overnight the unceasing rain had finally turned to a wet, sloppy snow. Everything was buried. I made breakfast. Coffee and oatmeal. Slowly I began to pack up my wet things. The snow continued to fall.
+
+![](http://slowtheory.openphoto.me.s3.amazonaws.com/custom/200904/00016-9748d2_600x600.jpg)
+
+![](http://slowtheory.openphoto.me.s3.amazonaws.com/custom/200904/00025-3b0afa_800x800.jpg)
+
+![](http://slowtheory.openphoto.me.s3.amazonaws.com/custom/200904/00026-67cda0_800x800.jpg)
+
+At the park office I explained that we had spent the night in spite of the closed campground and I would like to pay. "It must have been cold," was her only reaction. My sunglasses ended up stepped on and broken during camp teardown, so the falling snow felt like daggers as I squinted to try to ride in a straight line. Around the same area that Ryan flatted on the way out I noticed that my rear tire was going flat. Fuck. It was about seven miles to home and the combination of a high volume tire and a fairly slow leak encouraged me to try to get home on it. I saw bubbles and heard hissing as I pushed more air in with my mini pump. As we continued it got worse and I had to stop several times to re-inflate. I simply wasn't going to change it on the road. It was too wet. I had too much shit. It was easier just to stop and inflate it. As I went up Arlington it became a race against time: get to the top of the hill before it went completely flat. I made it three quarters of the way to the top before it got to a point where I was risking the rim. I got off and walked to the top. My forearms were getting tired.
+
+Finally I got home. The following things got a FAIL for the day: Schwalbe, Snowpeak, broken sunglasses and rain. The following things WON: Exped Downmat, Marmot Goretex rain jacket, wool and my tent. 

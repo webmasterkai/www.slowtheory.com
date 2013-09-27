@@ -1,0 +1,13 @@
+---
+title: 'Getting ready for the Wilder'
+date: "2012-12-02 12:00:00"
+template: post.html
+categories: Running
+tags: ['Winter Wilder']
+---
+
+It was foggy. The alarm went off at 6:15am. I stumbled to turn it off before the urgency of the beeping increased. I didn't make it. The rapidity and sharpness of the tone coaxed my slow-moving limbs into poorly defined motion. I stumbled back to the bed and went to sleep. The next hour was spent restlessly engaged in a vivid, shapeshifting dreamscape. The past, the present, the future unimaginable...all tangled and knotted into a mess. Yet, I woke up feeling rested, happy that for the first day in a while I was able to sleep until there was even the dimmest hint of sunlight. I went out to get coffee. The length of every street was exactly the same, disappearing into a fog. I liked the smallness.  
+  
+I slowly ate breakfast, and scrutinized my day until I was completely overwhelmed. "I'm getting sick," I announced. It's been two years since I've been legitimately ill, so this is both surprising and completely unremarkable. I left without food or water, thinking that I'd run for about an hour and return home. In the deepest recesses of my mind, I had an idea that I might go for a half marathon. Why? No reason, really. It seemed like a reasonably sane, but ambitious goal. I have struggled somewhat to remain motivated as the weather has changed. I needed something. I needed to escape from everything and just run, let the self-imposed life pressures melt away into a sinister expression proclaiming, "I'm done with that."  
+  
+I felt good. The world was damp, lonely, shrouded, small, and perfectly mine. The sound of my feet striking the ground was beautiful. I listen to this. In the late stages of a marathon you will hear some of the most awful thudding and slapping of the feet against the pavement. Not on this day. I looped around Saint Anthony Main, returning to Dinkytown with a choice--keep going or go home. A moment's hesitation allowed me to assess my body--aside from a lack of water, I was in good shape. By the time I reached the trail section behind the U of M golf course I had grand visions. I cruised back the Transitway, where I saw four cyclists coming towards me. "Alex!" We chatted briefly, and I began the first of four short loops that would get me to half marathon distance. I finished strong, but still feeling like I had not worked terribly hard. My real time was one minute slower than my fastest half marathon, but I could have beat that if I hadn't stopped to talk to Alex. Either way, it was promising. The 2013 running season is going to be good.

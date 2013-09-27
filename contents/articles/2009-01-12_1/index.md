@@ -1,0 +1,13 @@
+---
+title: "new rollers and a new website"
+date: "2009-01-12 12:00:00"
+template: post.html
+categories: 
+tags: 
+---
+
+Even though it was a relatively nice weekend, I spent my time inside. Last week I decided to expand my indoor cycling options with a set of Kreitler rollers. The trainer often feels like a drillbit slowing boring its way through my skull, so anything even slightly more engaging would be well received. I opted for the middle sized drum, which based on its ~150 watt output requirement at 18mph is almost perfectly matched to summer cycling on flat ground with little wind. My first ride on them was a bit awkward. Steering was weird and I had to focus intently to keep from running off one side or the other. It got much easier on my second and third attempts, and by my final ride of the weekend I was able to drink from my water bottle and set up without objects on either side. I put on almost fifty miles in three days. I can already tell that it's improving my pedaling technique. Poor pedaling results in a loss of control, so I've been forced into making better circles. It's left me with a strangely fatigued sensation in my hamstrings and hip flexors. That's probably a good thing. 
+
+Aside from riding the rollers I spent much of my time working on a website revision that I plan to unveil by the end of the week. It's been Over two years since I've redesigned my site, so I decided that for 2009 I would make a new site from scratch. Instead of using a packaged software bundle like wordpress, I've been writing everything. There's no real point to it as the available packages work equally well and take only a few minutes to install, but it's a semi-productive use of time and has hopefully made me a little bit smarter. I know a lot more about RSS formatting anyway. 
+
+The middle of the week is going to be painfully cold. As indicated by the first paragraph of this post, I'm already burned out on the unkind winter which has featured perpetually poor road conditions, aided in part by alternating waves of bitter cold and snowfall. Only the most foolish of winter cyclists are still cycling. The side streets, where I try to stay out of the way of traffic, have been left unplowed and turned into icy, rutted messes. To think that only a few years ago I rode through the winter on 23mm slicks! Aside from restarting Sunday rides, I have no intention to spend any more time outside than absolutely necessary.

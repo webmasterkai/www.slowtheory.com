@@ -1,0 +1,13 @@
+---
+title: "Winter solstice doesn't mean an earlier sunrise"
+date: "2012-12-25 12:00:00"
+template: post.html
+description: 
+categories: Life
+---
+
+ Interesting, neglected fact: while the days are now getting longer, sunrise is still occurring later. It is not until early January that the momentum shifts and sunrise begins its trajectory towards *obnoxiously early*. Sunset is largely irrelevant to me. My work schedule dictates that *when I leave work, it is dark.* For example, the sunset on March 1st was 6:01pm. This was, by no coincidence, the date when the bike shop extended its hours from 6pm to 8pm. It is not until the middle of May that I have even a hope of experiencing a glorious moment of sunshine at the end of my day. So, sunrise matters. Sunset, not really. Aside from the aforementioned logistical challenges, I am naturally a morning person. My energy levels are at their peak with any natural pessimism is subdued by a combination of grogginess and distance from the previous day's gut punches. It is opportunity. I've decided that January 8th--the daylight hour tipping point for morning people--needs its own recognition (aside from also being Jeff's birthday). Maybe it already has such a thing. Google probably knows, but I'm too in love with the notion that I might have *created something* to spend my time determining that instead I've only *mutually identified something*.  
+  
+On Saturday we spent some time hanging out with the neighbors in their wood sauna. I've been consistently cold since late August, warming only occasionally after standing in the shower for an obscene amount of time. I was apprehensive when they Dan announced that it was 170 degrees (which I've since learned is on the tamer end of acceptable sauna temperatures), but after twenty minutes I didn't really want to leave. The goal was to reach a point of discomfort where sprawling in the snow seemed desirable. I didn't get there. I scurried back inside as soon as we left. Being perpetually cold is a radical shift from previous years. I am sure that it is the result of both losing a bunch of weight and riding less. Most of my outdoor activity this winter has been on foot or only designed to get me from one place to another place.  
+  
+Running has been going great. I have been logging 25+ miles a week without really pushing myself. Sundays has been a 10-13 mile long run, with 3 or 4 additional days of shorter runs. A Winter Wilder is the immediate goal, but I also look forward to going into next season with a much stronger running base that will allow me to remain injury free even when the miles jump up to 50/week.
