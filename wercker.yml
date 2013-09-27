@@ -7,7 +7,7 @@ build:
         code: ./node_modules/.bin/wintersmith build -o ./build
 deploy:
   steps:
-    - tlupfer/gh-pages:
+    - gh-pages:
         token: $GH_TOKEN
         basedir: build
         domain: www.slowtheory.com
