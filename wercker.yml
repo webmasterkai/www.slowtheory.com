@@ -7,7 +7,8 @@ build:
         code: ./node_modules/.bin/wintersmith build -o ./build
 deploy:
   steps:
-    - lukevivier/gh-pages:
-        token: $GH_TOKEN
-        basedir: build
-        domain: www.slowtheory.com
+    - s3sync:
+        key_id: $KEY
+        key_secret: $SECRET
+        bucket_url: $URL
+        source_dir: build/
