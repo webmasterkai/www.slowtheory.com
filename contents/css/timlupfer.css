@@ -174,12 +174,17 @@ blockquote > p {
     font-size: 1.5em;
   }
   iframe {
-    width: 100%;
-    overflow: hidden;
+    display: none;
   }
   .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
     background-color: transparent;
-    border: none;
+    border: 1px solid transparent;
+  }
+  #archive_years li a {
+    padding: 5px 8px;
+  }
+  .navbar-static-top .navbar-nav {
+    margin: 0;
   }
   .post-content .tab-content {
     padding: 20px;
