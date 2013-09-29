@@ -1,7 +1,8 @@
 ---
-title: 'Getting ready for Twin Cities Marathon'
+title: Getting ready for Twin Cities Marathon
 date: "2013-09-23 12:00:00"
 template: post.html
+published: true
 ---
 
 Much of this year has been spent doing things that blur the line between running and hiking. The last time that I did a 20+ miler exclusively on pavement, and sort of fast, was April 6th. In the five months that followed, I completed *six* runs of 26 miles or more, but none at a faster pace than 10:35min/mile. Those six runs were on trails that ranged from medium to highly technical, with the exception being the chocolate muffin run (which had its own "unique" difficulties and still included 40% trail). Despite periodically throwing in shorter, faster runs, I really had no idea what to expect from my road running fitness. After squeezing my way into Twin Cities under another person's name, I decided that I should find out. A training run was in order.
@@ -23,5 +24,3 @@ We ran the last six blocks easy, ate some apples, and I biked home. Some things 
 - I had fun!
 
 I think this bodes really well for my Twin Cities effort. My "A goal" for the race is 3:30, with my "B goal" being 3:45. "C goal"? Beat my previous marathon PR, which seems almost impossible *not* to do.
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/activities/84162598/embed/0a0ec0f528eebacfecc91fbe86bfe092b6e229a8'></iframe>
