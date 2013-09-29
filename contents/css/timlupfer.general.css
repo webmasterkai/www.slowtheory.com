@@ -64,6 +64,9 @@ blockquote > p {
   line-height: 1.6;
   overflow: auto;
 }
+.post-archive .post-content {
+  padding: 20px;
+}
 .post-content h4 {
   font-family: 'Open Sans', sans-serif;
 }
@@ -149,6 +152,9 @@ blockquote > p {
   }
   .post-content {
     padding: 0 20px 10px 20px;
+  }
+  .post-archive .post-content {
+    padding: 10px 0 0 0;
   }
   .post-title h3 {
     font-size: 1.5em;

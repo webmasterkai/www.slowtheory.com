@@ -6,10 +6,10 @@ block content
   -   return item.date.getUTCFullYear()
   - }).value()
   - var map = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
-  div.post
+  div('class'='post post-archive')
     div.post-title
       != '<h3 style="margin:0">The Archive</h3>'
-    div.post-content('style'='padding-top:30px')
+    div.post-content
       ul('class'="nav nav-tabs",'id'="archive_years")
         - var years = _.chain(archive).keys().reverse().value()
         each year, i in years
