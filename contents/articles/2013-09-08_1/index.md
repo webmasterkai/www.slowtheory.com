@@ -1,8 +1,9 @@
 ---
-title: 'Superior 50 mile trail race'
+title: Superior 50 mile trail race
 date: "2013-09-08 12:00:00"
 template: post.html
-post_class: ' float_left_w_padding'
+post_class: " float_left_w_padding"
+published: true
 ---
 
 ![Maybe not so graceful](http://slowtheory.openphoto.me.s3.amazonaws.com/custom/201309/third-stop-72d75a_450x450.jpg) 
@@ -58,7 +59,3 @@ I spent most of my time running to Sawbill planning my strategy for the last mil
 I was still running by the time I reached Oberg at 4:23pm. This meant that I would skip the poles, skip the headlamp, and just switch out hydration systems. I refueled with more smoothie, grabbed some shot blocks for the vest, and took off after lingering for just a couple minutes. I tried to make a point of not wasting time unnecessarily at aid stations. I was giddy. Sometimes I have dreams where I am running, weightless, and I feel as if I will never get tired. I felt like I was living that. Sure, I wasn't the fastest person on the course, and there were difficult sections that I couldn't run, but there was never a point during which I wanted to stop. To run 52 miles in rough conditions--finishing times were much slower and DNFs much higher than normal due to the heat--and not experience a low patch is mind boggling. Ha! It was only a couple weeks ago that I puked during a twenty-eight mile training run on easy terrain. Anyway, I cruised through the first part of the section before reaching Moose Mountain. It was hard, but I felt fine moving up it at a determined hike. Soon I was at the top and descending to the base of Mystery Mountain, the final climb. I'd grossly exaggerated in my mind the difficulty of the final climb, and soon found myself within earshot of the moving water that signals an end to the trail, and a final one mile stretch on dirt road and then pavement. I finished the longest race of my life with an admittedly taxing 9:19 mile. 
 
 It is difficult for me to express exactly how wonderful this day was for me, how great I felt, how much the beauty of the woods touched me, and how inspired I was by the efforts of the people around me, both participants and supporters. I always tell people that it is the lessons of the low moments on the trail that teach me the most, but on this day gratitude for all of the good things, all of the successes, and all of shared beauty elemental to our existence defined a moment that will be with me forever.
-
-#### Strava
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/activities/80866230/embed/5a7357b1909f76890773898bfb232dfad3f64b50'></iframe>
