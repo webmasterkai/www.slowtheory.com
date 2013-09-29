@@ -38,7 +38,7 @@ block content
         $(this).tab('show');
         var selector = $(this.hash).selector;
         window.location.hash = selector;
-        $(window).scrollTop(0);
+        //- $(window).scrollTop(0);
       });
       if (location.hash) {
         $('#archive_years a[href="' + location.hash + '"]').tab('show');
