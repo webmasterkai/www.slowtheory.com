@@ -38,6 +38,7 @@ block content
         $(this).tab('show');
         var selector = $(this.hash).selector;
         window.location.hash = selector;
+        $('html, body').animate({ scrollTop: $('.post').offset().top }, 0);
       });
       if (location.hash) {
         $('#archive_years a[href="' + location.hash + '"]').tab('show');
