@@ -32,6 +32,7 @@ block content
                   li
                     span!= moment.utc(article.date).format('MMM DD, YYYY')+' <i class="icon-double-angle-right"></i> '
                     a(href=article.url)= article.title
+  script('src'='/js/list.min.js')
   script.
       $('#archive_years a').click(function (e) {
         e.preventDefault();
