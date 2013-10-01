@@ -159,9 +159,6 @@ blockquote > p {
   .post-title h3 {
     font-size: 1.5em;
   }
-  iframe {
-    display: none;
-  }
   .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
     background-color: transparent;
     border: 1px solid transparent;
