@@ -8,7 +8,7 @@ tags: ['Winter Wilder','Race reports','Reviews','Trail runs']
 
 The picture below is posted on the [Wilder Facebook Page](https://www.facebook.com/pages/Wilder-Foot-Races/267158519985689?fref=ts). I might be the second person from the left. Or not. Either way, it looked like this:
 
-[!['Winter Wilder']({{urls.media}}/wilder.jpg "Winter Wilder")](https://www.facebook.com/pages/Wilder-Foot-Races/267158519985689?fref=ts)
+[!['Winter Wilder'](/assets/media/wilder.jpg "Winter Wilder")](https://www.facebook.com/pages/Wilder-Foot-Races/267158519985689?fref=ts)
 
 Today was the first annual Winter Wilder "30k" free gravel road foot race. The race series was born from Spring Valley's love of things free and gravel. The more serious races are conducted on the same weekend as Almanzo in May. 
 
@@ -44,4 +44,3 @@ This didn't work out as well. I brought:
 - **Chocolate bar**: froze…possible to eat, but difficult
 - **Banana, Chia, Flax bread things made by Michelle**: worked wonderfully, but I didn't have very many of them
 - **Water**: managed to keep it from freezing. Had plenty, but didn't drink enough and finished with 30 ounces left
-

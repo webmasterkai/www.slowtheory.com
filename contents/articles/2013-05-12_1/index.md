@@ -5,9 +5,7 @@ template: post.html
 post_class: ' float_left_w_padding clearfix'
 ---
 
-![Ice Age 50km](/assets/media/iceage50km.jpg) 
-
-Even though the Ice Age 50km was on my calendar for several months, I found myself trying to concoct a plan for the weekend just days before the race. The original, though poorly developed, idea was that we would visit Michelle's sister in Madison and make a mini-vacation out of it. I failed to get Sunday off from work, while she similarly failed to free her Friday. Suddenly, the weekend was compacted into a frenzy of driving and running. Because of this, I decided to rent a car and embark on a solo road trip…one that put me in the driver's seat for the first time since 2009.
+![Ice Age 50km](/assets/media/iceage50km.jpg) Even though the Ice Age 50km was on my calendar for several months, I found myself trying to concoct a plan for the weekend just days before the race. The original, though poorly developed, idea was that we would visit Michelle's sister in Madison and make a mini-vacation out of it. I failed to get Sunday off from work, while she similarly failed to free her Friday. Suddenly, the weekend was compacted into a frenzy of driving and running. Because of this, I decided to rent a car and embark on a solo road trip…one that put me in the driver's seat for the first time since 2009.
 
 Early Friday morning I ran to a nearby Avis to pick up my rental car. I slipped into the pilot's chair. Soon the behemoth lurched forward as I tried to reawaken the dormant pedal-actuation muscles. Eventually I got the hang of it and found myself heading east on I-94. I positioned myself in the middle lane and drove the same speed as the car in front of me. About an hour outside of Minneapolis, traffic thinned and I was able to relax, scanning the radio for anything that might amuse, entertain, or inspire. Nothing. The five hour journey to Fort Atkinson promised, and subsequently delivered, boredom.
 

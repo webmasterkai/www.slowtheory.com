@@ -2,6 +2,9 @@
   float: left;
   padding: 30px 20px 0 0;
 }
+.float_left_w_padding img {
+  padding-top: 0;
+}
 .boundary_waters_three>p:nth-of-type(10) img {
   height: 330px;
 }
@@ -34,9 +37,12 @@
   list-style: none;
   padding: 20px 0 40px;
 }
-.hiking_at_afton > p:nth-of-type(4),
-.hiking_at_afton > p:nth-of-type(8) {
+.hiking_at_afton > p:nth-of-type(3),
+.hiking_at_afton > p:nth-of-type(6) {
   clear: left;
+}
+.hiking_at_afton img {
+  padding-bottom: 10px;
 }
 .fat_tire_adventure > ul:nth-of-type(1) > li,
 .max_height_375 > ul:nth-of-type(1) > li {
@@ -45,4 +51,26 @@
 }
 .fat_tire_adventure ul img {
   height: 400px;
+}
+.history_of_frame ul,
+.things_day_off ul {
+  list-style: none;
+  padding: 0;
+  width: 100%;
+}
+.history_of_frame p,
+.things_day_off p {
+  clear: both;
+  padding-top: 10px;
+}
+.history_of_frame li,
+.things_day_off li {
+  float: left;
+  padding: 5px;
+}
+.things_day_off li img {
+  max-height: 150px;
+}
+.history_of_frame li img {
+  max-height: 240px;
 }
