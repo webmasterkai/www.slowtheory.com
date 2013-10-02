@@ -15,25 +15,12 @@
   margin: 2px;
 }
 .isotope-item img {
-  height: 280px;
-  width: 280px;
-}
-.thumbnail .caption {
-  font-family: 'Gudea';
-  height: 30px;
-  font-size: 1.1em;
-  line-height: 15px;
+  height: 220px;
+  width: 220px;
 }
 .loadmore {
   text-align: center;
   padding: 35px;
-}
-.tags {
-  text-align: center;
-  font-family: 'Open Sans';
-  font-size: 1.1em;
-  padding: 15px 10px 30px 10px;
-  width: 100%;
 }
 .btn {
   font-family: 'Open Sans';
@@ -41,10 +28,6 @@
 }
 .ie-warning {
   display: none;
-}
-.tags .dropdown-menu {
-  overflow: auto;
-  height: 400px;
 }
 .list-group .active a:before {
   font-family: FontAwesome;

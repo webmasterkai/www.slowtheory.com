@@ -65,18 +65,10 @@ $.Isotope.prototype.flush = function() {
 
 /* FUNCTION TO LOAD THE NEXT GROUP OF IMAGES */
 function loadNext(current_page) {
-  $.blockUI({ css: { 
-    border: 'none', 
-    padding: '15px', 
-    backgroundColor: '#000', 
-    '-webkit-border-radius': '10px', 
-    '-moz-border-radius': '10px', 
-    opacity: .7, 
-    color: '#fff' 
-  } }); 
+  $('.overlay').show();
   $('.loadmore .nextgroup').off('click');
   var next_page = parseInt(current_page) + 1;
-  var params = { 'page' : next_page, 'pageSize' : 36, 'returnSizes' : '280x280xCR,1024x1024' };
+  var params = { 'page' : next_page, 'pageSize' : 60, 'returnSizes' : '220x220xCR,1024x1024' };
   if (window.location.hash) { params.tags = window.location.hash.replace("#!/", ''); }
   $.post('http://photos.slowtheory.com/list', params)
   .done(function(data) {
@@ -84,7 +76,7 @@ function loadNext(current_page) {
       $('.loadmore .nextgroup').addClass('disabled');
     }
     $.when($.each(data.result, function(index, value) {
-      var $newItem = $('<div class="isotope-item thumbnail"><a class="fancybox" rel="gallery" href="' + value.path1024x1024 + '" title="' + value.description + '"><img src="' + value.path280x280xCR + '" alt="' + value.title + '"></a></div>');
+      var $newItem = $('<div class="isotope-item"><a class="fancybox" rel="gallery" href="' + value.path1024x1024 + '" title="' + value.description + '"><img src="' + value.path220x220xCR + '" alt="' + value.title + '"></a></div>');
       $('.post').isotope( 'insert', $newItem );
     })).then(function() {
     	$(".fancybox").fancybox({
@@ -96,7 +88,7 @@ function loadNext(current_page) {
     		openEffect	: 'none',
     		closeEffect	: 'none'
     	});
-    	$.unblockUI();
+    	$('.overlay').hide();
     });
   });
   $('.loadmore .nextgroup').on('click', function() { loadNext(next_page); });
