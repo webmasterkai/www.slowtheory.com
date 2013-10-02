@@ -75,10 +75,12 @@ function loadNext(current_page) {
     if (data.result.length == 0) {
       $('.loadmore .nextgroup').addClass('disabled');
     }
+    var html_buffer = '';
     $.when($.each(data.result, function(index, value) {
-      var $newItem = $('<div class="isotope-item"><a class="fancybox" rel="gallery" href="' + value.path1024x1024 + '" title="' + value.description + '"><img src="' + value.path220x220xCR + '" alt="' + value.title + '"></a></div>');
-      $('.post').isotope( 'insert', $newItem );
+      html_buffer = html_buffer + '<div class="isotope-item"><a class="fancybox" rel="gallery" href="' + value.path1024x1024 + '" title="' + value.description + '"><img src="' + value.path220x220xCR + '" alt="' + value.title + '"></a></div>';
     })).then(function() {
+      var $newItems = $(html_buffer);
+      $('.post').isotope( 'insert', $newItems );
     	$(".fancybox").fancybox({
         helpers : {
           title : {
@@ -95,17 +97,18 @@ function loadNext(current_page) {
   return true;
 }
 
-/* DO THE FOLLOWING ON DOCUMENT READY */
+
+
 $('document').ready(function() {
   $.getJSON('http://photos.slowtheory.com/list/tags', function(data) {
-    var sorted = data.result.sort(function(obj1, obj2) {
-      return obj2.count - obj1.count;
-    });
+    // Sort tags & build tag list
+    var sorted = data.result.sort(function(obj1, obj2) { return obj2.count - obj1.count; });
     $.each(sorted, function(i,obj) {
       var class_active = '';
       if (window.location.hash.replace("#!/", '') == obj.id) { class_active = ' active'; }
       $('.list-group').append('<li class="list-group-item' + class_active + '"><span class="badge">' + obj.count + '</span><a href="#!/' + obj.id + '">' + obj.id + '</a></li>')
     });
+    // Add click handlers for tags
     $('.list-group-item').on('click',function() {
       $('.list-group-item').removeClass('active');
       $(this).addClass('active');
