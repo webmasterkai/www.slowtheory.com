@@ -22,7 +22,7 @@ blockquote > p {
 }
 .overlay{
   display:none;
-  opacity:0.8;
+  opacity:0.85;
   background-color:#000;
   position:fixed;
   width:100%;
@@ -30,6 +30,17 @@ blockquote > p {
   top:0px;
   left:0px;
   z-index:1000;
+}
+.overlay .loading {
+  position: fixed;
+  left: 0;
+  text-align: center;
+  top: 35%;
+  width: 100%;
+  font-size: 3em;
+  font-color: #fff;
+  font-family: 'Arvo';
+  text-transform: uppercase;
 }
 
 /**** 2. PAGINATOR ****/
