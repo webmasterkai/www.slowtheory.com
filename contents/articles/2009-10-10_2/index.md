@@ -1,5 +1,5 @@
 ---
-title: '..'
+title: 'sick'
 date: "2009-10-10 12:00:00"
 template: post.html
 ---
