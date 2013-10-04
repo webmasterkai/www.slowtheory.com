@@ -170,6 +170,9 @@ blockquote > p {
     float: left;
     width: 25%;
   }
+  .nav li a {
+    word-spacing: 100px;
+  }
   .post-title {
     padding: 15px 20px;
   }
