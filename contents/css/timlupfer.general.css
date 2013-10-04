@@ -166,6 +166,10 @@ blockquote > p {
     padding-right: 0;
     text-align: center;
   }
+  .nav>li {
+    float: left;
+    width: 25%;
+  }
   .post-title {
     padding: 15px 20px;
   }
