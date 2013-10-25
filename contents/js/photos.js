@@ -79,7 +79,11 @@ function loadNext(current_page) {
     var html_buffer = '';
     // Buffer HTML for newly loaded items
     $.when($.each(data.result, function(index, value) {
-      html_buffer = html_buffer + '<div class="isotope-item"><a class="fancybox" rel="gallery" href="' + value.path1024x1024 + '" title="' + value.description + '"><img src="' + value.path220x220xCR + '" alt="' + value.title + '"></a></div>';
+      var title_string = '';
+      if (value.description != null) {
+        var title_string = 'title="' + value.description + '"';
+      }
+      html_buffer = html_buffer + '<div class="isotope-item"><a class="fancybox" rel="gallery" href="' + value.path1024x1024 + '" ' + title_string + '><img src="' + value.path220x220xCR + '" alt="' + value.title + '"></a></div>';
     // Add the items
     })).then(function() {
       var $newItems = $(html_buffer);
