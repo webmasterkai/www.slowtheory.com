@@ -30,7 +30,7 @@ block content
               ul
                 each article, i in articles
                   li
-                    span!= moment.utc(article.date).format('MMM DD, YYYY')+' <i class="icon-double-angle-right"></i> '
+                    span!= moment(article.date).format('MMM DD, YYYY')+' <i class="icon-double-angle-right"></i> '
                     a(href=article.url)= article.title
   script('src'='/js/list.min.js')
   script.
