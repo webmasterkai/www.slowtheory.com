@@ -12,7 +12,7 @@ post_class: ' vacation_day_two'
 ![](http://slowtheory.openphoto.me.s3.amazonaws.com/custom/201310/P1060485-493b3d_450x450.jpg)
 ![](http://slowtheory.openphoto.me.s3.amazonaws.com/custom/201310/P1060489-733060_450x450.jpg)
 
-**\[ For additional/larger photos, visit the [photos page](/photos) \]**
+**\[ For additional/larger photos, visit the [photos page](/photos/#!/gettinmarried) \]**
 
 We woke up to one of the only sunny days that we'd see during the trip. It was delightful and inspired a leisurely start to our day. We ate a greasy breakfast and visited Artists' Point, before eventually starting our walk to the trail. It was two and a half miles on the Gunflint Trail to the intersection with the trail and another mile to the turn for the trailhead parking lot. Our trek seemed to be taking an impossibly long time. Michelle was admittedly grumpy and I feared that we were in for another slog that was neither fun or fast. We reached the turn for the trailhead parking lot and realized that part of our slow walk could be attributed to the fact that we'd already walked an extra mile. We added another mile by going to the trailhead parking lot rather than back down the road. *Sigh*
 
