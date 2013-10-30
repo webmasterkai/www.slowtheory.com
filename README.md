@@ -1,1 +1,2 @@
-Wintersmith files for www.slowtheory.com
+Wintersmith files for http://www.slowtheory.com
+
