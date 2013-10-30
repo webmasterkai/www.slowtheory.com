@@ -90,6 +90,9 @@
 .history_of_frame li img {
   max-height: 240px;
 }
+.race_plan ul {
+  padding-bottom: 20px;
+}
 @media screen and (max-width: 768px) {
   .vacation_day_one p:nth-of-type(3) {
     float: none;
