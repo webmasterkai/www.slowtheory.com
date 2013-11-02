@@ -6,7 +6,9 @@ post_class: " float_left_w_padding"
 published: true
 ---
 
-![Maybe not so graceful](http://slowtheory.openphoto.me.s3.amazonaws.com/custom/201309/third-stop-72d75a_450x450.jpg) In this story, the conclusion ranks most important--I went for a run in the woods on one of those few magical days in a person's life when the world is only beautiful, people  inspiring, and failure inconceivable. Finishing the race ceased to be a consideration and I spent the day blissfully immersed in an experience that is among the best I can recall. I finished the race in 16th place overall in a time of 12:10 and felt great for 99% of the day. I never felt queasy, tired, injured, thirsty, sad, unsure, unbearably hot, or unhappy. I got to see a friend live his dream of finishing the Superior 100, while also spending time with my parents and Michelle as they helped support me in my race. I really couldn't have asked for a better experience. The following paragraphs will serve more as personal edification--like a giddy pig rolling in the mud--than to give more dimension to the experience.
+![Maybe not so graceful](http://slowtheory.openphoto.me.s3.amazonaws.com/custom/201309/third-stop-72d75a_450x450.jpg) 
+
+In this story, the conclusion ranks most important--I went for a run in the woods on one of those few magical days in a person's life when the world is only beautiful, people  inspiring, and failure inconceivable. Finishing the race ceased to be a consideration and I spent the day blissfully immersed in an experience that is among the best I can recall. I finished the race in 16th place overall in a time of 12:10 and felt great for 99% of the day. I never felt queasy, tired, injured, thirsty, sad, unsure, unbearably hot, or unhappy. I got to see a friend live his dream of finishing the Superior 100, while also spending time with my parents and Michelle as they helped support me in my race. I really couldn't have asked for a better experience. The following paragraphs will serve more as personal edification--like a giddy pig rolling in the mud--than to give more dimension to the experience.
 
 #### Lutsen to Finland to Sonju Lake
 
