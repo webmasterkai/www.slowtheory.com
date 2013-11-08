@@ -128,6 +128,21 @@ blockquote > p {
 
 /**** 7. MEDIA SPECIFIC ****/
 @media screen and (max-width: 768px) {
+  .article img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  .no-photo {
+    display: none;
+  }
+  h4,
+  .post-date {
+    text-align: center;
+  }
+  .article {
+    padding : 25px 15px;
+  }
   .navbar-brand {
     margin-left: 0; 
     margin-left: auto;

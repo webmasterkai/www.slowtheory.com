@@ -2,6 +2,7 @@
 title: 'Spot Tracking'
 date: '2013-10-08 14:50:16'
 template: post.html
+description: 'After lusting after a Spot tracker for several years, I finally decided to use our upcoming attempt at through hiking the SHT as an excuse to buy one.'
 photo: 'http://slowtheory.trovebox.com/photo/48k/create/ce94b/350x250xCR.jpg'
 ---
 

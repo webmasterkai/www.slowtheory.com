@@ -3,6 +3,7 @@ title: 'Vacation part one'
 date: '2013-10-23 10:36:52'
 template: post.html
 post_class: ' vacation_day_one'
+description: 'After delaying the start of our trip by a day, we spent our first day trudging through the rain, losing things, and generally exhibiting an uncanny level of unpreparedness.'
 photo: 'http://slowtheory.openphoto.me.s3.amazonaws.com/custom/201310/P1060450-6b37cb_350x250xCR.jpg'
 ---
 

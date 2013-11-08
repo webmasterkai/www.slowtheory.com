@@ -2,6 +2,7 @@
 title: 'Twin Cities Marathon'
 date: '2013-10-07 09:19:54'
 template: post.html
+photo: 'http://c.slowtheory.com.img.labori.us/c350x250/tcmarathon1.jpg'
 ---
 
 I set a new marathon PR at Twin Cities of 3:27:44, besting my previous mark of 3:59:14 by a whopping thirty-one and a half minutes. After the Superior 50, I went into this event not only aiming for a PR, but also with a conceptual shift in my thinking from road marathon = endurance event, to road marathon = sprint. I knew that all of this was dangerous, because marathons are still long and things can go wrong. 

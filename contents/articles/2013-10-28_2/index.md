@@ -3,7 +3,7 @@ title: 'vacation part two'
 date: '2013-10-28 19:53:34'
 template: post.html
 post_class: ' vacation_day_two'
-description: 'We enjoy a leisurely morning in Grand Marais, before returning to the trail and continuing our journey to Duluth.'
+description: 'We enjoyed a leisurely morning in Grand Marais, before returning to the trail and continuing our journey to Duluth.'
 photo: 'http://slowtheory.openphoto.me.s3.amazonaws.com/custom/201310/P1060483-6f3a26_350x250xCR.jpg'
 ---
 
