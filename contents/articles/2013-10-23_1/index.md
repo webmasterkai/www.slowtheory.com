@@ -3,6 +3,7 @@ title: 'Vacation part one'
 date: '2013-10-23 10:36:52'
 template: post.html
 post_class: ' vacation_day_one'
+photo: 'http://slowtheory.openphoto.me.s3.amazonaws.com/custom/201310/P1060450-6b37cb_350x250xCR.jpg'
 ---
 
 __*[ I'll post more about the wedding once I have photos from Jeff and A-train. In short: it was an awesome experience that brought together old and new friends/family for something pretty amazing. ]*__

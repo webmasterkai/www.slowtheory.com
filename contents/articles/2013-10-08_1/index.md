@@ -2,6 +2,7 @@
 title: 'Spot Tracking'
 date: '2013-10-08 14:50:16'
 template: post.html
+photo: 'http://slowtheory.trovebox.com/photo/48k/create/ce94b/350x250xCR.jpg'
 ---
 
 For a few reasons, I decided to spend the money on a Spot Gen3 tracker for our upcoming hike on the SHT. 

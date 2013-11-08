@@ -1,0 +1,155 @@
+/* CSS for www.slowtheory.com */
+
+/**** 1. PAGE GENERAL ****/
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'PT Sans', sans-serif;
+  font-weight: normal;
+  color: #2aa198;
+}
+blockquote > p {
+  font-family: 'Anonymous Pro';
+  line-height: 1.6;
+  font-size: 0.9em;
+}
+.header-red {
+  color: #dc322f;
+}
+.pager a {
+  border: 0 !important;
+  color: #dc322f;
+  font-family; 'Gudea';
+  font-size: 1.3em;
+  background-color: transparent !important;
+}
+.footer {
+  margin-top: 30px;
+  background-color: transparent;
+  color: #999;
+  height: 80px;
+  padding-top: 20px;
+  text-align: center;
+}
+.footer a {
+  color: #999;
+  font-size: 2em;
+}
+.article {
+  padding: 40px 0;
+}
+.outer-col {
+  padding: 0 0 30px;
+}
+.outer-col-menu {
+  padding: 0 0 12px;
+}
+.overlay{
+  display:none;
+  opacity:0.85;
+  background-color:#000;
+  position:fixed;
+  width:100%;
+  height:100%;
+  top:0px;
+  left:0px;
+  z-index:1000;
+}
+.overlay .loading {
+  position: fixed;
+  left: 0;
+  text-align: center;
+  top: 35%;
+  width: 100%;
+  font-size: 3em;
+  font-color: #fff;
+  font-family: 'Arvo';
+  text-transform: uppercase;
+}
+
+
+
+/**** 3. POST GENERAL ****/
+.post-date {
+  font-family: 'Arvo', serif;
+  font-size: 1.1em;
+}
+.post-content {
+  font-family: 'Gudea', sans-serif;
+  line-height: 1.6;
+  overflow: auto;
+}
+.post-content a,
+.article a {
+  color: #2aa198 !important;
+}
+.no-photo {
+  width: 100%;
+  height: 200px;
+  text-align: center;
+  padding-top: 50px;
+}
+.post-header .post-date,
+.post-header h3 {
+  text-align: center;
+}
+.post-header {
+  margin-bottom: 40px;
+}
+
+/**** 4. IMAGES ****/
+.lazy {
+  display: none;
+}
+
+
+/**** 5. NAVBAR ****/
+.navbar-static-top {
+  border-width: 0;
+}
+.navbar-brand {
+  font-size: 1.8em;
+  font-family: 'Gudea', serif;
+  color: #594F42 !important;
+  margin: 0;
+  padding-left: 0;
+  letter-spacing: 1px;
+}
+.navbar-nav li a {
+  color: #594F42 !important;
+  font-family: 'Open Sans';
+  font-size: 1.1em;
+}
+.navbar {
+  background-color: transparent;
+  border-top: 5px solid #594F42;
+  padding: 10px 20px;
+}
+
+
+
+/**** 7. MEDIA SPECIFIC ****/
+@media screen and (max-width: 768px) {
+  .navbar-brand {
+    margin-left: 0; 
+    margin-left: auto;
+    width: 100%;
+  }
+  .navbar {
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+  }
+  .navbar-nav {
+    width: 100%;
+    padding-top: 10px;
+  }
+  .nav>li {
+    float: left;
+    width: 33%;
+  }
+  .nav li a {
+    white-space: pre;
+  }
+  .navbar-static-top .navbar-nav {
+    margin: 0;
+  }
+}

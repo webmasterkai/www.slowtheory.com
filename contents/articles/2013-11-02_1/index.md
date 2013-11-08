@@ -3,6 +3,7 @@ title: 'Vacation part three'
 date: '2013-11-02 09:06:39'
 template: post.html
 post_class: ' vacation_day_one'
+photo: 'http://slowtheory.openphoto.me.s3.amazonaws.com/custom/201310/P1060499-5dc50a_350x250xCR.jpg'
 ---
 
 **\[ For additional/larger photos, visit the [photos page](/photos/#!/gettinmarried) \]**

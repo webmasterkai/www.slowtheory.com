@@ -6,12 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Tim Lupfer">
     <link rel="alternate" type="application/rss+xml" title="" href="http://feeds.feedburner.com/slowtheory"> 
-    <link href="/css/bootstrap.css" rel="stylesheet">
-    <link href="/css/timlupfer.general.css?rev={{ timestamp }}" rel="stylesheet">
-    <link href="/css/timlupfer.posts.css?rev={{ timestamp }}" rel="stylesheet">
-    <link href="/css/timlupfer.photos.css?rev={{ timestamp }}" rel="stylesheet">
-    <link href='/css/font.css' rel='stylesheet' type='text/css'>
-    <link href="//cdn.jsdelivr.net/fontawesome/3.2.1/css/font-awesome.min.css" rel="stylesheet">
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <link href="/css/style.css?rev={{ timestamp }}" rel="stylesheet">
+    <link href="/css/posts.css?rev={{ timestamp }}" rel="stylesheet">
+    <link href="/css/photos.css?rev={{ timestamp }}" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Arvo:400,700|Open+Sans|Anonymous+Pro|Gudea:400,700' rel='stylesheet' type='text/css'>
     <link href="//cdn.jsdelivr.net/fancybox/2.1.5/jquery.fancybox.css" rel="stylesheet" type="text/css">
     
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
@@ -43,13 +43,10 @@
 
     <div class="container" style="padding:0">
       <div class="row">
-        <div class="col-lg-12" style="padding-bottom:30px;">
-          <div class="container">
-            <div class="col-lg-12" style="padding-bottom: 20px">
-              <h2>Photostream</h2>
-              <p class="lead">Click on a photo for a larger version. To view by category, <a data-toggle="modal" href="#photoTags">go here</a>. </p>
-            </div>
-          </div>
+        <div class="col-md-8 col-md-offset-2" style="padding-bottom:30px;">
+          <h3>Photostream</h3>
+          <p class="lead" style="padding-bottom: 30px;">Click on a photo for a larger version. To view by category, <a data-toggle="modal" href="#photoTags">go here</a>. </p>
+
           <div class="alert alert-danger ie-warning">Sorry, this page requires at least Internet Explorer 10...or just about any other browser that isn't Internet Explorer.</div>
           <div class="post" style="width:100%">
           </div>
@@ -81,10 +78,10 @@
       <div class="loading">Loading...</div>
     </div>
     <script src="//cdn.jsdelivr.net/jquery/2.0.3/jquery-2.0.3.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
     <script src="//cdn.jsdelivr.net/jquery.easing/1.3/jquery.easing.1.3.js"></script>
     <script src="//cdn.jsdelivr.net/isotope/1.5.25/jquery.isotope.min.js"></script>
     <script src="//cdn.jsdelivr.net/fancybox/2.1.5/jquery.fancybox.pack.js"></script>
-    <script src="/js/bootstrap.js"></script>
     <script src="/js/photos.js"></script>
   </body>
 </html>

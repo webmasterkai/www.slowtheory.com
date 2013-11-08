@@ -3,6 +3,8 @@ title: 'Racing in 2014'
 date: '2013-10-29 22:03:49'
 template: post.html
 post_class: ' race_plan'
+description: 'My 2014 running schedule is starting to come together. After considering various 50 mile races to serve in the build up to the SHT 100, I finally settle on the Bryce Canyons of Utah.'
+photo: 'http://slowtheory.openphoto.me.s3.amazonaws.com/custom/200704/Bryce_Canyon_Amphitheater_Hoodoos_Panorama-30d740_350x250xCR.jpg'
 ---
 
 I'm beginning to piece together my "race schedule" for 2014. Obviously, the *big dance* is once again going to be on the SHT. I'll be stepping up from the 50 mile distance to the 100. Despite gaining a lot of confidence from this year's race, I still feel compelled to include one 50+ mile race in next year's plan, ideally somewhere between April and June. I began by researching my local options.

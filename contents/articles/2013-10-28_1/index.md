@@ -3,6 +3,7 @@ title: 'Elm Creek'
 date: '2013-10-28 08:44:40'
 template: post.html
 post_class: ' float_left_w_padding'
+photo: 'http://slowtheory.openphoto.me.s3.amazonaws.com/custom/201310/976c63d63ead11e3bb3e22000a1fb8a8_8-848780_350x250xCR.jpg'
 ---
 
 ![Running at Elm Creek with Bunz](http://slowtheory.trovebox.com/photo/47t/create/1de80/450x450.jpg) 

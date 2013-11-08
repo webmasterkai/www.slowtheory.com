@@ -1,4 +1,4 @@
 {
-  "template": "error.jade",
+  "template": "error.html",
   "filename": "index.html"
 }
