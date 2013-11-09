@@ -31,11 +31,11 @@
     {{>menu}}
     <div class="container-fluid" style="padding:0">
       <div class="row">
-        <div class="col-md-8 col-md-offset-2">
+        <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
           {{#if prevPage}}
             {{#each articles }}
             {{{ rowhelper @index }}}
-              <div class="col-md-6">
+              <div class="col-sm-6 archived">
                 <h4><a href="{{locals.url}}{{url}}">{{ title }}</a></h4>
                 <p class="post-date">
                   <i class="fa fa-calendar"></i> {{ date metadata.date }}
@@ -47,7 +47,7 @@
                   {{{ preview intro }}}
                   {{/if }}
                 </p>
-                <p>
+                <p class="read-more">
                   <a href="{{locals.url}}{{url}}">Read More</a>
                 </p>
               </div>
@@ -55,15 +55,15 @@
             {{/each}}          
           {{else}}
           {{#each articles }}
-          <div class="row article">
-            <div class="col-md-6">
+          <div class="row article featured">
+            <div class="col-sm-6">
               {{#if metadata.photo }}
               <img class="img-responsive lazy" src="/assets/media/grey.gif" data-original="{{ metadata.photo }}">
               {{else}}
               {{{ imagify intro }}}
               {{/if }}
             </div>
-            <div class="col-md-6">
+            <div class="col-sm-6">
               <h4><a href="{{locals.url}}{{url}}">{{ title }}</a></h4>
               <p class="post-date">
                 <i class="fa fa-calendar"></i> {{ date metadata.date }}
@@ -75,7 +75,7 @@
                 {{{ preview intro }}}
                 {{/if }}
               </p>
-              <p>
+              <p class="read-more">
                 <a href="{{locals.url}}{{url}}">Read More</a>
               </p>
             </div>
@@ -86,7 +86,7 @@
       </div>
 
       <div class="row">
-        <div class="col-md-8 col-md-offset-2">
+        <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
           <ul class="pager">
           {{# nextPage }}
             <li class="previous"><a href="{{ url }}" title="Older Posts"><i class="fa fa-caret-left"></i> Older posts</a></li>

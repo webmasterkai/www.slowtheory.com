@@ -135,9 +135,14 @@ blockquote > p {
 }
 
 
-
-/**** 7. MEDIA SPECIFIC ****/
 @media screen and (max-width: 768px) {
+  .article {
+    padding : 0;
+  }
+  .archived,
+  .featured {
+    padding-bottom: 40px;
+  }
   .article img {
     margin-left: auto;
     margin-right: auto;
@@ -150,8 +155,9 @@ blockquote > p {
   .post-date {
     text-align: center;
   }
-  .article {
-    padding : 0;
+  .read-more,
+  .post-content {
+    margin: 20px;
   }
   .navbar-brand {
     margin-left: 0; 
