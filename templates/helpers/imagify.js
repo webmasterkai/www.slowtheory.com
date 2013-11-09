@@ -4,5 +4,5 @@ module.exports = function(html) {
     new RegExp("src=\"([^\"]+)","g");
     return html.match(re, 'g')[0].replace(re, "<img src=\"/assets/media/grey.gif\" class=\"lazy img-responsive\" data-original=\"$1\"$2<noscript><img src=\"$1\" alt=\"Enable javascript for faster image loading.\"></noscript>").replace(/http:\/\/([^\/]+)[\/]([^"]+)/, "http://$1.img.labori.us/c350x250/$2");
   }
-  return '<div class="no-photo"><i class="fa fa-camera-retro fa-5x"></i></div>';
+  return '<div class="no-photo"><i class="fa fa-pencil-square-o fa-5x"></i></div>';
 }
