@@ -82,29 +82,6 @@
     <script src="/js/slowtheory.js"></script>
     <script src="//cdn.jsdelivr.net/list.js/0.2.1/list.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.4.0/moment.min.js"></script>
-    <script>
-      $('form').on('submit', function(e) {
-        $('.overlay').show();
-        $('.sort-buttons').show();
-        e.preventDefault();
-        var q = $('input[type=text]').val();
-        $.post( "http://search.slowtheory.com/q", { 'query' : q })
-        .done(function( data ) {
-          $.each(data, function(index) {
-            var shortened = data[index].summary.replace(/(<([^>]+)>)/ig,"").substr(0,300);
-            var re = new RegExp(".*[\.]",'g');
-            data[index].preview = shortened.match(re);
-            data[index].title_link = '<a href="' + data[index].link + '">' + data[index].title + '</a>';
-            data[index].read_more_link = '<a href="' + data[index].link + '">Read more</a>';
-            data[index].readable_date = moment(data[index].published_on).format("MMMM Do, YYYY");
-          });
-          var options = {
-            item: 'dummy-item'
-          };
-          var hackerList = new List('searchresults', options, data);
-          $('.overlay').hide();
-        });
-      });
-    </script>
+    <script src="/js/search.js"></script>
   </body>
 </html>
