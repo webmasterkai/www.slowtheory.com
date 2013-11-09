@@ -3,4 +3,7 @@ $('document').ready(function() {
   $("img.lazy").show().lazyload({
     effect : "fadeIn"
   });
+  $(window).resize(function() {
+    $("img.lazy").show().lazyload();
+  });
 });

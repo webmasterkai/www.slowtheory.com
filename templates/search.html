@@ -10,7 +10,7 @@
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
     <link href="/css/style.css?rev={{ timestamp }}" rel="stylesheet">
     <link href="/css/posts.css?rev={{ timestamp }}" rel="stylesheet">
-    <link href='http://fonts.googleapis.com/css?family=Arvo:400,700|Rammetto+One|Open+Sans|Anonymous+Pro|Gudea:400,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Arvo:400|Rammetto+One|Open+Sans|Anonymous+Pro|Gudea:400,700' rel='stylesheet' type='text/css'>
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
       <style>
@@ -83,31 +83,28 @@
     <script src="//cdn.jsdelivr.net/list.js/0.2.1/list.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.4.0/moment.min.js"></script>
     <script>
-    $('form').on('submit', function(e) {
-      $('.overlay').show();
-      $('.sort-buttons').show();
-      e.preventDefault();
-      var q = $('input[type=text]').val();
-      $.post( "http://search.slowtheory.com/q", { 'query' : q })
-      .done(function( data ) {
-        $.each(data, function(index) {
-          var shortened = data[index].summary.replace(/(<([^>]+)>)/ig,"").substr(0,300);
-          var re = new RegExp(".*[\.]",'g');
-          data[index].preview = shortened.match(re);
-          data[index].title_link = '<a href="' + data[index].link + '">' + data[index].title + '</a>';
-          data[index].read_more_link = '<a href="' + data[index].link + '">Read more</a>';
-          data[index].readable_date = moment(data[index].published_on).format("MMMM Do, YYYY");
-          console.log(data[index]._score);
+      $('form').on('submit', function(e) {
+        $('.overlay').show();
+        $('.sort-buttons').show();
+        e.preventDefault();
+        var q = $('input[type=text]').val();
+        $.post( "http://search.slowtheory.com/q", { 'query' : q })
+        .done(function( data ) {
+          $.each(data, function(index) {
+            var shortened = data[index].summary.replace(/(<([^>]+)>)/ig,"").substr(0,300);
+            var re = new RegExp(".*[\.]",'g');
+            data[index].preview = shortened.match(re);
+            data[index].title_link = '<a href="' + data[index].link + '">' + data[index].title + '</a>';
+            data[index].read_more_link = '<a href="' + data[index].link + '">Read more</a>';
+            data[index].readable_date = moment(data[index].published_on).format("MMMM Do, YYYY");
+          });
+          var options = {
+            item: 'dummy-item'
+          };
+          var hackerList = new List('searchresults', options, data);
+          $('.overlay').hide();
         });
-
-        var options = {
-          item: 'dummy-item'
-        };
-
-        var hackerList = new List('searchresults', options, data);
-        $('.overlay').hide();
       });
-    });
     </script>
   </body>
 </html>
