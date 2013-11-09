@@ -7,6 +7,13 @@ $(document).ready(function() {
     $('input[type=text]').val(q);
     $.post( "http://search.slowtheory.com/q", { 'query' : q })
     .done(function( data ) {
+      if (data.length == 0) {
+        $('.list').hide();
+        $('.alert').show();
+      } else {
+        $('.list').show();
+        $('.alert').hide();
+      }
       $.each(data, function(index) {
         var shortened = data[index].summary.replace(/(<([^>]+)>)/ig,"").substr(0,300);
         var re = new RegExp(".*[\.]",'g');
@@ -30,6 +37,13 @@ $(document).ready(function() {
     window.location.hash = encodeURIComponent(q);
     $.post( "http://search.slowtheory.com/q", { 'query' : q })
     .done(function( data ) {
+      if (data.length == 0) {
+        $('.list').hide();
+        $('.alert').show();
+      } else {
+        $('.list').show();
+        $('.alert').hide();
+      }
       $.each(data, function(index) {
         var shortened = data[index].summary.replace(/(<([^>]+)>)/ig,"").substr(0,300);
         var re = new RegExp(".*[\.]",'g');
