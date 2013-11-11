@@ -1,7 +1,6 @@
 $(document).ready(function() {
   if (window.location.hash.length > 0) {
     var q = decodeURIComponent(window.location.hash.replace("#", ''));
-    console.log(q);
     $('.overlay').show();
     $('.sort-buttons').show();
     $('input[type=text]').val(q);
