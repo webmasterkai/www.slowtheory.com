@@ -48,7 +48,7 @@
                   {{/if }}
                 </p>
                 <p class="read-more">
-                  <a href="{{locals.url}}{{url}}">Read More</a>
+                  <a href="{{locals.url}}{{url}}">Read More <i class="fa fa-angle-double-right"></i></a>
                 </p>
               </div>
             {{{ browhelper @index }}}
@@ -76,7 +76,7 @@
                 {{/if }}
               </p>
               <p class="read-more">
-                <a href="{{locals.url}}{{url}}">Read More</a>
+                <a href="{{locals.url}}{{url}}">Read More <i class="fa fa-angle-double-right"></i></a>
               </p>
             </div>
           </div>
@@ -89,16 +89,16 @@
         <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
           <ul class="pager">
           {{# nextPage }}
-            <li class="previous"><a href="{{ url }}" title="Older Posts"><i class="fa fa-caret-left"></i> Older posts</a></li>
+            <li><a href="{{ url }}" title="Older Posts"><i class="fa fa-angle-double-left fa-5x"></i></a></li>
           {{/ nextPage }}
           {{^ nextPage }}
-            <li class="previous disabled"><a><i class="icon-caret-left"></i> Older Posts</a></li>
+            <li class="disabled"><a><i class="fa fa-angle-double-left fa-5x"></i></a></li>
           {{/ nextPage }}
           {{# prevPage }}
-            <li class="next"><a href="{{ url }}" title="Newer Posts">Newer Posts <i class="fa fa-caret-right"></i></a></li>
+            <li><a href="{{ url }}" title="Newer Posts"><i class="fa fa-angle-double-right fa-5x"></i></a></li>
           {{/ prevPage }}
           {{^ prevPage }}
-            <li class="next disabled"><a>Newer Posts <i class="icon-caret-right"></i></a></li>
+            <li class="disabled"><a><i class="fa fa-angle-double-right fa-5x"></i></a></li>
           {{/ prevPage }}
           </ul>
         </div>

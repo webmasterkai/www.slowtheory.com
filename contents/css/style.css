@@ -21,13 +21,20 @@ blockquote > p {
   /* text for logo */
   color: #dc322f;
 }
-.pager a {
+.pager {
+  margin-top: 15px;
+}
+.pager li>a {
   /* pager links */
-  border: 0 !important;
+  border: 0;
   color: #dc322f;
   font-family; 'Gudea';
   font-size: 1.3em;
-  background-color: transparent !important;
+  background: transparent;
+  padding: 20px 50px; 
+}
+.pager li>a:hover {
+  background: transparent;
 }
 .footer {
   /* footer -- currently blank, but may do something with this */
