@@ -13,7 +13,9 @@ blockquote > p {
   line-height: 1.6;
   font-size: 0.9em;
 }
-
+body {
+  font-family: 'Lora', serif;
+}
 
 
 /**** 2. HEADER, FOOTER AND NAV ****/
@@ -28,7 +30,6 @@ blockquote > p {
   /* pager links */
   border: 0;
   color: #dc322f;
-  font-family; 'Droid Sans';
   font-size: 1.3em;
   background: transparent;
   padding: 20px 50px; 
@@ -57,14 +58,12 @@ blockquote > p {
   font-family: 'Arvo', serif;
   color: #594F42 !important;
   margin: 0;
-  padding-left: 0;
-  letter-spacing: 0;
-  padding-top: 6px;
+  padding: 0;
 }
 .navbar-nav li a {
   color: #594F42 !important;
-  font-family: 'Droid Serif';
   font-size: 1.1em;
+  font-family: 'Arvo';
 }
 .navbar {
   background-color: transparent;
@@ -95,13 +94,14 @@ blockquote > p {
 .outer-col-menu {
   padding: 0 0 12px;
 }
-.read-more,
+.read-more {
+  padding-top: 5px;
+}
 .post-date {
   font-family: 'Arvo', serif;
   font-size: 1.1em;
 }
 .post-content {
-  font-family: 'Droid Serif', sans-serif;
   line-height: 1.7;
   overflow: auto;
 }
