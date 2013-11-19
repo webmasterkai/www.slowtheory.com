@@ -69,7 +69,7 @@ function loadNext(current_page) {
   $('.overlay').show();
   $('.loadmore .nextgroup').off('click');
   var next_page = parseInt(current_page) + 1;
-  var params = { 'page' : next_page, 'pageSize' : 60, 'returnSizes' : '220x220xCR,1024x1024' };
+  var params = { 'page' : next_page, 'pageSize' : 60, 'returnSizes' : '200x200xCR,1024x1024' };
   if (window.location.hash) { params.tags = window.location.hash.replace("#!/", ''); }
   
   $.post('http://photos.slowtheory.com/list', params)
@@ -83,12 +83,12 @@ function loadNext(current_page) {
       if (value.description != null) {
         var title_string = 'title="' + value.description + '"';
       }
-      html_buffer = html_buffer + '<div class="isotope-item"><a class="fancybox" rel="gallery" href="' + value.path1024x1024 + '" ' + title_string + '><img src="' + value.path220x220xCR + '" alt="' + value.title + '"></a></div>';
+      html_buffer = html_buffer + '<div class="isotope-item"><a class="fancybox" rel="gallery" href="' + value.path1024x1024 + '" ' + title_string + '><img src="' + value.path200x200xCR + '" alt="' + value.title + '"></a></div>';
     // Add the items
     })).then(function() {
       var $newItems = $(html_buffer);
       $('.post').isotope( 'insert', $newItems );
-    	$(".fancybox").fancybox({
+    	$(".post .fancybox").fancybox({
         helpers : {
           title : {
     	      type : 'inside'

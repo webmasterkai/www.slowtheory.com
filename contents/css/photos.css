@@ -41,6 +41,7 @@
 }
 .isotope-item {
   margin: 2px;
+  background: #000;
 }
 .isotope-item img {
   height: 200px;
