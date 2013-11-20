@@ -6,5 +6,5 @@ $('document').ready(function() {
   $(window).resize(function() {
     $("img.lazy").show().lazyload();
   });
-  $.ga.load("UA-37502202-1");
+  // $.ga.load("UA-37502202-1");
 });

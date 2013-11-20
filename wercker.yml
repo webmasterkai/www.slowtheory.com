@@ -14,9 +14,9 @@ build:
           cat bootstrap.css style.css posts.css | cleancss --s0 -o bundle-default.css
           cat bootstrap.css style.css posts.css photos.css | cleancss --s0 -o bundle-photos.css
           cd ${WERCKER_ROOT}/build/js/
-          uglifyjs jquery.ga.js jquery.lazyload.min.js slowtheory.js -c -o bundle-default.js
-          uglifyjs jquery.ga.js jquery.lazyload.min.js slowtheory.js search.js -c -o bundle-search.js
-          uglifyjs jquery.ga.js bootstrap.js photos.js -c -o bundle-photos.js
+          uglifyjs jquery.lazyload.min.js slowtheory.js -c -o bundle-default.js
+          uglifyjs jquery.lazyload.min.js slowtheory.js search.js -c -o bundle-search.js
+          uglifyjs bootstrap.js photos.js -c -o bundle-photos.js
 deploy:
   steps:
     - s3sync:
