@@ -5,6 +5,9 @@ build:
     - script:
         name: wintersmith build
         code: ./node_modules/.bin/wintersmith build -o ./build
+    - script:
+        name: CSS compression
+        code: npm install clean-css -g && cd ${WERCKER_ROOT}/build/css/ && cleancss -o style.css style.css && cleancss -o posts.css posts.css && cleancss -o photos.css photos.css
 deploy:
   steps:
     - s3sync:
