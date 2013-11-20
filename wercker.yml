@@ -9,8 +9,12 @@ build:
         name: CSS compression
         code: |-
           sudo npm install clean-css -g
+          sudo npm install uglify-js -g
           cd ${WERCKER_ROOT}/build/css/
-          cat bootstrap.css style.css posts.css | cleancss -o bundle-default.css
+          cat bootstrap.css style.css posts.css | cleancss --s0 -o bundle-default.css
+          cat bootstrap.css style.css posts.css photos.css | cleancss --s0 -o bundle-photos.css
+          cd ${WERCKER_ROOT}/build/js/
+          uglifyjs jquery.ga.js jquery.lazyload.min.js slowtheory.js -c -o bundle-default.js
 deploy:
   steps:
     # - s3sync:

@@ -6,10 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Tim Lupfer">
     <link rel="alternate" type="application/rss+xml" title="" href="http://feeds.feedburner.com/slowtheory"> 
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    {{#if production }}
+    <link href="/css/bundle-default.css?rev={{ timestamp }}" rel="stylesheet">
+    {{else}}
+    <link href="/css/bootstrap.css" rel="stylesheet">
     <link href="/css/style.css?rev={{ timestamp }}" rel="stylesheet">
     <link href="/css/posts.css?rev={{ timestamp }}" rel="stylesheet">
+    {{/if}}
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Arvo:400|Anonymous+Pro|Droid+Serif:400,700|Lora:400,700' rel='stylesheet' type='text/css'>
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
