@@ -4,17 +4,20 @@ build:
     - npm-install
     - script:
         name: wintersmith build
-        code: ./node_modules/.bin/wintersmith build -o ./build
+        code: ./node_modules/.bin/wintersmith --config=./config_production.json build -o ./build
     - script:
         name: CSS compression
-        code: sudo npm install clean-css -g && cd ${WERCKER_ROOT}/build/css/ && cleancss -o style.css style.css && cleancss -o posts.css posts.css && cleancss -o photos.css photos.css
+        code: |-
+          sudo npm install clean-css -g
+          cd ${WERCKER_ROOT}/build/css/
+          cat bootstrap.css style.css posts.css | cleancss -o bundle-default.css
 deploy:
   steps:
-    - s3sync:
-        key_id: $KEY
-        key_secret: $SECRET
-        bucket_url: $URL
-        source_dir: build/
+    # - s3sync:
+    #     key_id: $KEY
+    #     key_secret: $SECRET
+    #     bucket_url: $URL
+    #     source_dir: build/
     - script:
         name: Cloudfiles deployment
         code: |

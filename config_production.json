@@ -1,0 +1,29 @@
+{
+  "locals": {
+    "url": "http://www.slowtheory.com",
+    "name": "slowtheory.com",
+    "owner": "Tim Lupfer",
+    "description": "trail running, photography, the outdoors, and other life-living",
+    "production": true
+  },
+  "plugins": [
+    "./plugins/paginator.coffee",
+    "wintersmith-handlebars"
+  ],
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr"
+  },
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  },
+  "paginator": {
+    "perPage": 8
+  },
+  "filenameTemplate": "/:year/:month/:day/:title/:file.html"
+}
