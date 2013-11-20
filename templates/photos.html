@@ -53,28 +53,22 @@
           </div>
           <div class="loadmore">
             <button class="nextgroup btn btn-default btn-lg">
-              Click to load more
+              <i class="fa fa-cloud-download"></i> Load more
+            </button>
+            <button class="opensearch btn btn-default btn-lg">
+              <i class="fa fa-search"></i> Search tags
             </button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="modal fade" id="photoTags">
-      <div class="modal-dialog">
-        <div class="modal-content">
-          <div class="modal-header">
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-            <h4 class="modal-title"><i class="icon-camera"></i> Select Tag</h4>
-          </div>
-          <div class="modal-body">
-            <ul class="list-group">
-              <li class="list-group-item"><a href="#">View all</a></li>
-            </ul>
-          </div>
-        </div>
+    <div class="photosearch">
+      <div class="searchbox">
+        <input type="text" class="typeahead" placeholder="Search by tag">
       </div>
     </div>
+
     <div class="overlay">
       <div class="loading">Loading...</div>
     </div>
@@ -82,10 +76,10 @@
     <script src="//cdn.jsdelivr.net/jquery.easing/1.3/jquery.easing.1.3.js"></script>
     <script src="//cdn.jsdelivr.net/isotope/1.5.25/jquery.isotope.min.js"></script>
     <script src="//cdn.jsdelivr.net/fancybox/2.1.5/jquery.fancybox.pack.js"></script>
+    <script src="//cdn.jsdelivr.net/typeahead.js/0.9.3/typeahead.min.js"></script>
     {{#if production}}
     <script src="/js/bundle-photos.js"></script>
     {{else}}
-    <script src="/js/jquery.ga.js"></script>
     <script src="/js/bootstrap.js"></script>
     <script src="/js/photos.js"></script>
     {{/if}}

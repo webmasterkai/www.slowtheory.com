@@ -105,26 +105,28 @@ function loadNext(current_page) {
 }
 
 
-
 $('document').ready(function() {
   $.getJSON('http://photos.slowtheory.com/list/tags', function(data) {
     // Sort tags & build tag list
     var sorted = data.result.sort(function(obj1, obj2) { return obj2.count - obj1.count; });
+    var tags = [];
     $.each(sorted, function(i,obj) {
-      var class_active = '';
-      if (window.location.hash.replace("#!/", '') == obj.id) { class_active = ' active'; }
-      $('.list-group').append('<li class="list-group-item' + class_active + '"><span class="badge">' + obj.count + '</span><a href="#!/' + obj.id + '">' + obj.id + '</a></li>')
+      tags.push(obj.id);
     });
-    // Add click handlers for tags
-    $('.list-group-item').on('click',function() {
-      $('.list-group-item').removeClass('active');
-      $(this).addClass('active');
-      $('.loadmore .nextgroup').removeClass('disabled');
-      window.location.hash = $(this).find('a').attr('href');
-      $('#photoTags').modal('hide');
+    $('input.typeahead').typeahead({
+      name: 'tags',
+      local: tags
+    })
+    .on('typeahead:autocompleted typeahead:selected', function(e,data) {
+      $('.photosearch').hide();
+      window.location.hash = '!/' + data.value;
     });
+
   });
   $('.post').isotope({ itemSelector : '.isotope-item' });
+  $('.opensearch').on('click touch', function(e) {
+    $('.photosearch').show();
+  });
   loadNext(0);
   $(window).on('hashchange', function() {
     $('html, body').animate({ scrollTop: $('body').offset().top }, 500);
