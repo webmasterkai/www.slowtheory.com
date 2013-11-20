@@ -19,13 +19,13 @@ build:
           uglifyjs jquery.ga.js bootstrap.js photos.js -c -o bundle-photos.js
 deploy:
   steps:
-    # - s3sync:
-    #     key_id: $KEY
-    #     key_secret: $SECRET
-    #     bucket_url: $URL
-    #     source_dir: build/
-    - script:
-        name: Cloudfiles deployment
-        code: |
-          sudo pip install turbolift
-          turbolift -a ${CLOUD_FILES_APIKEY} -u ${CLOUD_FILES_USERNAME} --os-rax-auth ord upload --sync -s ${WERCKER_ROOT}/build/ -c www.slowtheory.com
+    - s3sync:
+         key_id: $KEY
+         key_secret: $SECRET
+         bucket_url: $URL
+         source_dir: build/
+    # - script:
+    #     name: Cloudfiles deployment
+    #     code: |
+    #       sudo pip install turbolift
+    #       turbolift -a ${CLOUD_FILES_APIKEY} -u ${CLOUD_FILES_USERNAME} --os-rax-auth ord upload --sync -s ${WERCKER_ROOT}/build/ -c www.slowtheory.com
