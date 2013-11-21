@@ -1,0 +1,7 @@
+---
+title: 'misshappen body displaced into oblong semisphere'
+date: "2005-04-27 12:00:00"
+template: post.html
+---
+
+ Today I was riding my bike and it started snowing on me—not the normal type of  snow that flakes down in an inspiring and picturesque wall, but the type of snow that comes down unexpectedly in pellets like misshapen Legos of exactly the same shape. It wasn’t quite hail, but it wasn’t quite snow either. It didn’t seem to be sure exactly what it wanted, only that it wanted to flee the  heavens. I put narrow randonneur bars from the dumpster on my track bike. They’re fun and stylish, a bold statement on the wayward and wandering part of my soul. Whenever I see a faux station wagon I think it’s you. I went to the art store today to get another color paint—it’s a yellow’ish brown conglomerate that somehow comments on the filth of time, the slow disintegration of life’s  details into a pulp shade of yellow. I’m becoming a color; I’m unbecoming a color. I write the details, the numbers of my life, into boxes chronicling the evaporation of spirit into paper—stacks of forms and electronically transmitted data that encompass the lost art of burial. I’m becoming a huge stack of forms  in the corner of someone’s office with the letterhead, “Misshapen Body Displaced into Oblong Semisphere.” I speak to my friends from inside of a vase. I cleaned my apartment and made something that might be dinner had it more breadth and width, had it a bit more dishonesty in its fledgling self. The  phone rings.  
