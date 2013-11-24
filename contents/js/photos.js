@@ -72,8 +72,7 @@ function loadNext(current_page) {
   var params = { 'page' : next_page, 'pageSize' : 60, 'returnSizes' : '200x200xCR,1024x1024' };
   if (window.location.hash) { params.tags = window.location.hash.replace("#!/", ''); }
   
-  $.post('http://photos.slowtheory.com/list', params)
-  .done(function(data) {
+  $.getJSON('http://hjs.timlupfer.com/list', params, function(data) {
     // Disable the load more button if there aren't any results
     if (data.result.length == 0) { $('.loadmore .nextgroup').addClass('disabled'); }
     var html_buffer = '';
