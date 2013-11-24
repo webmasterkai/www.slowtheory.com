@@ -19,5 +19,8 @@ build:
           uglifyjs bootstrap.js photos.js -c -o bundle-photos.js
 deploy:
   steps:
+    - script:
+        name: Remove .gitignore
+        code: rm ${WERCKER_ROOT}/.gitignore
     - heroku-deploy:
         key-name: HEROKU_SH7910
