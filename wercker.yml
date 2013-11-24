@@ -24,5 +24,7 @@ deploy:
     #     key_secret: $SECRET
     #     bucket_url: $URL
     #     source_dir: build/
+    -add-ssh-key:
+        keyname: HEROKU_SH7910
     - heroku-deploy:
         key-name: HEROKU_SH7910
