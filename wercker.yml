@@ -20,13 +20,9 @@ build:
 deploy:
   steps:
     - s3sync:
-         key_id: $KEY
-         key_secret: $SECRET
-         bucket_url: $URL
-         source_dir: build/
+        key_id: $KEY
+        key_secret: $SECRET
+        bucket_url: $URL
+        source_dir: build/
     - heroku-deploy:
-    # - script:
-    #     name: Cloudfiles deployment
-    #     code: |
-    #       sudo pip install turbolift
-    #       turbolift -a ${CLOUD_FILES_APIKEY} -u ${CLOUD_FILES_USERNAME} --os-rax-auth ord upload --sync -s ${WERCKER_ROOT}/build/ -c www.slowtheory.com
+        key-name: HEROKU_SH7910
