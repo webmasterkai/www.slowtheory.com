@@ -19,12 +19,7 @@ build:
           uglifyjs bootstrap.js photos.js -c -o bundle-photos.js
 deploy:
   steps:
-    # - s3sync:
-    #     key_id: $KEY
-    #     key_secret: $SECRET
-    #     bucket_url: $URL
-    #     source_dir: build/
-    -add-ssh-key:
+    - add-ssh-key:
         keyname: HEROKU_SH7910
     - heroku-deploy:
         key-name: HEROKU_SH7910
