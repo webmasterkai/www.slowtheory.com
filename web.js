@@ -41,6 +41,12 @@ app.get('/list', function(request, response) {
 
 // After all other routes are processed, set up our static site
 app.use(express.static(path.join(__dirname, 'build')));
+
+// If we haven't found it yet, return a 404 with an error page
+app.use(function(req, res, next){
+  res.status(404).sendfile(__dirname + '/build/error/index.html');
+});
+
 var port = process.env.PORT || 5000;
 
 app.listen(port, function() {
