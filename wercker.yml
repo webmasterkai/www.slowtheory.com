@@ -24,6 +24,7 @@ deploy:
          key_secret: $SECRET
          bucket_url: $URL
          source_dir: build/
+    - heroku-deploy:
     # - script:
     #     name: Cloudfiles deployment
     #     code: |
