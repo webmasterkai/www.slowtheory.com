@@ -15,9 +15,14 @@ blockquote > p {
 }
 body {
   font-family: 'Lora', serif;
-  background: #e0d8c0;
-  /*background: #e2dfcf url(/assets/media/parchment.jpg) fixed no-repeat;
-  background-size: cover;*/
+  background: rgba(224,216,192,0.57);
+  background: -moz-radial-gradient(center, ellipse cover, rgba(224,216,192,0.57) 0%, rgba(224,216,192,0.84) 63%, rgba(224,216,192,1) 100%);
+  background: -webkit-gradient(radial, center center, 0px, center center, 100%, , color-stop(0%, rgba(224,216,192,0.57)), color-stop(63%, rgba(224,216,192,0.84)), color-stop(100%, rgba(224,216,192,1)));
+  background: -webkit-radial-gradient(center, ellipse cover, rgba(224,216,192,0.57) 0%, rgba(224,216,192,0.84) 63%, rgba(224,216,192,1) 100%);
+  background: -o-radial-gradient(center, ellipse cover, rgba(224,216,192,0.57) 0%, rgba(224,216,192,0.84) 63%, rgba(224,216,192,1) 100%);
+  background: -ms-radial-gradient(center, ellipse cover, rgba(224,216,192,0.57) 0%, rgba(224,216,192,0.84) 63%, rgba(224,216,192,1) 100%);
+  background: radial-gradient(ellipse at center, rgba(224,216,192,0.57) 0%, rgba(224,216,192,0.84) 63%, rgba(224,216,192,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e0d8c0', endColorstr='#e0d8c0', GradientType=1 );
 }
 
 
@@ -173,9 +178,6 @@ body {
 
 /**** MEDIA SPECIFIC ****/
 @media screen and (max-width: 768px) {
-  body {
-    background: #e2dfcf;
-  }
   .article {
     padding : 0;
   }
