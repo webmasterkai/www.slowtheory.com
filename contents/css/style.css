@@ -15,8 +15,9 @@ blockquote > p {
 }
 body {
   font-family: 'Lora', serif;
-  background: #e2dfcf url(/assets/media/parchment.jpg) fixed no-repeat;
-  background-size: cover;
+  background: #e2dfcf;
+  /*background: #e2dfcf url(/assets/media/parchment.jpg) fixed no-repeat;
+  background-size: cover;*/
 }
 
 
