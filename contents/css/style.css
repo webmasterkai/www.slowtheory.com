@@ -172,6 +172,9 @@ body {
 
 /**** MEDIA SPECIFIC ****/
 @media screen and (max-width: 768px) {
+  body {
+    background: none;
+  }
   .article {
     padding : 0;
   }
