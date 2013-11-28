@@ -7,9 +7,9 @@ post_class: ' stinson_review'
 description: Due to the Bondi B2's inclination to self-destruct, I spent four months of the summer running in the Hoka Stinson Evo Tarmac. Here I reflect on their ability to navigate varied terrain, promote good health, and improve performance.
 ---
 
-![Hoka Stinson Evo Tarmac](http://slowtheory.openphoto.me.s3.amazonaws.com/custom/201311/P1060678-642c16_450x450.jpg)
-![Tread](http://slowtheory.openphoto.me.s3.amazonaws.com/custom/201311/P1060679-926cde_450x450.jpg)
-![Compression](http://slowtheory.openphoto.me.s3.amazonaws.com/custom/201311/P1060680-287df2_450x450.jpg)
+* ![Hoka Stinson Evo tarmac](http://slowtheory.openphoto.me.s3.amazonaws.com/custom/201311/P1060678-642c16_350x250xCR.jpg)
+* ![Tread wear after 400 miles](http://slowtheory.openphoto.me.s3.amazonaws.com/custom/201311/P1060679-926cde_350x250xCR.jpg)
+* ![Compressed, but still springy](http://slowtheory.openphoto.me.s3.amazonaws.com/custom/201311/P1060680-287df2_350x250xCR.jpg)
 
 #### Backstory
 
