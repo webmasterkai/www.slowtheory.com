@@ -11,8 +11,6 @@ description: Due to the Bondi B2's inclination to self-destruct, I spent four mo
 * ![Tread wear after 400 miles](http://slowtheory.openphoto.me.s3.amazonaws.com/custom/201311/P1060679-926cde_350x250xCR.jpg)
 * ![Compressed, but still springy](http://slowtheory.openphoto.me.s3.amazonaws.com/custom/201311/P1060680-287df2_350x250xCR.jpg)
 
-#### Backstory
-
 After spending the first part of the year running in either the Inov-8 Trail Roc 255 or the Altra Instinct, I succumbed to a mild case of plantar fasciitis. After taking three weeks off in June, I returned with heightened awareness of the need to stay healthy while training for an ultra. The Superior 50 mile trail race loomed as my biggest race goal of the season, and with only ten weeks to go, I wanted to ensure that I would remain injury-free. In July, a wild seven day stretch had me completing both the Afton 50k and the Eugene Curnow trail marathon. The pair of Hoka Bondi B2s that I used for both races performed exceptionally well, but suffered from one alarming shortcoming--[they fell apart](http://www.slowtheory.com/2013/07/15/hoka-bondi-b2-review/). Hoka was kind about replacing them, but after three more attempts with the same defective model, I grew weary of breaking in new shoes. I decided to get a pair of Stinson Evo Tarmacs for training and reserve the Bondis for race day.
 
 #### Performance
