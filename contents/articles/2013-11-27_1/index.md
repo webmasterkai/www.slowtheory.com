@@ -4,6 +4,7 @@ date: '2013-11-27 11:57:32'
 template: post.html
 photo: http://slowtheory.openphoto.me.s3.amazonaws.com/custom/201311/P1060678-642c16_350x250xCR.jpg
 post_class: ' stinson_review'
+description: Due to the Bondi B2's inclination to self-destruct, I spent four months of the summer running in the Hoka Stinson Evo Tarmac. Here I reflect on their ability to navigate varied terrain, promote good health, and improve performance.
 ---
 
 ![Hoka Stinson Evo Tarmac](http://slowtheory.openphoto.me.s3.amazonaws.com/custom/201311/P1060678-642c16_450x450.jpg)
