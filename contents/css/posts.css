@@ -105,6 +105,10 @@
   padding: 0 1px;
   margin: 20px 0;
 }
+.stinson_review h4 {
+  margin-top: 40px;
+  text-align: center;
+}
 
 /* MOBILE */
 @media screen and (max-width: 768px) {
