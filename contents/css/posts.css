@@ -95,6 +95,15 @@
 .race_plan ul {
   padding-bottom: 20px;
 }
+.stinson_review p:nth-of-type(1) {
+  max-width: 300px;
+  float: left;
+  margin-right: 15px;
+  margin-top: 10px;
+}
+.stinson_review p:nth-of-type(1) img {
+  padding-bottom: 5px;
+}
 
 /* MOBILE */
 @media screen and (max-width: 768px) {

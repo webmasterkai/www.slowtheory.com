@@ -13,10 +13,14 @@ build:
           cd ${WERCKER_ROOT}/build/css/
           cat bootstrap.css style.css posts.css | cleancss --s0 -o bundle-default.css
           cat bootstrap.css style.css posts.css photos.css | cleancss --s0 -o bundle-photos.css
+          mkdir ${WERCKER_GIT_COMMIT}
+          mv bundle* ${WERCKER_GIT_COMMIT}
           cd ${WERCKER_ROOT}/build/js/
           uglifyjs jquery.lazyload.min.js slowtheory.js -c -o bundle-default.js
           uglifyjs jquery.lazyload.min.js slowtheory.js search.js -c -o bundle-search.js
           uglifyjs bootstrap.js photos.js -c -o bundle-photos.js
+          mkdir ${WERCKER_GIT_COMMIT}
+          mv bundle* ${WERCKER_GIT_COMMIT}
 deploy:
   steps:
     - script:

@@ -7,12 +7,12 @@
     <meta name="author" content="Tim Lupfer">
     <link rel="alternate" type="application/rss+xml" title="" href="http://feeds.feedburner.com/slowtheory"> 
     {{#if production }}
-    <link href="/css/bundle-photos.css?rev={{ timestamp }}" rel="stylesheet">
+    <link href="/css/{{timestamp}}/bundle-photos.css" rel="stylesheet">
     {{else}}
     <link href="/css/bootstrap.css" rel="stylesheet">
-    <link href="/css/style.css?rev={{ timestamp }}" rel="stylesheet">
-    <link href="/css/posts.css?rev={{ timestamp }}" rel="stylesheet">
-    <link href="/css/photos.css?rev={{ timestamp }}" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
+    <link href="/css/posts.css" rel="stylesheet">
+    <link href="/css/photos.css" rel="stylesheet">
     {{/if}}
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Arvo:400|Anonymous+Pro|Droid+Serif:400,700|Lora:400,700' rel='stylesheet' type='text/css'>
@@ -78,7 +78,7 @@
     <script src="//cdn.jsdelivr.net/fancybox/2.1.5/jquery.fancybox.pack.js"></script>
     <script src="//cdn.jsdelivr.net/typeahead.js/0.9.3/typeahead.min.js"></script>
     {{#if production}}
-    <script src="/js/bundle-photos.js"></script>
+    <script src="/js/{{timestamp}}/bundle-photos.js"></script>
     {{else}}
     <script src="/js/bootstrap.js"></script>
     <script src="/js/photos.js"></script>
