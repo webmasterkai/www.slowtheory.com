@@ -39,48 +39,66 @@
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/media/apple-touch-icon-72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="/assets/media/apple-touch-icon-57-precomposed.png">
     <link rel="shortcut icon" href="/assets/media/favicon.ico">
+    <style>
+    #photos .list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    #photos .list li {
+      padding: 2px;
+    }
+    </style>
   </head>
 
   <body>
     
     {{>menu}}
 
-    <div class="container" style="padding:0">
+    <div class="container-fluid">
       <div class="row">
-        <div class="col-md-10 col-md-offset-1">
-          <div class="alert alert-danger ie-warning">Sorry, this page requires at least Internet Explorer 10...or just about any other browser that isn't Internet Explorer.</div>
-          <div class="post" style="width:100%">
+        <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+          <div id="photos" class="post">
+            <ul class="list">
+            </ul>
           </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
           <div class="loadmore">
             <button class="nextgroup btn btn-default btn-lg">
               <i class="fa fa-cloud-download"></i> Load more
-            </button>
-            <button class="opensearch btn btn-default btn-lg">
-              <i class="fa fa-search"></i> Search tags
             </button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="photosearch">
-      <div class="searchbox">
-        <input type="text" class="typeahead" placeholder="Search by tag">
+    <div class="row">
+      <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+        <ul class="pager">
+          <li class="disabled"><a><i class="fa fa-angle-double-left fa-5x"></i></a></li>
+          <li class="disabled"><a><i class="fa fa-angle-double-right fa-5x"></i></a></li>
+        </ul>
       </div>
     </div>
+    {{>footer}}
+  </div>
 
     <div class="overlay">
       <div class="loading">Loading...</div>
     </div>
+
     <script src="//cdn.jsdelivr.net/jquery/2.0.3/jquery-2.0.3.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.1.2/handlebars.min.js"></script>
     <script src="//cdn.jsdelivr.net/jquery.easing/1.3/jquery.easing.1.3.js"></script>
-    <script src="//cdn.jsdelivr.net/isotope/1.5.25/jquery.isotope.min.js"></script>
     <script src="//cdn.jsdelivr.net/fancybox/2.1.5/jquery.fancybox.pack.js"></script>
-    <script src="//cdn.jsdelivr.net/typeahead.js/0.9.3/typeahead.min.js"></script>
     {{#if production}}
     <script src="/js/{{timestamp}}/bundle-photos.js"></script>
     {{else}}
-    <script src="/js/bootstrap.js"></script>
+    <script src="/js/jquery.lazyload.min.js"></script>
     <script src="/js/photos.js"></script>
     {{/if}}
   </body>

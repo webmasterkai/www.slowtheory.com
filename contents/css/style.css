@@ -15,7 +15,7 @@ blockquote > p {
 }
 body {
   font-family: 'Lora', serif;
-  font-size: 15px;
+  font-size: 14px;
   -webkit-font-smoothing: antialiased;
   background: rgba(224,216,192,0.57);
   background: -moz-radial-gradient(center, ellipse cover, rgba(224,216,192,0.57) 0%, rgba(224,216,192,0.84) 63%, rgba(224,216,192,1) 100%);
