@@ -16,6 +16,7 @@ blockquote > p {
 body {
   font-family: 'Lora', serif;
   font-size: 15px;
+  -webkit-font-smoothing: antialiased;
   background: rgba(224,216,192,0.57);
   background: -moz-radial-gradient(center, ellipse cover, rgba(224,216,192,0.57) 0%, rgba(224,216,192,0.84) 63%, rgba(224,216,192,1) 100%);
   background: -webkit-gradient(radial, center center, 0px, center center, 100%, , color-stop(0%, rgba(224,216,192,0.57)), color-stop(63%, rgba(224,216,192,0.84)), color-stop(100%, rgba(224,216,192,1)));
