@@ -17,7 +17,6 @@ build:
           mv bundle* ${WERCKER_GIT_COMMIT}
           cd ${WERCKER_ROOT}/build/js/
           uglifyjs jquery.lazyload.min.js slowtheory.js -c -o bundle-default.js
-          uglifyjs jquery.lazyload.min.js slowtheory.js search.js -c -o bundle-search.js
           uglifyjs jquery.lazyload.min.js hash.min.js list.min.js photos.js -c -o bundle-photos.js
           mkdir ${WERCKER_GIT_COMMIT}
           mv bundle* ${WERCKER_GIT_COMMIT}
