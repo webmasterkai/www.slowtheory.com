@@ -8,11 +8,9 @@ $(document).ready(function() {
   photolist.on('updated', function() {
     $('.prevpage, .nextpage').removeClass('disabled');
     $('.nextpage').off('click touch').on('click touch', function(e) {
-      console.log(parseInt(photolist.i)+parseInt(photolist.page), parseInt(photolist.page));
       photolist.show(parseInt(photolist.i)+parseInt(photolist.page), parseInt(photolist.page));
     });
     $('.prevpage').off('click touch').on('click touch', function(e) {
-      console.log(parseInt(photolist.i)-parseInt(photolist.page), parseInt(photolist.page));
       photolist.show(parseInt(photolist.i)-parseInt(photolist.page), parseInt(photolist.page));
     });
     // If our position is less than the number of entries per page, assume we are on page #1

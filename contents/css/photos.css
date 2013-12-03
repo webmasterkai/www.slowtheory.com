@@ -15,3 +15,27 @@
 span.tags {
   display:none;
 }
+.pager {
+  width: 100%;
+}
+.pager li:nth-of-type(1),
+.pager li:nth-of-type(3) {
+  float: left;
+  width: 25%;
+}
+.pager li:nth-of-type(2) {
+  float: left;
+  width: 50%;
+}
+.pager li>a {
+  padding: 0;
+}
+.input-group {
+  margin-top: 10px;
+}
+input.visible-xs {
+  margin-top: 10px;
+}
+.bottomsearch {
+  margin-top: 600px;
+}

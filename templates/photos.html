@@ -51,11 +51,20 @@
                   Your version of Internet Explorer probably isn't rendering this page very well, or maybe not even at all. Try version 10 or later...or really, any browser that isn't Internet Explorer.
                 </p>
               </div>
-              <div class="col-sm-6 col-sm-offset-3">
-                <div class="input-group">
-                  <input class="search form-control" type="text" placeholder="Search">
-                  <span class="input-group-addon"><i class="fa fa-search"></i></span>
-                </div>
+              <div class="col-sm-12">
+                <ul class="pager">
+                  <li class="disabled prevpage"><a><i class="fa fa-angle-double-left fa-3x"></i></a></li>
+                  <li>
+                    <input class="search form-control visible-xs" type="text" placeholder="Search">
+                    <div class="hidden-xs">              
+                      <div class="input-group">
+                        <input class="search form-control" type="text" placeholder="Search">
+                        <span class="input-group-addon"><i class="fa fa-search"></i></span>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="disabled nextpage"><a><i class="fa fa-angle-double-right fa-3x"></i></a></li>
+                </ul>
               </div>
             </div>
             <ul class="list">
@@ -67,11 +76,20 @@
         </div>
       </div>
 
-      <div class="row">
+      <div class="row" style="margin-top: 50px">
         <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
           <ul class="pager">
-            <li class="disabled prevpage"><a><i class="fa fa-angle-double-left fa-5x"></i></a></li>
-            <li class="disabled nextpage"><a><i class="fa fa-angle-double-right fa-5x"></i></a></li>
+            <li class="disabled prevpage"><a><i class="fa fa-angle-double-left fa-3x"></i></a></li>
+            <li>
+              <input class="search form-control visible-xs" type="text" placeholder="Search">
+              <div class="hidden-xs">              
+                <div class="input-group">
+                  <input class="search form-control" type="text" placeholder="Search">
+                  <span class="input-group-addon"><i class="fa fa-search"></i></span>
+                </div>
+              </div>
+            </li>
+            <li class="disabled nextpage"><a><i class="fa fa-angle-double-right fa-3x"></i></a></li>
           </ul>
         </div>
       </div>
