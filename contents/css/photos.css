@@ -9,3 +9,9 @@
 .nextpage, .prevpage {
   cursor: pointer;
 }
+.ie-warning {
+  display: none;
+}
+span.tags {
+  display:none;
+}
