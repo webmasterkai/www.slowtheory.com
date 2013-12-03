@@ -40,4 +40,5 @@ $(document).ready(function() {
     });
   });
   photolist.update();
+  $('.overlay').hide();
 });
