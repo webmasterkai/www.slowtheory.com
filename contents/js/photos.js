@@ -22,7 +22,6 @@ $(document).ready(function() {
       $('.nextpage').addClass('disabled').off('click touch');
     }
     $("img.lazy").show().lazyload({
-      effect: 'fadeIn',
       skip_invisible : false
     });
     $("#photos .list .fancybox").fancybox({
