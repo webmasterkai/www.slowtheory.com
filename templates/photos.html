@@ -15,7 +15,7 @@
     <link href="/css/photos.css" rel="stylesheet">
     {{/if}}
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-    <link href='http://fonts.googleapis.com/css?family=Arvo:400|Anonymous+Pro|Droid+Serif:400,700|Lora:400,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Arvo:400|Anonymous+Pro|Lora:400,700' rel='stylesheet' type='text/css'>
     <link href="//cdn.jsdelivr.net/fancybox/2.1.5/jquery.fancybox.css" rel="stylesheet" type="text/css">
     
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
@@ -67,25 +67,14 @@
 
       <div class="row">
         <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-          <div class="loadmore">
-            <button class="nextgroup btn btn-default btn-lg">
-              <i class="fa fa-cloud-download"></i> Load more
-            </button>
-          </div>
+          <ul class="pager">
+            <li class="disabled prevpage"><a><i class="fa fa-angle-double-left fa-5x"></i></a></li>
+            <li class="disabled nextpage"><a><i class="fa fa-angle-double-right fa-5x"></i></a></li>
+          </ul>
         </div>
       </div>
+      {{>footer}}
     </div>
-
-    <div class="row">
-      <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-        <ul class="pager">
-          <li class="disabled"><a><i class="fa fa-angle-double-left fa-5x"></i></a></li>
-          <li class="disabled"><a><i class="fa fa-angle-double-right fa-5x"></i></a></li>
-        </ul>
-      </div>
-    </div>
-    {{>footer}}
-  </div>
 
     <div class="overlay">
       <div class="loading">Loading...</div>
