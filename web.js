@@ -9,7 +9,6 @@ var tb_consumerkey = process.env.TB_CONSUMERKEY,
     tb_token = process.env.TB_TOKEN,
     tb_tokensecret = process.env.TB_TOKENSECRET;
 
-app.use(express.logger());
 app.use(express.compress());
 app.set('json spaces',0);
 
@@ -38,6 +37,8 @@ app.get('/list', function(request, response) {
     }
   );
 });
+
+app.use(express.logger());
 
 // After all other routes are processed, set up our static site
 app.use(express.static(path.join(__dirname, 'build')));
