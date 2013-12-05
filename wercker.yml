@@ -4,7 +4,9 @@ build:
     - npm-install
     - script:
         name: wintersmith build
-        code: ./node_modules/.bin/wintersmith --config=./config_production.json build -o ./build
+        code: |-
+          curl "http://www.slowtheory.com/list?pageSize=5000&returnSizes=300x300xCR,1024x1024" > ${WERCKER_GIT_COMMIT}/contents/tb/tb2.json
+          ./node_modules/.bin/wintersmith --config=./config_production.json build -o ./build
     - script:
         name: CSS compression
         code: |-
