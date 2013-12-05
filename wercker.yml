@@ -4,24 +4,7 @@ build:
     - npm-install
     - script:
         name: wintersmith build
-        code: |-
-          curl "http://www.slowtheory.com/list?pageSize=5000&returnSizes=300x300xCR,1024x1024" > ${WERCKER_GIT_COMMIT}/contents/tb/tb2.json
-          ./node_modules/.bin/wintersmith --config=./config_production.json build -o ./build
-    - script:
-        name: CSS compression
-        code: |-
-          sudo npm install clean-css -g
-          sudo npm install uglify-js -g
-          cd ${WERCKER_ROOT}/build/css/
-          cat bootstrap.css style.css posts.css | cleancss --s0 -o bundle-default.css
-          cat bootstrap.css style.css posts.css photos.css | cleancss --s0 -o bundle-photos.css
-          mkdir ${WERCKER_GIT_COMMIT}
-          mv bundle* ${WERCKER_GIT_COMMIT}
-          cd ${WERCKER_ROOT}/build/js/
-          uglifyjs jquery.lazyload.min.js slowtheory.js -c -o bundle-default.js
-          uglifyjs jquery.lazyload.min.js hash.min.js list.min.js photos.js -c -o bundle-photos.js
-          mkdir ${WERCKER_GIT_COMMIT}
-          mv bundle* ${WERCKER_GIT_COMMIT}
+        code: ./node_modules/.bin/wintersmith --config=./config_production.json build -o ./build
 deploy:
   steps:
     - script:
