@@ -7,8 +7,8 @@
   },
   "plugins": [
     "./plugins/paginator.coffee",
-    "./plugins/assets.coffee",
-    "wintersmith-handlebars"
+    "wintersmith-handlebars",
+    "./plugins/assets.coffee"
   ],
   "require": {
     "moment": "moment",
