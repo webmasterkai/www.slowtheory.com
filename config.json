@@ -6,9 +6,9 @@
     "description": "trail running, photography, the outdoors, and other life-living"
   },
   "plugins": [
+    "./plugins/paginator.coffee",
     "./plugins/tb.coffee",
     "./plugins/assets.coffee",
-    "./plugins/paginator.coffee",
     "wintersmith-handlebars"
   ],
   "require": {
