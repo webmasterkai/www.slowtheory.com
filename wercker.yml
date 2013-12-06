@@ -4,7 +4,7 @@ build:
     - npm-install
     - script:
         name: wintersmith build
-        code: ./node_modules/.bin/wintersmith --config=./config_production.json build -o ./build
+        code: ./node_modules/.bin/wintersmith build -o ./build
 deploy:
   steps:
     - script:
