@@ -6,6 +6,5 @@ module.exports = (env, callback) ->
     res.on 'data', (chunk) ->
       data += chunk.toString()
     res.on 'end', () ->
-      console.log data
       env.locals.assets = JSON.parse data
       callback()
