@@ -9,7 +9,6 @@
     "wintersmith-coffee",
     "./plugins/paginator.coffee",
     "wintersmith-handlebars",
-    "./plugins/tb.coffee",
     "./plugins/assets.coffee"
   ],
   "require": {

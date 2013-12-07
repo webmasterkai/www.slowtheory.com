@@ -20,9 +20,6 @@
         .overlay {
           display: none !important;
         }
-        .ie-warning {
-          display: block;
-        }
       </style>
     <![endif]-->    
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/media/apple-touch-icon-144-precomposed.png">
@@ -31,28 +28,18 @@
     <link rel="apple-touch-icon-precomposed" href="/assets/media/apple-touch-icon-57-precomposed.png">
     <link rel="shortcut icon" href="/assets/media/favicon.ico">
     <style>
-    .overlay {
-      display: block;
-    }
-    .photonav {
-      position: fixed;
-      bottom: 0;
-      left: 0;
-      width: 100%;
-      z-index: 999;
-      background: #594F42;
-      opacity: 0.95;
-    }
-    .photonav .pager {
-      margin: 10px;
-    }
-    .pager>li>a {
-      color: #fff;
-    }
+      button {
+        background: none;
+        border: 0;
+        color: #dc322f;
+      }
+      button:disabled {
+        color: #999;
+      }
     </style>
   </head>
 
-  <body>
+  <body ng-app="photopage">
     {{>menu}}
     <div class="overlay">
       <div class="loading">Loading...</div>
@@ -61,32 +48,31 @@
       <div class="row">
         <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
           <div id="photos" class="post">
-            <div class="row">
-              <div class="col-sm-12 alert ie-warning">
-                <h3><i class="fa fa-exclamation-triangle"></i> Notice</h3>
-                <p class="lead" style="padding-bottom: 30px;">
-                  Your version of Internet Explorer probably isn't rendering this page very well, or maybe not even at all. Try version 10 or later...or really, any browser that isn't Internet Explorer.
-                </p>
-              </div>
-              <div class="photonav">
-                <ul class="pager">
-                  <li class="disabled prevpage"><a><i class="fa fa-angle-double-left fa-3x"></i></a></li>
-                  <li>
-                    <input class="search form-control visible-xs" type="text" placeholder="Search">
-                    <div class="hidden-xs">              
+            <div ng-controller="PhotoList">
+              <div class="row">
+                <div class="col-sm-12">
+                  <ul class="pager">
+                    <li><button ng-click="currentPage=currentPage-1" ng-disabled="currentPage==0"><i class="fa fa-angle-double-left fa-3x"></i></button></li>
+                    <li>            
                       <div class="input-group">
-                        <input class="search form-control" type="text" placeholder="Search photo tags and descriptions">
+                        <input class="search form-control" type="text" ng-change="updateData()" ng-model="searchText" placeholder="Search photo tags and descriptions">
                         <span class="input-group-addon"><i class="fa fa-search"></i></span>
                       </div>
-                    </div>
-                  </li>
-                  <li class="disabled nextpage"><a><i class="fa fa-angle-double-right fa-3x"></i></a></li>
-                </ul>
+                    </li>
+                    <li><button ng-click="currentPage=currentPage+1" ng-disabled="filteredItems.length<pageSize"><i class="fa fa-angle-double-right fa-3x"></i></button></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-12">
+                  <ul class="list">
+                    <li class="z" ng-repeat="item in (filteredItems = (data | filter:searchText | startFrom:currentPage*pageSize | limitTo:pageSize | lazyLoad))">
+                      <a class="fancybox name" rel="gallery" href="[[item.path1024x1024]]"><img class="img-responsive" src="[[item.path300x300xCR]]"></a>
+                    </li>
+                  </ul>
+                </div>
               </div>
             </div>
-            <ul class="list">
-            {{#each tb.result}}<li class="z"><span class="tags">{{#each tags}}{{this}} {{/each}}</span><a class="fancybox name" rel="gallery" href="{{path1024x1024}}"><img class="q" src="/assets/media/black.png" data-original="{{path300x300xCR}}"></a></li>{{/each}}
-            </ul>
           </div>
         </div>
       </div>
@@ -99,5 +85,51 @@
     <script src="//cdn.jsdelivr.net/fancybox/2.1.5/jquery.fancybox.pack.js"></script>
     {{#assets.collection.default.js}}<script src="{{this}}"></script>{{/assets.collection.default.js}}
     {{#assets.collection.photos.js}}{{#if this}}<script src="{{this}}"></script>{{/if}}{{/assets.collection.photos.js}}
+    <script>
+      var photopage=angular.module('photopage', [], function($interpolateProvider) {
+        $interpolateProvider.startSymbol('[[');
+        $interpolateProvider.endSymbol(']]');
+      });
+
+      function PhotoList($scope, $http) {
+        $scope.currentPage = 0;
+        $scope.pageSize = 48;
+        $scope.data = [];
+        $scope.filteredItems = [];
+        $scope.updateData = function() {
+          $scope.currentPage = 0;
+          return true;
+        }
+        $http.get('http://www.slowtheory.com/list?pageSize=5000&returnSizes=300x300xCR,1024x1024')
+          .then(function(res){
+            $('.overlay').hide();
+            $scope.data = res.data.result;            
+          });
+        $scope.numberOfPages=function(){
+          return Math.ceil($scope.data.length/$scope.pageSize);                
+        }
+      }
+      photopage.filter('startFrom', function() {
+        return function(input, start) {
+          start = +start; 
+          return input.slice(start);
+        }
+      });
+      photopage.filter('lazyLoad', function() {
+        return function(input) {
+          $('html,body').trigger('scroll');
+          $("#photos .list .fancybox").fancybox({
+            helpers : {
+              title : {
+               type : 'inside'
+              }
+            },
+           openEffect  : 'none',
+           closeEffect : 'none'
+          });
+          return input;
+        }
+      });
+    </script>
   </body>
 </html>

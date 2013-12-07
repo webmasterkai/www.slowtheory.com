@@ -14,6 +14,10 @@ app.set('json spaces',0);
 
 // Get a listing of recent photos with optional arguments
 app.get('/list', function(request, response) {
+  var rtg = require("url").parse(process.env.REDISTOGO_URL);
+  var redis = require("redis").createClient(rtg.port, rtg.hostname);
+  redis.auth(rtg.auth.split(":")[1]);
+
   var oauth = new OAuth.OAuth(
     null,
     null,
@@ -25,13 +29,16 @@ app.get('/list', function(request, response) {
   );
 
   var q = querystring.stringify(request.query);
+  redis.get(q, function (err, reply) {
+    console.log(reply.toString()); // Will print `bar`
+  });
   oauth.get(
     'https://slowtheory.trovebox.com/photos/list.json?' + q,
     tb_token, 
     tb_tokensecret, 
     function (e, data, res){
-      console.log(request.query);
-      if (e) console.error(e);        
+      redis.set(q, data);
+      if (e) console.error(e);  
       response.setHeader('Access-Control-Allow-Origin', '*');
       response.json(JSON.parse(data));
     }
