@@ -100,7 +100,7 @@
           $scope.currentPage = 0;
           return true;
         }
-        $http.get('http://www.slowtheory.com/list?pageSize=5000&returnSizes=300x300xCR,1024x1024')
+        $http.get('http://t.slowtheory.com/f7c0e573e12c971b267b7f1ad3d81837f7ccdc33/tb.json')
           .then(function(res){
             $('.overlay').hide();
             $scope.data = res.data.result;            
