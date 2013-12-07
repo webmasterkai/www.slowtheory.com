@@ -8,9 +8,7 @@
     "underscore": "1.4.x",
     "typogr": "0.6.x",
     "wintersmith-handlebars": "0.0.3",
-    "wintersmith-coffee": "0.x",
-    "redis": "0.x",
-    "url": "0.x"
+    "wintersmith-coffee": "0.x"
   },
   "engines": {
     "node": "0.10.21",
