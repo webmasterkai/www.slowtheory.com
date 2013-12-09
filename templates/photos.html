@@ -67,7 +67,7 @@
                 <div class="col-sm-12">
                   <ul class="list">
                     <li class="z" ng-repeat="item in (filteredItems = (data | filter:searchText | startFrom:currentPage*pageSize | limitTo:pageSize | lazyLoad))">
-                      <a class="fancybox name" rel="gallery" href="[[item.path1024x1024]]"><img class="img-responsive" src="[[item.path300x300xCR]]"></a>
+                      <a class="fancybox name" rel="gallery" title="[[item.description]]" href="[[item.path1024x1024]]"><img class="img-responsive" src="[[item.path300x300xCR]]" alt="[[item.description]]"></a>
                     </li>
                   </ul>
                 </div>
@@ -80,10 +80,9 @@
       {{>footer}}
     </div>
 
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    {{#assets.collection.default.js}}<script src="{{this}}"></script>{{/assets.collection.default.js}}
     <script src="//cdn.jsdelivr.net/jquery.easing/1.3/jquery.easing.1.3.js"></script>
     <script src="//cdn.jsdelivr.net/fancybox/2.1.5/jquery.fancybox.pack.js"></script>
-    {{#assets.collection.default.js}}<script src="{{this}}"></script>{{/assets.collection.default.js}}
     {{#assets.collection.photos.js}}{{#if this}}<script src="{{this}}"></script>{{/if}}{{/assets.collection.photos.js}}
     <script>
       var photopage=angular.module('photopage', [], function($interpolateProvider) {

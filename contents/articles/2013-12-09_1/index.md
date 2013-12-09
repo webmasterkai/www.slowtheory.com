@@ -1,0 +1,21 @@
+---
+title: Winter suddenly arrived
+date: 2013-12-09 08:01:43
+template: post.html
+photo: http://slowtheory.openphoto.me.s3.amazonaws.com/custom/201312/2013-12-07-08.30.16-70ab9c_350x250xCR.jpg
+post_class: ' img_centered'
+---
+
+Winter dramatically emerged in the past week, first with snow, and then with temperatures that plunged to the double digits below zero. While the thinking being that understands and expects such things was nodding in agreement, the emotional self grappled with the loss of something very important--the ability to run in shorts through December. By Friday I had freed myself from the paralyzing shackles of unrealistic expectation, and enjoyed my first sub-zero run of the season with 12 other folks at [Mill City Running](http://www.millcityrunning.com). The photos below was collected by Bekah and posted on the Mill City Running twitter page:
+
+![Mill City Friday Flapjack](http://slowtheory.openphoto.me.s3.amazonaws.com/custom/201312/millcity-7b5e02_600x600.jpg)
+
+Saturday it was even colder. I planned on taking the bus to Theodore Wirth, where I would meet Bunda, Jason, and Todd for a ten mile run on trails. The day started poorly when the bus was twenty minutes late. I was cold, irritated, and unsure of how I'd make my transfer in time. I decided that if I missed the second bus, I would just run west on Glenwood. It would only add an extra mile of running, as the closest relevant bus route to the Beach House was one mile. However, I quickly realized that my public transportation woes were far from over. The bus meandered around the U of M campus, with the masses quickly descending into an irate fervor about the detour that had apparently started just that morning and had not yet *clicked* with our driver.
+
+When we arrived downtown, we found another obstacle. Construction on Washington meant another detour. Someone from the construction site boarded the bus and explained to the driver how to explain to the riders that we wouldn't be going to our normal stops. It seemed sketchy, so I got off and surveyed my situation. I had eighteen minutes to get four miles, I was hungry, had grown cold, and was now certain that I would not have reliable transportation back home. Waiting outside for an extra twenty minutes for a bus that didn't follow its route was annoying at the beginning of the day, but at the end of the day--sweaty and cold from running--it could have been much worse. I found a building with an open door where I could momentarily take shelter, and texted the news: *Sorry friends, all signs point to today being a disaster, so I'm running home.* I settled into a nice, slow rhythm on the way home, but my spirits were too low to do anything beyond the required four miles to reach my destination.
+
+![-7F](http://slowtheory.openphoto.me.s3.amazonaws.com/custom/201312/2013-12-07-08.30.16-70ab9c_450x450.jpg)
+
+Sunday I wanted to make up for my poor showing on Saturday by sneaking in a long run. Temperatures were slightly warmer, I was feeling rested, and the light snowfall was aesthetically charming. Bunda and the Running Room crew were planning on running 9-12, so I decided to bookend the day with runs to and from Uptown. I felt great when I reached the store. I took a couple of minutes to refuel, drink some water, and prepare for the group portion of the run. The logistics worked out well since I had a nice place to warm up. The group run went really well. Four of us went out for a longer loop, while three others did Calhoun and headed back to the store. We hit a couple lakes, ran some trails around Cedar Lake, hit some hills near the Walker, and ran back to the store via the west side of Lake of the Isles. I was getting a bit hungry by the time we reached the store, but again I took a moment to refuel before starting the run home.
+
+I thought I would feel terrible on the long, boring stretches of the Greenway, but it was pleasant. I reached Seward, crossed Franklin, and was on the home stretch up the hill. My foot was starting to bother me since I'd inexplicably opted to run in Pearl Izumi shoes rather than Hokas, but I finished the 22.3 mile day feeling strong and capable.
