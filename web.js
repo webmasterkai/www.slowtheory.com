@@ -40,6 +40,8 @@ app.get('/list', function(request, response) {
   );
 });
 
+app.use(express.logger());
+
 app.get('/photos/update', function(request, response) {
   http.get({ host: 'www.slowtheory.com', path: '/list?pageSize=5000&returnSizes=300x300xCR,1024x1024' }, function(res) {
     data = '';
@@ -55,10 +57,12 @@ app.get('/photos/update', function(request, response) {
         method: 'HEAD',
         auth: process.env.CLOUDANT_AUTH
       };
+      console.log(update);
       // Send a request updating Cloudant with our latest information
       var req = https.request(options, function(res) {
         var rev = res.headers.etag;
         var path = process.env.CLOUDANT_PATH;
+        console.log(res);
         // Add the revision if we didn't get a 404
         if (res.statusCode != 404) {
           update._rev = rev.replace(/\"/g,'');
@@ -92,8 +96,6 @@ app.get('/photos/update', function(request, response) {
   });
   response.json({status:200});
 });
-
-app.use(express.logger());
 
 // After all other routes are processed, set up our static site
 app.use(express.static(path.join(__dirname, 'build')));
