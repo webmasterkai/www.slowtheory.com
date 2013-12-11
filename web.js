@@ -10,7 +10,7 @@ var tb_consumerkey = process.env.TB_CONSUMERKEY,
     tb_tokensecret = process.env.TB_TOKENSECRET;
 var http = require('http');
 var https = require('https');
-
+var request = require('request');
 app.use(express.compress());
 app.set('json spaces',0);
 
@@ -42,6 +42,11 @@ app.get('/list', function(request, response) {
 
 app.use(express.logger());
 
+app.get('/photos/all', function(req,res) {
+  var newurl = 'http://c.slowtheory/www/photos' ;
+  request(newurl).pipe(res);
+});
+
 app.get('/photos/update', function(request, response) {
   var oauth = new OAuth.OAuth(
     null,
@@ -52,8 +57,6 @@ app.get('/photos/update', function(request, response) {
     null,
     'HMAC-SHA1'
   );
-
-  // var q = querystring.stringify(request.query);
 
   oauth.get(
     'https://slowtheory.trovebox.com/photos/list.json?returnSizes=300x300xCR,1024x1024&pageSize=5000',
