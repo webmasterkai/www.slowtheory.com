@@ -42,62 +42,6 @@ app.get('/list', function(request, response) {
 
 app.use(express.logger());
 
-app.get('/photos/update', function(request, response) {
-  http.get({ host: 'www.slowtheory.com', path: '/list?pageSize=5000&returnSizes=300x300xCR,1024x1024' }, function(res) {
-    data = '';
-    res.on('data', function(chunk) {
-      data += chunk.toString()
-    });
-    res.on('end', function() {
-      console.log(data);
-      var update = JSON.parse(data);
-      var options = {
-        hostname: process.env.CLOUDANT_URL,
-        port: 443,
-        path: '/www/photos',
-        method: 'HEAD',
-        auth: process.env.CLOUDANT_AUTH
-      };
-      console.log(update);
-      // Send a request updating Cloudant with our latest information
-      var req = https.request(options, function(res) {
-        var rev = res.headers.etag;
-        var path = process.env.CLOUDANT_PATH;
-        console.log(res);
-        // Add the revision if we didn't get a 404
-        if (res.statusCode != 404) {
-          update._rev = rev.replace(/\"/g,'');
-          path = path + "?rev=" + rev.replace(/\"/g,'');
-        }
-        res.on('data', function(d) {
-          process.stdout.write(d);
-        });
-        // Tell cloudant about our new files
-        var updateoptions = {
-          hostname: process.env.CLOUDANT_URL,
-          port: 443,
-          path: '/www/photos',
-          method: 'PUT',
-          headers: { 
-                      'Content-Type':'application/json', 
-                      'Content-Length':JSON.stringify(update).length 
-                   },
-          auth: process.env.CLOUDANT_AUTH
-        }
-        var updatereq = https.request(updateoptions, function(res) {
-          res.on('data', function (chunk) {
-            console.log('BODY: ' + chunk);
-          });
-        });
-        updatereq.write(JSON.stringify(update));
-        updatereq.end();
-      });
-      req.end();
-    });
-  });
-  response.json({status:200});
-});
-
 // After all other routes are processed, set up our static site
 app.use(express.static(path.join(__dirname, 'build')));
 
