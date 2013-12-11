@@ -56,7 +56,7 @@ app.get('/photos/update', function(request, response) {
   // var q = querystring.stringify(request.query);
 
   oauth.get(
-    'https://slowtheory.trovebox.com/photos/list.json?returnSizes=300x300xCR',
+    'https://slowtheory.trovebox.com/photos/list.json?returnSizes=300x300xCR,1024x1024&pageSize=5000',
     tb_token, 
     tb_tokensecret, 
     function (e, data, res){
