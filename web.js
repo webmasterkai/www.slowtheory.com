@@ -53,10 +53,10 @@ app.get('/photos/update', function(request, response) {
     'HMAC-SHA1'
   );
 
-  var q = querystring.stringify(request.query);
+  // var q = querystring.stringify(request.query);
 
   oauth.get(
-    'https://slowtheory.trovebox.com/photos/list.json?' + q,
+    'https://slowtheory.trovebox.com/photos/list.json?returnSizes=300x300xCR',
     tb_token, 
     tb_tokensecret, 
     function (e, data, res){
@@ -70,12 +70,11 @@ app.get('/photos/update', function(request, response) {
         auth: process.env.CLOUDANT_AUTH
       };
       // Send a request updating Cloudant with our latest information
-      var req = https.request(options, function(res) {
-        var rev = res.headers.etag;
+      var req = https.request(options, function(rs) {
+        var rev = rs.headers.etag;
         // Add the revision if we didn't get a 404
-        if (res.statusCode != 404) { update._rev = rev.replace(/\"/g,''); }
-        console.log(update);
-        res.on('data', function(d) { process.stdout.write(d); });
+        if (rs.statusCode != 404) { update._rev = rev.replace(/\"/g,''); }
+        rs.on('data', function(d) { process.stdout.write(d); });
         // Tell cloudant about our new files
         var updateoptions = {
           hostname: process.env.CLOUDANT_URL,
@@ -88,14 +87,15 @@ app.get('/photos/update', function(request, response) {
                    },
           auth: process.env.CLOUDANT_AUTH
         }
-        var updatereq = https.request(updateoptions, function(res) {
-          res.on('data', function (chunk) {
-            console.log('BODY: ' + chunk);
+        var updatereq = https.request(updateoptions, function(r) {
+          r.on('data', function (chunk) {
+            //console.log('BODY: ' + chunk);
           });
         });
         updatereq.write(JSON.stringify(update));
         updatereq.end();
       });
+      req.end();
       response.setHeader('Access-Control-Allow-Origin', '*');
       response.json(JSON.parse(data));
     }
