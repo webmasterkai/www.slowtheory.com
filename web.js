@@ -49,6 +49,7 @@ app.get('/photos/update', function(request, response) {
       data += chunk.toString()
     });
     res.on('end', function() {
+      console.log(data);
       var update = JSON.parse(data);
       var options = {
         hostname: process.env.CLOUDANT_URL,
