@@ -8,6 +8,8 @@ var tb_consumerkey = process.env.TB_CONSUMERKEY,
     tb_consumersecret = process.env.TB_CONSUMERSECRET,
     tb_token = process.env.TB_TOKEN,
     tb_tokensecret = process.env.TB_TOKENSECRET;
+var http = require('http');
+var https = require('https');
 
 app.use(express.compress());
 app.set('json spaces',0);
