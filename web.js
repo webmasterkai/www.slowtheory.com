@@ -43,7 +43,7 @@ app.get('/list', function(request, response) {
 app.use(express.logger());
 
 app.get('/photos/all', function(req,res) {
-  var newurl = 'http://slowtheory.cloudant.com/www/photos' ;
+  var newurl = 'http://slowtheory.cloudant.com/www/photos';
   request(newurl).pipe(res);
 });
 
